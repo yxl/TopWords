@@ -1,0 +1,67 @@
+Subject: Android and mobile browsing insights – Week 31
+From: Irina Sandu <isandu@mozilla.com>
+Date: 08/09/2012 12:09 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+    Gingerbread still main Android version in market, Jelly Bean at 0.8%
+    Developer policy on Android changed to reduce spam
+    Privacy Policy field for apps introduced in Google Play Store
+    Preloaded YouTube app removed from iOS 6
+    Samsung maintains spot as top handset and smartphone vendor by shipments
+    More than 200 million people are using Opera Mini and Mobile
+    Dual-core processors to reach entry-level smartphone market early 2013
+    Perception of privacy on mobile far from reality, according to University of California study
+    iPads accounted for 73% of tablet sales in China in Q2
+
+
+
+
+New Android version distribution stats from Google put Gingerbread at 61% of the market, Ice Cream Sandwich at 16%, Froyo at 15%, Eclair at 4%, Honeycomb at 2% and Jelly Bean at 0.8%.
+
+
+Google has reviewed the developer policy for Android to reduce spam and restrict conditions for in-app ad delivery. The changes limit the amount and manner in which ads can be shown, particularly in the notification tray and forbid the impersonation of system warnings. The application that sent the notifications needs to be easily identifiable to the user.
+
+
+Another recent modification to the Play store is the introduction of a Privacy Policy field for each app, under the Developer Webpage information. This field is not mandatory, but it allows developers to free up some space from the Description section, where they would typically add links to their Privacy Policy.
+
+
+After doing so with the Maps application, Apple has decided to remove the YouTube app as a preloaded function for iOS6. Google is making available a YouTube client in the App Store, to be downloaded by users at will.  This move has been interpreted as a distancing by Apple from its main mobile competitor and the cut off of a revenue source for Google and it is not clear whether Apple will provide another preloaded video platform or not. This also gives control to Google over the YouTube experience on iOS, as the default one has been built by Apple.
+
+
+Q2 results from Strategy Analytics show Samsung to be maintaining its position as top handset manufacturer by shipments, both in the smartphone as well as the overall phone market, having sent 26% (93 million) of all devices and 35% (50 million) of smartphones. Nokia is the second biggest mobile device manufacturer (23% and 84 million) and the third largest smartphone manufacturer (7% and 10 million), with Apple on the 3rd spot in the overall phone market (7% and 26 million) and second in the smartphone segment (18% and 26 million).
+
+
+Opera published the June version of its State of the Mobile Web report which states that there are more than 200 million people using its mobile browsers, 17 million of which are on Opera Mobile and the rest on Opera Mini. Opera Mini users viewed over 115 billion pages in June 2011, which amounts to over 600 page views per month and 20 per day per user. The rest of the report focuses on Africa and includes data on mobile penetration, top 10 visited domains and top 10 handsets used. You can download the report here:
+
+
+Opera partnered with Etisalat to offer a co-branded version of the Opera Mini browser to 13 million people in Nigeria. The app comes in 2 flavors - sport and social.
+
+
+Opera conducted a study on 6,000 people in Brazil on mobile Internet usage. Findings include:
+
+    79% of participants use mobile devices to go online and most commonly update social networks, download content, watch videos and search the web
+
+    Opera Mini is the most popular mobile browser, with almost 34% of the market, according to StatCounter
+
+    Almost 30% of users don't have internet access at home and 24% go to internet cafes
+
+    78% of mobile internet users browser the mobile web with feature phones
+
+    59% like to access social networks, 57% like to download content, 36% search and 32% watch videos
+
+
+Dual-core processors accounted for 20% of smartphones shipped in 2011, 60% of which were produced by Samsung, followed by Qualcomm with 16%, Texas Instruments and NVIDIA. Samsung's position can be attributed to sales of the iPhone and its Galaxy S series. It is expected that dual-core application processor penetration will increase in 2012 and 2013 and the the ARM Cortex-A5 will help dual-core penetrate entry-level smartphones at the start of 2013, according to Strategy Analytics.
+
+
+A study conducted by the University of California suggests that there is a significant disconnect between many people's perception of the security and privacy of data on their phones and reality. People declared that they don't like to have their information stored on the devices accessed and that they believe that their phone is as private as their personal computer. Four-fifths of respondents said that they definitely or probably wouldn't let apps collect their contacts lists and that would not permit phones to serve location-based ads, but these are practices that have been encountered in the industry.
+
+
+The iPad accounted for 73% of tablet sales in China in Q2 of 2012, according to research firm Analysys International. Apple is followed by Lenovo, eBen eRen, Samsung, Acer, Asus, Teclast, Aiguo and Motorola.
+
+Irina
+

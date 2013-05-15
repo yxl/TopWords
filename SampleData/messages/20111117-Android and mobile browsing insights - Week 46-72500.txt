@@ -1,0 +1,70 @@
+Subject: Android and mobile browsing insights - Week 46
+From: Irina Sandu <isandu@mozilla.com>
+Date: 11/17/2011 07:55 PM
+To: mobile-insights@mozilla.com
+
+Hello from Kuala Lumpur,
+
+
+Summary this week:
+
+* Google announced 200 million Android device activations and released the Ice Cream Sandwich source code
+
+* The Kindle Fire began shipping and was welcomed by mixed reviews
+
+* The Dolphin browsers reached 10 million users on Android and iOS and released Dolphin Connect for iOS
+
+* Opera Mini to come on HUMAX set-top boxes sold in the Middle East
+
+* Nokia plans Windows 8 tablet by June 2012
+
+* NFC technology coming to SIM cards everywhere
+
+* South Korea is second only to the US in terms of app downloads from the Android Market
+
+
+----------------
+
+
+Google announced that it reached 200 million Android device activations, up from 100 million 6 months ago. The upcoming holiday season is likely to accelerate the platforms's growth and to put the number of Android devices sold at 250 million. Google's OS ended Q3 with a 48% marketshare   of smartphone shipments.
+
+
+
+Google released the source code for Ice Cream Sandwich. The release also contains the Honeycomb code, but Google advises away from deploying it, in favour of the newer version. A new Android NDK, revision 7, was also launched.
+
+
+
+Amazon started shipping the Kindle Fire to consumers a day earlier than announced, as rumours about the company's next tablet, supposedly called the Kindle Ice, have surfaced. The Fire's early reviews are mixed and while they appreciate the device's smooth hardware finish and low price, they do not perceive considerable differentiation from its closest competitors, the Samsung Galaxy Tab 7 plus and the upcoming B&N Nook tablet. The Silk browser is being reviewed as offering a decent browsing experience, however not one that is impressive, as it can lag at zooming and scrolling. 
+
+
+
+Mobotap, the company behind the Dolphin browsers, announced that it reached 10 million users on Android and iOS. The same day, Dolphin Connect, the service allowing for bookmarks synchronization between browser instances, has been released for iOS.
+
+
+
+Opera announced a partnership with HUMAX, a set-top box producer, to include the Opera Mini browser in TV boxes sold in the Middle East. 
+
+
+
+Nokia stated to be working on a Windows 8 tablet, which is planned for release by June next year. Samsung also announced similar plans last week, but for the second half of 2012.
+
+
+
+NFC technology has accelerated its path to being present in all mobile devices, as 45 of the world's largest carriers have pledged support for GSMA's standard for integration of NFC directly into SIM cards. 
+
+
+
+After word about Nvidia's Tegra 3 series was out, Qualcomm also announced its Snapdragon S4, quad-core class of mobile processors. The new chips will be available in devices beginning with next year.
+
+
+
+South Korea is second only to the US in terms of app downloads from the Android Market, a new report by research2guidance reveals. The Asia country and home of Samsung, the biggest Android device manufacturer, is followed by the UK, Germany, France and Japan. For more insights, download the full report.
+
+
+Irina
+
+
+
+
+
+

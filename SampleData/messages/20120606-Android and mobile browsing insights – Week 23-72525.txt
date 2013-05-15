@@ -1,0 +1,81 @@
+Subject: Android and mobile browsing insights – Week 23
+From: Irina Sandu <isandu@mozilla.com>
+Date: 06/06/2012 11:30 PM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week in mobile:
+
+    Opera announced it reached 189.6 million mobile users, a new version of Opera Mini for basic phones and a partnership with America Movil and one with Bharti Airtel
+    65% of all Androids run Gingerbread, 19% Froyo and 7% Ice Cream Sandwich
+    The hardware section of the Play Store expansing with accessories
+    Researchers found security flaws in Google Bouncer
+    HTC and Sony partnered to augment their mobile offerings
+    First Android device on x86 architecture available in Europe
+    Samsung Galaxy S III landing in market, Galaxy Note 2 rumoured to launch in October
+    Asus, Acer and Toshiba to be among Windows 8 tablet manufacturers
+    Video of Tizen on Samsung reference device available
+    By 2015 smartphones will account for 75% of new phones sold
+
+
+
+Opera had a full week of announcements:
+
+    it released Opera Mini 7 for basic / feature phones, which includes Smart Page, a one-page summary of news from Facebook and Twitter feeds, the ability to add feeds from favourite news sites
+    it released the April edition of its State of the Mobile Web report, which now puts the number of Opera Mini and Mobile users at 189.6 million, a number which grew by 47.8% compared to last year and which is comprised of 17 million Opera Mobile and the rest 172.6 million Opera Mini users. Other information states that India became the top country as ranked by number of Mini users, followed by Russia, Indonesia, Nigeria, Ukraine, Vietnam, China, Mexico, South Africa, and Brazil. 
+    it announced a partnership with America Movil, the world’s third-largest mobile network operator, under which a co-branded version of the Opera Mini mobile browser will be offered to more than 242 million carrier customers in 18 countries. 
+    it announced a partnership with Bharti Airtel to offer a customized and co-branded version of Opera Mini to over 253 million of the carrier customers in 20 countries across Asia and Africa. 
+
+
+With the addition of the latest partnerships, Opera Software has reached agreements with 13 out of the top 30 mobile network operators globally. 
+
+
+
+The latest Android version platform distribution stats put Gingerbread (v2.3 - API levels 9 and 10) at 65% of worldwide Android install base, followed by Froyo (v2.2 - API level 8) at 19.1%, and by Ice Cream Sandwich (v4 - API levels 14 and 15) at 7.1%. Versions prior to Eclair (v2.1 - API level 7) are close to extinction, accounting together for less than 1%. 
+
+
+
+Google added more hardware offering to its Devices section of the Play Store, which include accessories for the Galaxy Nexus. 
+
+
+
+Researchers have posted a video proving their ability to bypass Google Bouncer, the cloud-based service that Google uses to scan applications submitted to the Play Store for malware. The researchers are in contact with the Google team and will be working with them to address some of the vulnerabilities they discovered. 
+
+
+
+The second biggest Android phone manufacturer, HTC, and Sony, who also produces devices with Google’s operating system, have entered into a partnership that brings closer HTC’s devices and Sony’s Playstation offering. The agreement is part of HTC’s on-going commitment to provide a series of differentiation elements for their devices series, recently rebranded to One, and of Sony’s strategy of optimizing their PlayStation offering for the mobile industry, which has been renamed to PlayStation Mobile.
+
+
+
+The first Android device based on Intel’s x86 architecture available in Europe will arrive on the 6th of June and be sold by Orange in the UK. The model is similar to the Xolo X900 model released in India in April and it is based on the Atom Z2460 processor of the Medfield series, which will run single-core at 1.6GHz and is accompanied by a 400 MHz PowerVR SGX 540 GPU. The Android version is Gingerbread. 
+
+
+
+The Samsung Galaxy S III, the next iteration of one of the most successful Android device series, is in the process of being rolled-out to carriers and hardware stores across the world, covering Asia, Europe, North America and Australia. Following the success of the first Galaxy Note series, Samsung is also rumoured to launch a version 2 in October this year. 
+
+
+
+The Windows 8 tablet segment prospects are beginning to take shape with a series of producers announcing they will be loading some of their hardware with Microsoft’s operating system. Asus, Acer, and Toshiba are expected to unveil models next week, with Asus switching to Windows 8 from Android for its line of Transformer tablets, which will feature 11.6, 13 and 14-inch screens powered by a range of Core i3, i5 and i7 processors. 
+
+
+
+Samsung offered reference devices to Tizen developers to test their latest version on hardware featuring dual-core 1.2 GHz Cortex A9 Exynos CPU, 1 GB of RAM on a 4.6 inch Super AMOLED PLUS screens. Here you can see a video of how the operating system behaves on the reference devices. 
+
+
+
+Mobile analyst Tomi Ahonen produced a list of up-coming milestones of the mobile industry, which includes that:
+
+    2013 will be the first year that smartphone sales will pass 1 billion units per year, which is more than shipments of other common electronics, such asTVs, DVD players, digital cameras, PCs
+    by 2013 one third of phones will have WiFi 
+    by 2014 half of the Internet users in the world will be accessing the Web mobile-only
+    in 2015 half of mobile service revenues will be coming from data services, which presents a shift from the dominance of voice and data as sources of revenues
+    by 2015 smartphones will account for 75% of new phones sold
+
+
+
+Irina
+
+
+
+

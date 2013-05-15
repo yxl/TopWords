@@ -1,0 +1,51 @@
+Subject: Android and mobile browsing insights - Week 1
+From: Irina Sandu <isandu@mozilla.com>
+Date: 01/05/2012 01:42 AM
+To: mobile-insights@mozilla.com
+
+Happy new year,
+
+
+This week in mobile:
+
+* There are 700,000 Android devices activated every day
+* Inclusion of the Holo theme made a requirement for Android v.4 or later
+* Mobile devices moved to the top of the most wanted list this holiday season
+* Android devices dominate the top of most searched-for phones in China
+* Intel unveiled a prototype for smartphone hardware based of its Medfield chips
+* 100 million tablets to be sold worldwide in 2012
+* The Nokia Ace, also called the Nokia Lumia 900, rumoured to launch in the US in March
+
+----------
+
+
+There are now over 700,000 Android devices activated every day, revealed Andy Rubin, VP of Mobile at Google, on G+. The number is up from 550,000 new device activations announced in November. Andy Rubin also announced that there were 3.7 million Android devices activated on  the 24th and 25th of December, more than double the rate on an average, non-holiday, day. 
+
+
+
+Google made the inclusion of the Holo theme a requirement for official Android devices using version 4 or older, in order to  provide a common design target for app developers, who can call the theme files from the framework included on the phones. This development does not restrict OEM customization of phone designs, such as the HTC Sense or the Samsung TouchWiz, but it shows guidelines for what design patterns app developers can use. 
+
+
+
+Mobile devices have been among the top seller technology products for 2011's gift-giving season, with tablets and e-readers moving up on the most wanted list, compared to last year. When consumers were asked what devices they intend to purchase during the holiday season, the second most popular category were tablets, followed by mobile phones and e-readers, on the fourth place. Analytics firm Flurry estimated that 6.8 million iOS and Android devices were activated on the 25th of December, when 242 million applications were downloaded. For the entire holiday week, there were 20 million iOS and Android devices activated and 1.2 billion apps downloaded.  
+
+
+
+Android tops consumer preferences in China when it comes to smartphones, as measured by most popular Internet searches. The first place is held by the Xiaomi M1 device, a dual-core, Android phone which stands out by its very affordable price. On the second place there is the Nokia N8, powered by Symbian, and on the 3rd place the iPhone 4, which is not on sale officially in China. Place 4 is held by the HTC Sensation XE, followed by the Nokia N9 and 5 other Android phones: Samsung Galaxy S II, HTC Wildfire S, Motorola Defy, Meizu MX and Lenovo A60. 
+
+
+
+Intel unveiled a prototype for smartphone hardware that runs on the company's  Medfield mobile chip. The chips are optimized for Ice Cream Sandwich and are designed for both smartphones and tablets. 
+
+
+
+Out of a total of 100 million tablets expected to be sold in 2012, analysts predict the Asia-Pacific region to get the most, with 39 million units sold over the year, followed by Europe (26 million) and the US, with 25 million. 
+
+
+
+The Nokia Ace, the higher-end 900 model in the Lumia series, is rumoured to launch in the US on the 18th of March from AT&T. The device will have a 4.3-inch WVGA display and 512 MB of RAM. 
+
+
+
+Irina
+

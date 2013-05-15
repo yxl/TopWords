@@ -1,0 +1,46 @@
+Subject: Android and mobile browsing insights – Week 2
+From: Irina Sandu <isandu@mozilla.com>
+Date: 01/24/2013 02:56 AM
+To: mobile-insights@mozilla.com, mobile-frontend@mozilla.org, mobile-platform@mozilla.org
+
+Hello,
+
+
+Trying out a new format that adds a line on why the news is relevant to us. Let me know if this is better.
+
+
+
+In Google's Q4 2012 earnings report Larry Page talked about the current issues of "managing supply" of hardware (meaning the problems with LG not being able to deliver as many Nexus 4 devices as are ordered) and of Motorola's opportunities for innovation. He mentioned battery life and durability as possible areas of focus. Page mentioned that at the moment of acquisition Motorola had a 12 - 18 months product pipeline that Google still needs to deliver on.
+
+
+Important because: it tells Android OEMs that they still have 6 - 12 months when Motorola will still produce largely undifferentiated devices, but that after that they can expect significant competition. This is very problematic for the OEMs, because of the unfair advantage of competition from the Android in - house hardware provider and thus increases market demand for a neutral alternative to Android. 
+
+
+
+
+Opera announced Opera Ice, a Webkit-based browser for Android and iOS, to be launched in February. Opera Ice will probably replace Opera Mobile for its 20 million users. Its main value proposition is a more intuitive, human user interface that ditches menus and focuses on gestures and prioritizes common language to communicate to the user. (Opera Mini, the proxy-browsing version with 200 million users will remain available.) 
+
+Important because: With Opera moving away from using their own rendering engine on client on mobile, this leaves Mozilla as the only important market player on Android to have a different engine on client than Webkit and makes our web compatibility effort harder. The only other engine on mobile / touch is IE’s, but that one still has a long road ahead before becoming significant in market. 
+
+
+
+
+Huawei will release a mid - end Android device in Germany. The Ascend G615 is rumoured to be available next month and has a quad - core processor, 1 GB of RAM and run on Ice Cream Sandwich, with a possible upgrade to Jelly Bean. It will be sold exclusively through online retailers.
+
+Important because It confirms the advance of Chinese OEMs into the Western markets and proves Huawei still needs to invest in building its brand before it can be bundled by carriers in the region. 
+
+
+
+
+Deloitte issued a report claiming that average modern smartphones (Android, iPhones or Windows Phones) generate 35 times more data traffic that a typical cellphone. This data surge will produce a 50 fold increase of wireless traffic by 2016 and will intensify the congestion of operator networks, especially in urban areas in developed economies. 
+
+
+Important because: To avoid degradation of customer experience, network operators will continue to invest in technologies to offload some of the connectivity burden to landlines, through WiFi, Femtocell, or WiMax. This points to convergence of the mobile and landline / desktop markets, not just at the device (tablets), but also at the connectivity level. 
+
+
+Irina
+
+
+
+
+

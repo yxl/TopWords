@@ -1,0 +1,28 @@
+Subject: Android and mobile browsing insights – Week 46
+From: Irina Sandu <isandu@mozilla.com>
+Date: 11/29/2012 12:09 AM
+To: mobile-insights@mozilla.com, mobile-frontend@mozilla.org, mobile-platform@mozilla.org, products@mozilla.com
+
+Hello,
+
+
+This week's update is about the opportunities and sources of innovation present in emerging economies for the mobile industry due to the under-development of infrastructure, about Nokia, who is taking more steps to optimize their Asha series to the needs of users in the emerging markets and about network operators in Spain taking seriously the thread of Over The Top services to traditional telecommunications and are launching the RCS suite under the Joyn brand nation-wide. 
+
+
+
+TechCrunch published a report on the ecosystem that is thriving in Africa around mobile money and payments, spear-headed by the most famous case study of M-Pesa, a service that handles up to a third of Kenya's GDP. M-Pesa is an offering of the Safaricom network operator, that is part of the Vodafone Group. The phenomenal rise of mobile payments in developing regions is explained by the under-development of infrastructure and the mobile phone's ability to take over those functions. Banking is one area that is being transformed by mobile, but not the only one. Health care and medical services are also benefiting tremendously from using mobile devices, particularly in hard to reach areas, as well as the practice of agriculture. These developments in the emerging markets need not be seen as local ones, but as a source of innovation that will touch the developed world as well, like in this example from Switzerland. They mean that in order to  meaningfully engage with the population in the emerging markets, one needs to adapt its solutions, which in turn can offer an innovation advantage to take to the more developed markets. And the example of M-Pesa, which is a SIM-based application, shows that network operators can still play an important role in shaping the mobile revolution together with operating system vendors.
+
+
+Nokia Asha, the device family aimed at the next billion consumers in emerging markets, gets a hardware Facebook button for 2 of its models, the Asha 205, in simple and the dual-SIM versions. The development is a joint collaboration between Facebook and Nokia, who recognize the importance of social media in the emerging markets. On smart-light devices such as the these S40 Series-based models the services that are integrated by default tend to get more usage and engagement from users that they would typically get on modern smartphone environments such as Android and iOS. This is due partly to the relative scarcity and high costs of bandwidth, GSM or WiFi, in these regions, that limit the user propensity to download a variety of other services. Nokia has also built a feature called Slam in its Asha models that allows for content transfer from one phone to the other through the Bluetooth protocol. This is also a reflection of the unique market conditions in developing economies   in terms of bandwidth availability. The S40 Series platform, that the Asha series is based on, has 675 million users currently, most of which are older devices, as only 6.5 million of them have been bought in the last quarter and the number is trending down.
+
+
+Mobile operators in Spain have announced the nation-wide launch of Rich Communication Services under the Joyn brand. This enables users to chat and enrich messaging or voice calls by exchanging images or video simultaneously during calls. It is initially offered through Android apps, with a version on iOs to follow. Additional functions such as VoIP are planned, as well and the first devices with the application already embedded will hit the market at the beginning of 2013. This development is the result of operators seeing diminishing usage and returns from traditional telecommunications services that the smartphone disruption placed upon them and developing solutions to compete with the Over The Top service providers. The Spanish operators behind this announcement: Telefonica, Orange and Vodafone are among the early-adopters of this trend, together with Deutsche Telekom and MetroPCs, who have also adopted Joyn.
+
+
+Following the US Congressional report on the safety of equipment produced by Huawei and ZTE, the Indian government is also expected to announce soon whether or not it will open investigations into the two Chinese companies.
+
+
+
+Irina
+
+

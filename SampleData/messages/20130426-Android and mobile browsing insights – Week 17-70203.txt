@@ -1,0 +1,36 @@
+Subject: Android and mobile browsing insights – Week 17
+From: Irina Sandu <isandu@mozilla.com>
+Date: 04/26/2013 03:10 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+
+Highlights from the mobile world:
+
+
+Nokia unveiled the Asha 210, a Series 40 device with a QWERTY keyboard and a dedicated WhatsApp button. It will be available in the Middle East, Asia - Pacific and Africa. The same phone, but with a Facebook hardware button will be launched in Latin America and Europe. The WhatsApp service for the Nokia devices will be free for the lifetime of the phone, instead of the 1 year for regular users. Another special feature is the EasySwap technology, which allows users to switch between multiple SIM cards through a door on the side of the device.
+
+Important because WhatsApp is a communications app that is rising fast in popularity and together with Skype and Facebook it replaces traditional voice and SMS usage, thus accelerating the downward trend of operator's main revenue source. 
+
+
+
+Sales of Nokia Asha devices fell by 46% in Q1 of 2013 compared to the same period in 2012. Overall, the company sold 32% fewer smartphones over the same time frame. Nokia Lumia devices rose from 4.4 million in Q1 of 2012 to 5.6 million first quarter of 2013. 
+
+
+
+Microsoft has reached yet another agreement with a major smartphone OEM, this time ZTE, over mobile patents used in Android. ZTE is the 4th largest mobile phone producer. With this deal in place, 80% of Android phones sold in the US have taken a license to patents owned by Microsoft. The only major OEM fighting Microsoft over these issues in court is Google's Motorola.
+
+
+
+Apple announced its yearly WorldWide Developer Conference to take place on June 10 - 14. Tickets will only be available to members of its Developer Program. A new version of iOS and / or of the iPhone is expected to be unveiled.
+
+
+
+Worldwide device shipments (including notebooks, PCs, tablets and phones) to grow from 2.2 billion in 2012 to 2.5 billion in 2014 and 2.9 billion in 2017, according to Gartner. Split by operating systems, Android will get the most volume, with 497 million (22%) in 2012, 860 million (35%) in 2013 and 1069 million (41%) in 2014. Windows will follow, with 346 million (15%) in 2012, 345 million (14%) in 2013, 397 million (15%) in 2014. iOS and Mac OS will be third, growing from 212 million shipments (9%) in 2012 to 359 million (14%) in 2014. The Others category is shrinking, going from 1122 million (50%) in 2012 to 702 million (27%) in 2014. 
+
+
+
+Irina
+
+

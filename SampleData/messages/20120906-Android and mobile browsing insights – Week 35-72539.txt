@@ -1,0 +1,48 @@
+Subject: Android and mobile browsing insights – Week 35
+From: Irina Sandu <isandu@mozilla.com>
+Date: 09/06/2012 12:55 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile. 
+
+
+    New hardware launches expected: Apple, Amazon, Windows 8
+    China to become the largest smartphone market by shipments in 2012
+    The Dolphin browser rumoured to be receiving second round of funding
+    Baidu launched an Android browser
+    Facebook, Google and Youtube the most popular mobile websites across Asia Pacific
+    Android top operating system in SE Asia except for Indonesia, Thailand and the Philippines
+
+
+
+
+A series of launches are expected in the coming weeks, including the rumoured next version of the iPhone, new devices from Amazon and announcements on first Windows 8 devices. 
+
+
+IDC forecasts China to become the largest market for smartphones in 2012 as it overtakes the US as the global leader. The market data firm estimates the Asian country to account for 26.5% of smartphone shipments for the year, more than the 17.8% of the US. Indian is expected to take the third place, followed by Brazil and the UK. The most of the growth comes from the sub-US$200 Android segment, as more people transfer from feature phones to entry-level smartphones.
+
+
+
+Mobotap, the company behind the Dolphin browser, is rumoured to be on course for a second major round of funding, stated to be as high as "tens of millions of dollars". The first round for the organization took place in July of 2011 and raised $10 million. Rumours say that Qualcomm might be leading this round.
+
+
+Baidu launched an Android browser called Baidu Explorer, in Chinese and English. At launch, it stood out with its impressive HTML5 test result of 482 out of 500 in addition to good scores for Javascript benchmarks. The browser claims to run on a T5 engine, which is likely based on Webkit. Other features include multi-task rendering, Chinese-language voice search and location-based services.
+
+
+Opera published the July edition of its State of the Mobile Web report, which features surfing habits in the Asia Pacific area. Insights include:
+
+    Facebook is the top social media site with first placement in 16 of the 25 countries
+    Most popular websites in the region are Facebook, Google and Youtube
+    Only China and Japan have in their top 3 websites one that is different than the ones above
+
+You can download the full report here
+
+
+Ericsson Consumer Lad published a report on mobile operating systems in countries in Southeast Asia. Android is the overall leader with 31% of users and the top position in Singapore, Australia, Malaysia, New Zeeland and Vietnam. iOS has most users in Indonesia and Thailand and Symbian is the strongest in the Philippines.
+
+Irina
+
+

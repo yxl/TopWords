@@ -1,0 +1,58 @@
+Subject: Android and mobile browsing insights – Week 17
+From: Irina Sandu <isandu@mozilla.com>
+Date: 04/26/2012 02:23 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week in mobile:
+
+    Chrome for Android to come out of beta
+    Opera to implement WebKit prefixes
+    Google / Oracle trial on IP in the Android code on-going
+    Google started selling hardware in the Play store
+    Browser for the S40 series to feature proxy-browsing
+    Apple released Q1 sales results
+    760 million forecasted tablet install base for 2016
+    Facebook Android app to feature app discovery channels
+
+
+Chrome for Android is expected to get out of beta in "a matter of weeks", according to Google SVP of Chrome and Apps, Sundar Pichai. Product strategy is catered towards tablets and phones with large screens. The Google executive mentioned that the browser's speed, tab management and sync features were the best received. Planned improvements are for the ability to view desktop sites and do full screen browsing. Google is going to battle the lack of Flash support by pushing HTML5 adoption.
+
+
+
+Opera confirmed that it will implement WebKit prefixes, in order to combat a perceived WebKit monoculture in the mobile market. The changes will first appear as an experimental build of the Opera Mobile Emulator, soon to be released on dev.opera.com. They will be implemented in Opera Core, thus affecting both mobile and desktop versions of the browser. http://www.netmagazine.com/news/opera-confirms-webkit-prefix-usage-121923
+
+
+The matter of copyrighting programming languages and their related APIs is being discussed this week as part of the Oracle / Google trial in the US District Court of San Francisco. The litigation is brought on by Oracle, who accuses Google of violating Java copyrights and patents as part of the Android source code and seeks tens of millions of dollars in damages plus future royalties from Android revenue. Hearings revealed that when negociations over a potential partnership between Google and Sun failed, Google reverted to developing a "clean room implementation" of the JAVA language and APIs, that became the Dalvik VM. The trial is expected to last 8 weeks and is considered to have the potential to affect the Android ecosystem.
+
+
+
+
+Google started selling hardware through the Google Play store. The first device featured is the Galaxy Nexus, which is being sold unlocked and only available in the US. The news feeds into rumours that Google is planning to offer co-branded devices, particularly in the tablet area.
+
+
+
+The default browser for the newly-launched Nokia Asha series has been updated to feature cloud-based compression, a mechanism for display websites also used by Opera Mini. The browser, which claims to compress data up to 90% and increase page load time by up to 3 times, is part of the Series 40 platform, which is sold on Nokia devices in emerging markets.
+
+
+
+Apple released its results for Q1 of 2012. The company sold 35 million iPhones, accounting for a 88% year-over-year increase and 11.8 million iPads, which made for a 151% increase compared to same time last year. The iPhone sales figure is down when compared to Q4 of 2011, when it came up to 37 million. The difference is explained by the concentration of a new version release and the holiday season in the same quarter for the previous one, which resulted to exceptionally high results for Apple's usual yearly shipment cycle.
+
+
+
+
+Yearly tablet sales will grow from 56 million in 2011 to 375 million in 2016, according to Forrester's latest report. The research firm predicts an install base of 760 million for the segment in 4 years' time, 30% of which will be owned by businesses and 40% by emerging markets. Forrester defines a tablet as "a "touch first" slab computer that weigh less than 800 grams (1.75 pounds), have a 7- to 14-inch diagonal screen area, feature always-on operation, and 8-hour battery life.".
+
+
+
+
+Facebook has updated its app for Android to include social app discovery channels to native Android apps. This feature is already present in the company's iOS application. This is part of the company's strategy to become an important distribution mechanism for developers, including mobile ones.
+
+
+Irina
+
+
+
+
+

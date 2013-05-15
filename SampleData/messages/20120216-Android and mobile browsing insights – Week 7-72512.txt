@@ -1,0 +1,76 @@
+Subject: Android and mobile browsing insights – Week 7
+From: Irina Sandu <isandu@mozilla.com>
+Date: 02/16/2012 01:10 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+* The acquisition of Motorola Mobility by Google was approved in the US and the EU
+* Google plans to test a "next generation personal communication device"
+* The Android Market was enhanced with automatic malware scanning for apps
+* Android captured 51% of smartphone sales in 2011, iOS 24% and Symbian 12%
+* Smartphones represent only 12% of total global handsets in use today, but over 82% of total global handset traffic
+* First Intel Medfield-based Motorola handset rumoured to be announced at MWC
+* Skyfire raised almost $8 million in a round of funding which was in part sponsored by Verizon
+* More details on Windows Phone 8 revealed
+* Opera partnered with India's third largest carrier
+* Dolphin browser 3.5 was released on iOS 
+
+
+--------------
+
+The FCC and the European Commission approved Google's bid to buy Motorola Mobility. The 2 governing bodies reasoned that the deal would not raise competitive issues, as Motorola is not a dominant Android smartphone producer, but they maintained that they reserve the right to investigate past or future action by Google with regard to the use of standard essential patents, which is considered the main reason for this acquisition. The merger grants Google a substantial amount of mobile essential patents, which enables the company to better protect the Android ecosystem as several Android OEMs are engaged in various patent legal battles with companies such as Apple and Oracle, in jurisdictions across the world.
+
+
+
+In related news, Google filed for FCC approval for the testing of a "next generation personal communication device", which would have WiFi and Bluetooth abilities. The devices would be evaluated for their "throughput and stability of the home WiFi networks that will support the device". Speculation connects this venture to the company's Google Fiber project, which is being set-up in Kansas City and aims to provide homes with fast Internet connections.
+
+
+
+Google released Bouncer, an automated service which scans the apps in the Android Market for potentially malicious software. This comes among increasing concerns on security and privacy in the mobile industry and the Android ecosystem, the latest of which being raised as software security firm Symantec revealed a recent malware campaign when a series of 13 different infected apps were downloaded by between 1 and 5 million Android users.
+
+
+
+There were 149 million smartphones sold last quarter and 51% (76 million) of them were Android-based, with iOS coming in second (24%), followed by Symbian (12%), BB OS (9%), Bada (2.1%) and Windows Phone 7 and Mobile (1.9%), according to Gartner. Profits-wise, Apple was the leading OEM and captured 80% of total smartphone profits, up from 56% in the third quarter, and leaving 15% to Samsung and the rest to the other players, however Apple's performance is not expected to sustain in the following quarters, and to be brought closer to Q3's results, where it had 56% of total profits. The total mobile phone sales market in Q4 of 2011 totaled 476 million units and for the whole year 1.7 billion devices. The top phone vendor for 2011 was Nokia, with 422 million devices sold, accounting for a 24% marketshare, followed by Samsung with 314 million units (18%), Apple with 89 million (5%), LG with 86 million (4.9%), ZTE with 57 million (3.2%), RIM with 52 million (2.9%) and other with 753 million and 42% marketshare.
+
+
+
+The number of mobile devices will exceed the number of people on earth for the first time by the end of 2012, a report from Cisco reveals. This confirms the trend of mobile growing towards worldwide penetration saturation, but does not mean that it was reached, because there still are large discrepancies in mobile penetration across different countries, some reaching as high as 200% and some as low as 5%. Other stats from the report include :
+
+* Smartphones represent only 12% of total global handsets in use today, but over 82% of total global handset traffic. In 2011, the typical smartphone generated 35 times more mobile data traffic (150 MB per month) than the typical basic-feature cell phone (which generated only 4.3 MB per month of mobile data traffic).
+
+* The top 1 percent of mobile data subscribers generate 24 percent of mobile data traffic, down from 35 percent 1 year ago. Mobile data traffic has evened out over the last year and now approaches the 1:20 ratio that has been true of fixed networks for several years.
+
+* Average smartphone usage nearly tripled in 2011. The average amount of traffic per smartphone in 2011 was 150 MB per month, up from 55 MB per month in 2010.
+
+* In 2011, the number of mobile-connected tablets tripled to 34 million, and each tablet generated 3.4 times more traffic than the average smartphone. In 2011, mobile data traffic per tablet was 517 MB per month, compared to 150 MB per month per smartphone.
+
+* Mobile network connection speeds will increase 9-fold by 2016. The average mobile network connection speed (189 kbps in 2011) will exceed 2.9 megabits per second (Mbps) in 2016.
+
+* Mobile-connected tablets will generate almost as much traffic in 2016 as the entire global mobile network in 2012. The amount of mobile data traffic generated by tablets in 2016 (1.1 exabytes per month) will be approximately equal to the total amount of global mobile data traffic in 2012 (1.3 exabytes per month).
+
+
+
+A device which is rumoured to be Motorola's first Intel-based Android phone leaked, supposed to be announced in 2 weeks at the Mobile World Congress. Only details available were that it would run Ice Cream Sandwich and would use processors from the Medfield range. Motorola's (which is now owned by Google) choice for Intel for its first Ice Cream Sandwich device is significant because it is a significant step towards Intel's penetration of the mobile market.
+
+
+
+Skyfire announced that it raised almost $8 million in a round of funding which was in part sponsored by Verizon. The software vendor also declared that it made partnerships with other 2 US carriers for its cloud-based mobile browser solutions. The Skyfire browser just passed 12 million downloads on Android and iOS combined.
+
+
+
+Details about the next version of Windows for mobile phones, Windows Phone 8, code-named Apollo have been leaked to reveal support for multi-core processors, four different screen resolutions and NFC technology support. Consistency and synergy between the PC / tablet of Windows 8 and Windows Phone 8 will be important and application development and porting from one platform to the other will be streamlined. The new version of Windows for phones will include Skype integration and built-in server-side compression for Internet Explorer 10.
+
+
+
+Opera announced a partnership with Idea Cellular, India's third largest mobile operator, to offer a customized version of its Opera Mini mobile browser to its over 100 million subscribers across the country.
+
+
+
+Mobotap released version 3.5 of the Dolphin browser for the iPhone and the iPad and it launched on a new platform, the Barnes & Noble Nook tablet.
+
+
+Irina

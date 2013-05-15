@@ -1,0 +1,87 @@
+Subject: Android and mobile browsing insights – Week 29
+From: Irina Sandu <isandu@mozilla.com>
+Date: 07/19/2012 01:02 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week in mobile we are reviewing Google's I/O announcements, the news updates are down there after the block of text.
+
+
+The main themes around Google's mobile strategy revolved around reviving the Android tablet market and providing a comprehensive and consistent Chrome story by launching on the main smartphone platforms. 
+
+
+    In contrast to its success in the phone area, the Android tablet segment has not been as strong, achieving little volume on generally bulky and expensive hardware. In order to confidently compete with the iPad, the Android tablet experience needs to be refined and achieve a higher standard of quality on the software side, and to have a sleeker and leaner appearance hardware-wise.  Google has partnered with Asus to provide a Nexus 7-inch tablet that is meant to improve the platform's perception and prove it as a stronger competitor to the iPad, as well as achieve volume, due to its extremely competitive pricing, 3 times less than that of Apple's tablet. The Nexus 7 has so far enjoyed good reviews and been placed as the best Android tablet yet, and given its good price is has the potential of giving a boost to the otherwise not outstanding rates of Android tablet sales. 
+
+
+    An important piece of the tablet experience where the iPad is excelling at and where Android still is considered behind is the management and download of applications. To that respect, for the Nexus 7, Google has placed particular emphasis on building the device "for the Play Store" and optimizing download and usage of content and applications. A series of improvements to Google's store that happened in the past few months have prepared the way to enabling the Nexus 7 to be more competitive in this respect.
+
+
+    The Nexus 7 has entered the same market as the Kindle Fire, where the 2 are the strongest representatives of the $200 tablet segment. If the rumours on the version 2 of Amazon's tablet are true and we will see it in (international) markets soon, it would represent a considerable strengthening of the 7-inch proposition, which has not been as successful as its 10-inch counterpart and it is a good sign of competition in the smaller screen size tablet segment, that would increase market appeal for the whole category and can provide for further demand and sales growth. 
+
+
+
+
+    The new Android release, Jelly Bean, is a minor update to Ice Cream Sandwich whose new features point to some of iOS' strengths, in an effort to bring the phone user experience even closer to that of the iPhone. Improvements to the user interface and speed, fluidity and smoothness of interactions were the first ones revealed, followed by announcements on input enhancements, through a predictive keyboard and offline voice typing. At the event great emphasis was given to Android's voice input system, that competes with Siri on iOS. 
+
+
+    The new Android version has also made advancements in the use of gestures and the concept of cards.  Many of the interface elements in a series of default apps respond to one and two finger swipes, in a way that simulates offline object management. Google has taken the cards concept that it implemented in Chrome for Android and applied it to other of its applications.  The search box and experience from the home screen have also been enhanced and made more easily visible. 
+
+
+    In order to mitigate the fragmentation problems that Android is known for, Google has released a Product Development Kit to help OEMs with porting of the platform on devices and is offering early access to partners for future releases. 
+
+
+    New stats were released, which point to continual growth for the ecosystem. They include 400 million official activations (350 million of those are the current install base), a rate of 1 million new activations / day and high growth rate in the emerging markets (see attached picture) with the significant exception of China, where a significant share of devices does not include the Google Play Store and thus is not counted as part of the official ecosystem. Google also revealed a rate of 1 million new NFC-enabled Android devices per week and the following stats for its app store: 600 k apps and games, 1.5 billion installs / month, 20 billion app installs across Google Play.
+
+
+
+
+    The release of Chrome for Android and iOS point to a consolidation of Google's browser experience to the main smartphone platforms. The mobile versions provide a similar, though well adapted to smaller screen sizes, user experience to Chrome for desktop. On Android, the browser is offered to OEMs to put on devices as native, as far as they want to, but it is not mandatory, and on iOS the product is wrapper around WebView, downloadable through the App Store. 
+
+
+    The potential user gain from availability on the 2 new platforms is limited by the reduced category awareness and amounts to a fraction of the 178 million iPhones and 328 million Android devices existing in market at the end of Q1, which could be in the range of 25 to 45 million new users by the end of the year.  
+
+
+    A feature and competitive analysis on Chrome for Android when it launched in beta in February this year is available at: https://intranet.mozilla.org/images/a/a5/Chrome_for_Android_beta.pdf
+
+
+-------------------
+
+
+Google released, at I/O:
+
+    Android version 4.1, code-named Jelly Bean
+    a new Nexus device, a 7-inch tablet
+    the stable release for Chrome for Android
+    Chrome for iOS
+
+
+
+Adobe announced that it will be discontinuing development for the Flash Player for mobile browsers starting with Android 4.1. Users that have already installed the Flash plug-in will continue to receive updates, but users who would like to install it will not be able to do starting with the 15th of August. Devices which have the Flash Player installed and will be upgraded to Android 4.1 may encounter stability issues, because the platform upgrade will not have a certified Flash Player version.
+
+
+
+
+New Android version distribution numbers for end of June put Gingerbread at 64% of the market, Froyo at 17%, Ice Cream Sandwich at 11% and Eclair at 5%.
+
+
+
+Deutsche Telekom partnered with Verious to launch the Verious-powered Developer Garden Component Marketplace in 14 countries in Europe, where it will feature application components for iOS, Android, Windows Phone and HTML5, as well as DT's own APIs. They offer access to a number or Telekom services, such as machine-to-machine communication, SMS, cloud-based voice applications and operator billing.
+
+
+Telefonica partnered with Facebook, Google, Microsoft and RIM to offer carrier billing in 14 of its markets worldwide by the end of the year. Operator billing is already live on Google Play for O2 customers in Germany and will launch soon on Movistar in Spain. For Windows Phone, Telefonica will setup a section inside the platform's app store in the form of a branded app download portal. The network operator also announced a strategic partnership with Visa Europe which makes the finance firm the preferred mobile payments' partner across the continent.
+
+
+
+China's Ministry of Industry and Information Technology revealed that smartphones shipments in the country have overtaken feature phone ones for the first time. Over the past three months, 56.9% of all of the mobile devices shipped to retailers were smartphones. In terms of install base, China will have 200 million active smartphone units by the end of the year, which represent 20% of its mobile market.
+
+
+
+Network operators in India plan to shift some of the data traffic to Wi-Fi. In order to keep up with demand for data on already strained network infrastructure and limited spectrum space, carriers are investigating offloading some of the traffic to Wi-Fi technology. This is part of a worldwide trend of telecommunications providers looking at alternative solutions to complement the building out of 4G networks in developed economies and 3 and 4 G in developing countries.
+
+Irina
+
+ 
+
+
+

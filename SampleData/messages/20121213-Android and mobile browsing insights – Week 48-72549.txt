@@ -1,0 +1,28 @@
+Subject: Android and mobile browsing insights – Week 48
+From: Irina Sandu <isandu@mozilla.com>
+Date: 12/13/2012 02:12 AM
+To: mobile-insights@mozilla.com, mobile-frontend@mozilla.org, mobile-platform@mozilla.org, products@mozilla.com
+
+Hello,
+
+
+This week there is no news summary, but a retrospective on smart devices shipments up to Q3 2012 from IDC and my interpretation of what to expect for 2013. You can find the file here: https://intranet.mozilla.org/images/e/eb/Mobile_devices_analysis_Q4_2012_-_12-12.pdf
+
+and insights include:
+
+* Tablets are growing strongly, but are still a fraction of smartphones
+* North America, Western Europe and Asia - Pacific are the main regions for smart device shipments
+* iOS seems to have reached its peak in the smartphone segment and is now trying to grow with the market
+* Tablets have similar regional distribution to smartphones
+* Android shipments have been focused in North America (Kindle Fire), but APAC and Western Europe are coming strong from behind starting with Q2 
+* iPad shipments regional distribution has been more representative for the overall market than Android (but Android catching up)
+
+Questions welcome.
+
+
+Note: please do NOT distribute the file outside of paid staff because it contains licensed data from IDC.
+
+
+Irina
+
+

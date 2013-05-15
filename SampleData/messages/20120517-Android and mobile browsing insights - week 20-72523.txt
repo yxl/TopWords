@@ -1,0 +1,35 @@
+Subject: Android and mobile browsing insights - week 20
+From: Irina Sandu <isandu@mozilla.com>
+Date: 05/17/2012 01:43 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week in mobile:
+
+    Updated Android version distribution numbers are available
+    Google's Motorola acquisition expected to be completed soon
+    Android 5.0, code-named Jelly Bean, rumoured to be released in fall with multiple flagship devices
+    Baidu to be releasing Yi-based devices
+    56.1% of smartphone shipments in Q1 featured Android
+    Samsung confirmed as top mobile phone vendor by shipments in Q1
+
+
+Updated Android version distribution numbers put Gingerbread at 64% of the market, with API level 9 at 0.5% and level 10 at 63.9%, Froyo (level 8) at 20.8% and Ice Cream Sandwich at almost 5%, with most of it on API level 15.
+
+
+Google declared that it expects its acquisition of Motorola to be completed soon, before the first half of the year. After having passed regulatory approval in the US and the US, the company is now waiting from go-ahead from the authorities in China. The closing of the deal will likely raise more concerns over competition inside the Android ecosystem.
+
+
+Details about the upcoming version of Android, version 5.0 code-named Jelly Bean, have emerged.The launch is rumoured to happen before Thanksgiving and to feature more OEMs that will produce the version's flagship devices. It is to be expected that they will also be featured for sale in Google's Play Store.
+
+
+Baidu, China's incumbent search engine, is set to release a series of new mobile devices based on its Yi mobile platform, a fork of Android, that was announced in September 2011. Dell is reported to be the company's hardware partner for this venture in a country which recently surpassed the US as the fastest growing market for new Android & iOS activations.
+
+
+The smartphone platform market was further dominated by Android in Q1 smartphone shipments, where Google's ecosystem captured 56.1% of the market with 81 million units, up from 36.4% of the market and 36.3 million units in the same period of 2011. Apple's platform was on the second place with 33 million and 22.9% of the market, also up from 16 million and 16.9% marketshare in Q1 of 2011. Other platforms with significant shares are Symbian with 8.6% of the market, followed by BB OS with 6.9%, Bada with 2.7% and Windows Mobile and Windows Phone 7 which together account for 1.9%.
+
+
+Q1 results of phone and smartphone shipments are out, confirming Samsung as having taken the lead as the top mobile phone vendor with 86 million units and 20.7% of the market, up from 68 million and 16.1% of the market the previous year. On second place there is Nokia, with 83 million and 19.8% marketshare, which is on a downward trend from its Q1 2011 result of 107 million corresponding to a 25.1% marketshare. Apple takes 3rd place with 33 million and 7.9% of the market, up from 16 million and 3.9%. Further down the top there are ZTE, LG, Huawei, RIM, Motorola, Sony and HTC with significant shares of the market.
+
+Irina

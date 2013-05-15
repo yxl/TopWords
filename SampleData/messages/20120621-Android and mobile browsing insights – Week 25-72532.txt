@@ -1,0 +1,69 @@
+Subject: Android and mobile browsing insights – Week 25
+From: Irina Sandu <isandu@mozilla.com>
+Date: 06/21/2012 12:00 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+I figured I could make more of these weekly emails by adding commentary to certain developments. The first section will contain one or two news items with analysis, and then the usual listing of developments will follow.
+
+
+    Microsoft announced a tablet line for Windows 8 called Surface. The intention was to show a flagship device to give a boost of credibility to the tablet story for the upcoming platform release. The line includes 2 models, one to compete in the large tablet segment and show the Metro interface on ARM architecture and one aimed at the ultrabook market to feature the Pro interface on Intel's chipsets. The ARM-based version will launch together with Windows 8 and the Intel-based on will follow 3 months later. They will be sold initially in Microsoft's retail and online stores. 
+
+
+    The positioning touching both on the limits of the computer and tablet markets hints at Microsoft's ability to leverage their expertise on the desktop and adapt it to the new environment of the semi-mobile use cases of a tablet. This feels more like a slide into an adjacent market segment rather than entrance into a new (mobile) market, thus allowing Microsoft to apply and refer to their strengths in the desktop area. The kickstand and the keyboard that also acts as a cover allow the tablet to resemble a computer to provide similar interactivity when needed, yet also act as a touch screen tablet when they are taken away. This is to provide more versatility of use cases, for work (with kickstand and keyboard) and play (touch screen experience), as reflected in the messaging: "From touch to type, office to living room, from your screen to the big screen, you can see more, share more, and do more with Surface." 
+
+
+    Ballmer's statement of "The Surface is a PC. The Surface is a tablet. And the Surface is something new" hints at the convergence of the desktop segment and the tablet one as the latter gains in processing power and usability and Microsoft's intent to maintain its position in computing by owning the newly-formed segment. The Surface line is described as covering areas traditionally owned by the desktop (typing, office work, doing) as well as those that mobile is known for (touch, living room, sharing) into a single device. 
+
+
+    The design of the hardware was reviewed positively by press and analysts, allowing them to make references to being a competitor for the iPad. The launch left still a list of unknowns, especially as far as the software and services offering of Surface are concerned. Analysts pointed to the lack of details on how the tablet line is going to leverage some of Microsoft's mobile software offerings (Skype, eBooks) to complement the announced integration of the Office suite. Other areas of concern related to the other Windows 8 OEMs as they try to compete with Microsoft on their platform and the lack of details on how the Windows 8 app ecosystem can leverage this tablet line. 
+
+
+Summary:
+
+    Top Developers allowed to reply to reviews in the Google Play store
+    Dolphin Engine is a new implementation of the mobile browser with enhancements on the platform level scoring 450 points on html5test.com
+    Samsung Galaxy S III getting good reviews
+    Entry-level devices to account for 40% of the smartphone market in China in 2015, up from 25% currently
+    Postpaid subscriptions first time on the decline in the US
+    Bharti Airtel and Softbank to open mobile portal in India
+
+
+
+
+    The Google Play Store has started to allow developers to reply to reviews of their applications directly inside the marketplace comments section. This feature is currently only available for organizations with Top Developer badges and it might be rolled out in the future to the other developers, as well.
+
+
+
+
+    Mobotap, the company behind Dolphin HD, released a new implementation of the browser, in beta, which is called Dolphin Engine.  The release coasts an improved webkit version that scores 450 points on the HTML5 test, significantly higher than any other browser (Chrome beta is at 371, native browser at 280). The version boasts enhancements to canvas, 2D context and GPU accelerated canvas rendering and claims full support for Web Workers, Web Sockets, Web Audio, as well as support for Camera real-time video display, Web Notification, Web GL. 
+
+
+
+
+     The Samsung Galaxy S III, the latest flagship device of the top Android handset manufacturer has been enjoying good reviews in the press this past week, with analysts praising the sleek hardware design, good screen, camera and battery and good performance on the dual-core 1.5 GHz CPU in US devices and the quad-core ones in international versions. The S Voice feature, an equivalent to Siri on the iPhone, has been reviewed as an area for improvement.
+
+
+
+
+    Entry-level devices to remain a major growth driver for the Chinese smartphone market, as models sub-US $ 200 will account for over 40% of the market by 2015, growing from 25% this year according to a report by Canalys. Hardware specifications for $ 160 devices are rising, with China Unicom requesting for 4-inch displays and 1 GHz CPUs, more than the 3.5 inch screens and 600 MHz processors required in Q3 2011. Local players will continue to play a role in the shaping of the Chinese market, particularly in the low-end smartphone area, where Baidu and Alibaba both have announced strategies of entering the market. The high-end, over $400 range will keep being dominated by vendors such as Samsung, Apple and HTC, while the middle range is easier accessible to local tier-one brands such as Huawei and ZTE.
+
+
+
+
+
+    The US market has experienced the first ever decline in postpaid mobile subscriptions to the advantage of prepaid solutions, which reached 25% of the market. The US is not representative of the worldwide situation, where prepaid is a lot more prevalent, reaching approx. 70% in Western Europe and up to 70% and 95% in areas like China, India and Africa. Analysts explain this trend change in the US as a result of mobile market saturation and increased price sensitivity for their mobile connectivity charges.
+
+
+
+
+
+    Bharti Softbank, the joint venture between Bharti Airtel, the largest mobile operator in India, and Japan's Softbank, together with Yahoo Japan, have announced the launch of an Internet portal in India. Yahoo Japan is the most visited site in Japan and is partly owned by Softbank. The purpose of the joint venture between the Indian and Japanese network operators is to provide mobile web services in India, where mobile access is bound to overtake fixed lined Internet usage by the end of 2012, according to StatsCounter. This announcement represents their second initiative, with the first one being the launch of a hyper-local commerce service in partnership with mobile start-up Y2CF Digital. 
+
+
+
+
+Irina
+

@@ -1,0 +1,65 @@
+Subject: Android and mobile browsing insights - Week 2
+From: Irina Sandu <isandu@mozilla.com>
+Date: 01/12/2012 12:47 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+* Opera launched a HTML5-based app store solution for TVs
+* The Dolphin browser was updated to 7.3 on Android and 3.0 on iOS
+* Lenovo to launch first Intel-powered Android smartphone, the K800
+* Samsung announced good Q4 2011 results, with 35 million smartphones sold
+* Sony announced Xperia NXT, first Android smartphones without Ericsson
+* HTC has had poor results in Q4 2011 results, selling less devices than Q3
+* 1.67 billion phones will be sold this year, with 3G and 4G chipsets on more than half
+* 16 out of the top 25 mobile companies by revenue are network operators
+* Nokia confirmed North America focus and Lumia 900 device
+* Nokia acquired Smarterphone, a producer of feature phone OS
+
+
+-------------
+
+Opera launched the Opera TV Store, a HTML5-based store solution for connected TVs, for developers can create and publish Web-based TV apps. The store's value proposition is described as "uniting multiple devices with a single, powerful browser engine." Opera also made a partnership with the Digital Living Network Alliance, an organization who works on standards and solutions for sharing digital content across different consumer devices.Opera will integrate the company's solution into its Devices SDK, to allow the creation of multiple device management for a user's connected devices. Opera also announced a licensing deal with INTEK Digital, a set-top box manufacturer, to include the Opera Devices SDK on the company's Android-based Hybrid TV product, to launch in the first half of 2012.
+
+
+ 
+The Dolphin browser on Android was updated to version 7.3. Improvements include a refreshed look of the browser chrome and its Webzine feature. Mobotap also released version 3.0 of the Dolphin browser on iOS, which also got its design updated.
+
+
+
+Lenovo and Intel announced the first Intel-powered Android smartphone: the K800. The device uses the Medfield chip mobile platform, probably with an Atom Z2460 1.6 GHz processor. The phone will be available in China in Q2 this year.
+
+
+
+Samsung, the world's biggest technology firm by revenue and largest smartphone producer by volume, announced good preliminary results for Q4, with sales of smartphones rising to 35 million devices, up from 28 million in Q3. The company is predicted to sell 170 million smartphone this year, up from 95 million in 2011. Not all of Samsung's devices run on Android, but the vast majority does.
+
+
+
+Sony announced the first Sony Android smartphones that will launch under the brand after the buyout of Ericsson's share from the joint venture. The smartphones will be part of the Sony Xperia NXT series, which will start with the Xperia S phone, and will launch in the first quarter of this year featuring Gingerbread, to be updated in Q2 to Ice Cream Sandwich.
+
+
+
+HTC, the second largest Android OEM and also Asia's second-largest smartphone maker, has seen its profits decline for the first time in 2 years. Its income in Q4 of 2011 dropped by 26%, on account of competition from Samsung, as well as a decline in operating margins. For Q1 of 2012, it is estimated that the company's shipment numbers will continue to drop to 8.5 million, after having reduced from 13.2 million in Q3 of 2011 to 10 million in Q4.
+
+
+
+In 2012, phone makers will ship 1.67 billion units worldwide as consumers in emerging markets upgrade their handsets, with 3G and 4G devices making up more than half of total mobile phone market for first time, a report from ABI Research reveals.
+
+
+
+16 of the top 25 mobile companies by revenue are network operators, reveals a report by analyst Tomi Ahonen. Among the rest are 5 handset manufacturers and 3 network equipment producers. The top is dominated by mobile carriers:  China Mobile, with revenue of $77 billion in 2010, followed by Verizon (72 billion), Vodafone (66 billion), AT&T (58 billion), Telefonica (55 billion), T-mobile (48 billion) and Orange (47 billion), and followed by 3 handset manufacturers: Nokia (45 billion), Apple (42 billion) and Samsung (40 billion). Regional distribution puts 9 of the biggest mobile companies by revenue in Europe, 9 in Asia, 6 in North America and 1 in Latin America. Country-wise, 5 are from the US, 3 from China, 3 from Japan, 2 from South Korea and 2 from France. 
+
+
+
+Nokia confirmed the release of the Lumia 900 device in the US, which will feature a 1.4 GHz CPU with 512 RAM and a 4.3 inch AMOLED screen. This is Nokia's first Windows Phone equipped with LTE technology, and it will run on AT&T network. At CES, Stephen Elop emphasized Nokia's commitment to the North American market, with products, such as the Nokia 900, designed specially for it. Pricing and timing of the device were not yet announced.
+
+
+
+Nokia has acquired Smarterphone, a Norwegian company that builds a licenseable mobile operating system for feature phones, specifically for the $25 to $75 segment. In related news, rumours are yet again surfacing about an acquisition of Nokia by Microsoft.
+
+
+Irina
+

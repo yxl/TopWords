@@ -1,0 +1,51 @@
+Subject: Android and mobile browsing insights - Week 12
+From: Irina Sandu <isandu@mozilla.com>
+Date: 03/22/2012 01:43 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week in mobile:
+
+    ICS 4.0.5 update rumoured for the Galaxy Nexus
+    China now leads the world in iOS and Android activations
+    Samsung Galaxy S III said to launch in April
+    Microsoft unveiled Windows Phone 7 Tango for the Chinese market
+    Nokia is working on a Windows 8 tablet
+    Dolphin browser has a new website
+    Some free Android apps use more energy to display ads than  for core function
+    Android and iOS have taken over the majority of revenue in the US portable gaming industry
+    Sony releases open source code for Xperia S ROM
+    Sony release new "floating touch" screen technology
+
+
+An update of Ice Cream Sandwich to 4.0.5 is rumoured to be shipped soon for the Galaxy Nexus. It is expected to fix issues with data connectivity and patch a common issue where the phone would reboot.
+
+
+China has overpassed the US and now leads the world in new iOS and Android activations, reveals a report from Flurry Analytics. In January of last year, the U.S. accounted for 28% of the world’s total iOS and Android activations, while China accounted for just 8%. By February 2012, China surpassed the U.S., and is now on track to account for 24% of activations by the end of March, while the U.S. drops to 21%.  China is a booming market, on the brink of approaching 1 billion mobile subscribers,  but with a relatively low penetration of 3G connections of 144 million subscribers and with 4G spectrum auctions yet to be held in the country.
+
+
+The Samsung Galaxy S III will likely be launched in April, according to a Samsung executive. The device, rumoured to be featuring a 1.5 GHz Exynos quad-core CPU, is said to be prepared for marketing activities at the London 2012 Olympic Games, where the company is a sponsor.
+
+
+Microsoft has officially launched its Windows Phone 7 platform in China, where it showed a new version, code-named Tango, aimed at the lower-end of the smartphone market. For entrance in the Chinese market, the company partnered with Nokia, HTC, Samsung and ZTE.  The first device is the HTC Eternity, a 1.5 GHz single core, 512 MB RAM, unlocked phone featuring apps customized for the Chinese market.
+
+
+A Nokia executive has confirmed that the company is working on a Windows 8 tablet. The rumoured launch date is Q4 of this year and features to include a 10 inch screen and a dual-core Snapdragon S4 chipset.
+
+
+The Dolphin browser has a new website and blog.
+
+
+Researchers at Purdue University in Indiana in collaboration with Microsoft Research conducted a study of battery use in 6 popular free apps on Android and Windows Mobile. The phones used in the research are HTC Magic on Android 2.0, HTC Passion on Android 2.3 and HTC Tytn II with Windows Mobile. Their findings say that up to 75% of the energy used by the free apps is spent serving ads or tracking and uploading user data. Some of the more popular apps investigated used between 10% and 30% of total energy used for the core function.
+
+
+Android and iOS have taken over the majority of revenue in the US portable gaming industry, reveals a report by Flurry Analytics. Nintendo, the dominant player in 2009, is estimated to have went down to 36% of revenues in 2011, in favour of Android and iOS, which combined took over 58% of the gaming-related revenues last year. The US market accounts for 47% of overall iOs and Android app sessions, as of October 2011.
+
+
+Sony continues the industry trend of opening up Android devices with unlocked bootloaders and instructions on building custom ROMs. The company released the open source code archive for building a kernel for the Xperia S device, which runs on a Snapdragon S3 chipset, together with instructions on how to flash the device and be on your way to building a custom ROM.
+
+
+Sony implemented a new touch screen technology for its Xperia Sola device, called "the floating touch". It allows the user to interact by hovering across the screen, without touching it. This is possible due to the integration of 2 types of capacitive sensors. When in hover mode, the screen is not multi-touch enabled, but this is activated when touching the screen. The company showcased use of this technology for Web browsing, where the user can move the "cursor" by hovering and then touch the screen to tap on a link. The device will launch globally in the second quarter of the year.
+
+Irina

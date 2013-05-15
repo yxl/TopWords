@@ -1,0 +1,59 @@
+Subject: Android and mobile browsing insights – Week 1
+From: Irina Sandu <isandu@mozilla.com>
+Date: 01/17/2013 05:50 AM
+To: mobile-insights@mozilla.com, mobile-frontend@mozilla.org, mobile-platform@mozilla.org
+
+Happy New Year !
+
+
+This week is about updates in the Android ecosystem (Play Store, version distribution, Chrome Beta), a view of mobile industry leaders of HTML5, stats about big screens on phones and regulation initiatives in the European telecommunications space.
+
+
+Google now allows top developers to reply to comments directly in the Android Play Store, a feature that it said it would roll - out to other developers some time in the future. 
+
+
+
+
+Google released the Beta Channel of Chrome to the Play Store. The release features Text Autosizing, 30% performance improvement in the Javascript Octane benchmark, CSS filters, improved developer tools, and more. The app has an average rating of 4.1, same as the Chrome stable channel and has been reviewed ~ 2,600 times. 
+
+
+
+
+Sony announced waterproof Android phones: the Xperia Go (called Advance in the US), on Gingerbread, and the Xperia Arco S, with Ice Cream Sandwich.
+
+ 
+
+ 
+Updated numbers for the Android version distribution as reflected by visits to the Play Store maintain Gingerbread on top with 47.6%, followed by Ice Cream Sandwich at 29.1% and by Jelly Bean at 10.2%. The data was collected in the 2 weeks previous to the 3rd of January. ICS and JB both jumped more than 2 points compared to the period of late November, at the expense of Gingerbread, who dropped from 51%.
+
+
+
+
+A survey of 30 mobile industry leaders conducted by Chetan Sharma Consulting revealed a view of the evolution of HTML5 on mobile among other significant trends in the industry:
+
+
+* HTML5 is not at the top of breakthrough categories for the year. It comes under topics such as mobile payments, cloud services, mobile commerce, enterprise, health, security and advertising.
+
+* HTML5 does come on top of mobile retail, NFC, wearable computing, home automation and flexible displays.
+
+* The view that "The mobile Web will become more relevant" is less popular at the start of 2013 than it was at the start of 2012.
+
+* HTML5 is the second most likely platform to become a viable and durable 3rd ecosystem and the only major contender, with 36% of the votes, to the likeliest one, Windows (which has 45%). Blackberry is credited with 6% of the votes, Tizen with 3% and None of Them with 10%.
+
+
+
+The number of phone shipments with screens larger than 5 inches will more than double in 2013. In 2012 there were 25.6 million such devices (~ 4% of smartphones) shipped and this year we will see 60.4 million (~7%)  of them. Recent launches include the 6.1 - inch Huawei Ascend Mate and the 5 - inch Sony Xperia Z
+
+
+
+
+The European Commission is taking steps further to harmonize the European telecommunications market with the purpose of streamlining roaming and collaboration across the continent. In the European Union there are more than 27 regulators and 100 network operators.
+
+
+Irina
+
+
+
+
+
+

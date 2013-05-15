@@ -1,0 +1,61 @@
+Subject: Android and mobile browsing insights – Week 32
+From: Irina Sandu <isandu@mozilla.com>
+Date: 08/16/2012 03:45 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+
+    Adobe is pulling Flash from the Google Play Store
+
+    Trial between Samsung and Apple reveals more history of smartphone evolution, competitive analysis documents and user adoption motivations
+
+    Nokia survey shows that a device with a QWERTY keyboard is important in any platform portfolio
+
+    Q2 results show Android and iOS on the rise, Blackberry and Symbian in decline
+
+    Rumours point to a new, 10-inch version of the Kindle Fire to be released in the fall
+
+    Opera opened offices in SiliconValley
+
+
+Adobe is removing the option to install Flash from the Google Play Store and is recommending that smartphone owners on Jelly Bean uninstall it if they already have it, because it can cause stability problems.  http://www.bbc.com/news/technology-19267140
+
+ 
+The patent trial between Samsung and Apple is revealing interesting and important details on the evolution of the companies' main offerings that helped shape the overall smartphone market. An Apple employee testified in court that the iPhone design is heavily inspired from what Sony was promoting at the time (picture here). Further, internal documents or their contents are made public, two of which relate to surveys from 2011 and 2010 on iPhone and Android adoption as well as a pretty thorough competitive analysis performed by Samsung employees on the strengths and weaknesses in the user interface of the iPhone and the Samsung Galaxy S device. The whole document can be found here and the iPhone adoption user survey's quoted findings include:
+
+    Apple's brand and design are by far the bigger drivers of iPhone purchases than software and apps
+
+    trust in the Apple brand was the first or second most popular reason to buy the device in most regions
+
+    the physical appearance and design was also important
+
+    least important almost universally was the ability to transfer music and other media across multiple devices
+
+    another important feature for buying consideration was comfort which holding in hands
+
+    games were not an important category of apps to have, except in China
+
+
+
+A similar survey on Android adoption among iPhone users from 2010 reveals that most Android buyers wanted to stay with their carrier, some of them were conquered by their trust in the Google brand and another set of them liked the larger screens offered by those devices, as well as the integration with the Android Market and Google services and yet another reason offered is wanting to be on the latest technology. The two surveys validate that the parent company of the operating system is an important factor in the purchase decision, together with design and appearance and the software offering.
+
+
+
+Nokia published a survey of its users on preference for input methods which reveals that QWERTY keyboards are liked by a significant share of consumers. Nokia's research is pretty representative of the world given their global penetration, but skewed to a limited extent away from touch screens, as their user base is under-represented in North America, a market that will have a string connection with touchscreen interfaces supported by the iPhone's significant penetration. The survey is consistent with findings that the top activity on a mobile phone is not voice calling, but SMS sending, which is followed by photo taking and after that voice calling. Commentary by mobile analyst Tomi Ahonen recommends that devices with QWERTY input need to be present in any smartphone portfolio.
+
+
+
+Q2 results reveal that overall mobile phone sales have declined by 2.3% year-over-year to 419 million units, which represents an abrupt decline in feature phone demand for which smartphones did not entirely compensate. They continued their extraordinary growth to account for 36.7% of total device sales, which represents a 42.7% growth year-over-year for the smartphone segment. Platforms-wise, Android and iOS accounted for 85% of all smartphones shipped in the quarter, both of which recorded growth, while Symbian and Blackberry had a declining evolution. Android lead the top with 68% and 105 million of all smartphones shipped, supported heavily by Samsung, which accounted for 44% of the Androids and totaled more than the next 7 Android vendors combined. iOS was on 2nd place with 26% and 20 million devices shipped, followed by Blackberry with 5% and 12.5 million and Symbian with 4.4% and 18.3 million.
+
+
+
+Rumours point to a new Kindle Fire version with a larger, 10-inch display, that might be released in the fall.
+
+
+Opera opened offices in Silicon Valley, in San Mateo, that will host more than 100 people and will be home to AdMarvel and Mobile Theory, the affiliates that deal with its advertising network and its multi-platform mobile app store.
+
+Irina

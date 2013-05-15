@@ -1,0 +1,62 @@
+Subject: Android and mobile browsing insights - Week 11
+From: Irina Sandu <isandu@mozilla.com>
+Date: 03/15/2012 12:54 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+After MWC and CeBIT, This week in mobile is back:
+
+
+    Chrome for Android updates include support for Android Beam and availability in more countries
+    The Android Market was renamed to Google Play; now restricts use of 3rd-party in-app payment processors
+    Ice Cream Sandwich updates rolling out to flagship Samsung and HTC devices
+    The Google-Oracle trial concerning Java use in Android to start in April
+    Opera adds Opera Mini Next as version for early-adopter feature preview
+    Opera Mobile 12 adds WebGL and Camera API support
+    Opera shows MIPS- and Intel-based versions of its mobile browser
+    Android tablet sales will take over iOS by 2016, according to data released by IDC
+    Latest iPad features a new display and a better camera; Samsung exec said to have confirmed an upcoming iPad Mini
+    The Internet of Things arriving with new ARM processor designed for appliances
+    The EC is questioning 5 telecom operators on standardization
+
+
+
+
+Chrome for Android has been updated twice since the first release on the 7th of February. Besides bug fixes, the updates include support for Android Beam, Android's NFC app, and availability in additional countries. The browser can now be downloaded from 32 countries and is available in 7 languages.
+
+
+Google integrated the Android Market, Google Music and Google eBookstore into one product called Google Play. Positioned as an entertainment venue, Google Play aims to provide for a more connected and powerful experience. Users can access their content on any device, through "the power of the cloud" and they can easily share it with other people.  The rules for apps distributed through Google Play have been changed to prohibit in-app payments through payment processors other than Google Wallet.
+
+
+After much-debated delays, the updates to Ice Cream Sandwich are being announced and rolled-out to Samsung and HTC devices. The Samsung S II pool is being updated starting with this week and the Korean OEM confirmed roll-outs to more flagship devices, including the Galaxy Tab 10.1. HTC also announced a list of its 16 most popular devices that will be getting the latest Android version.
+
+
+The trial between Google and Oracle concerning the use of copyrighted parts of Java technology in Android is set to start on the 16th of April and last for about 8 weeks. The stakes of the trial are a possible injunction of Android products, if Oracle wins, although a pre-trial settlement is also possible.
+
+
+Opera Mini Next is a version of the Opera Mini browser which gives a preview into what's to come in future versions of Opera. Advanced users have the chance to test new features that are still under development for the next release of Opera Mini. The first release introduces a Smart Page which features access to social networks and the latest news, but is only available in the feature phone version. Android users of Opera Mini Next will see a revamped Speed Dial page, with an unlimited number of shortcuts and will also benefit from hardware acceleration.
+
+
+Opera Mobile was updated to version 12, which adds WebGL support on Android and support for the camera API.
+
+
+Opera showed the Opera Mobile browser run on MIPS-based Android 4.0 tablets. MIPS-based Android hardware does not have a significant share of the market and it is considered to be mostly available in China.
+
+
+Opera Mobile for Android now has an experimental build that runs on Intel architecture. The first release runs on an Ice Scream Sandwich tablet, powered by an Intel Oak Trail processor.
+
+
+Android tablet sales will take over iOS by 2016, according to data released by IDC. The research company puts total tablet sales for this year at 106 million, 56% of which on iOS and 44% on Android. In 2016 there will be 198 million tablets sold, 50% running on Android and 47% on iOS. The report does not forecast a significant marketshare for any other platform, such as Windows 8.
+
+
+Apple announced the newest iPad, which boasts an improved display, a 5MP camera and LTE-capable antenna. It runs on a dual-core A5X chip with quad-core graphics and probably 1 GB of RAM. The device will be available for purchase starting with this week. A Samsung executive is said to have confirmed the preparations for a Mini version of Apple's iPad, which will have a 7.85-inch screen. Samsung has insight into Apple's plans because it is one of the main providers or hardware parts for the Cupertino company. Apple reportedly employs 73 Korean-American contract attorneys and 20 document reviewers.
+
+
+The Cortex-M0+ is a new entry in ARM 's series of processors that are optimized for extremely low energy consumption and fit for microcontrollers that can be used for both sensor and control systems. The 32-bit processors use one-third of the energy used by 8- or 16- bit processors. ARM is aiming the new microcontroller at small wirelessly connected devices providing communication, management and maintenance functions. While not intended for mobile phones, this development paves the way for the Internet of Things, which is expected to produce up to 2.3 billion Machine2Machine wireless connections by 2020, according to numbers from the GSMA.
+
+
+The European Union competition authorities are questioning five of Europe’s biggest telecommunications companies to see if a series of meetings they held since 2010 on strategy and technical co-operation constituted collusion. The requests for information relate to the manner in which standardization for future services in the mobile communications area is taking place. The operators in question are Vodafone , France Telecom, Telecom Italia, Deutsche Telekom, and Telefonica.
+
+Irina

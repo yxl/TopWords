@@ -1,0 +1,35 @@
+Subject: Android and mobile browsing insights – Week 3
+From: Irina Sandu <isandu@mozilla.com>
+Date: 01/31/2013 01:04 AM
+To: mobile-insights@mozilla.com, mobile-frontend@mozilla.org, mobile-platform@mozilla.org
+
+Hello,
+
+
+Some of this week's developments:
+
+
+A few FCC filings suggest Google may be looking to test a LTE wireless network.
+Important because: it represents next steps into Google owning another part of the Android value chain: a network operator. The move has similar market repercussions to the one where Google bought Motorola, with the difference that network operators control a much bigger share of the overall mobile market than OEMs do and their market is less volatile, thus they are better equipped to respond to this strategic threat. One way of responding is reaching out (more) to mobile OS makers neutral to the value chain like Mozilla. 
+
+
+
+Opera partnered with mobile payments firm Neomobile to bring 1 - click operator billing to through the browser in Opera Mini. This is part of Opera's Payment Exchange product that is described as "a glue between content providers, publishers and mobile billing systems". Opera Mini is a proxy - browser that has ~ 200 million users, predominantly in the emerging markets.
+Important because: it is a venture that tries to prove the feasibility of carrier billing directly from content providers through the Web and one that by - passes the need for a platform - provided content store. This is valuable to network operators and content providers because it removes the requirements to be approved by a 3rd - party (the content store owner) while keeping the benefit of seamless payments. 
+
+
+
+Nokia announced the PureView (launched mid - 2012) to be its last Symbian device. 
+Important because: confirms Nokia's intention to extend coverage of Windows Phone devices into the lower - end, which was dominated by Symbian. Up next to be replaced will be the Nokia Asha family based on the Series 40 platform, that occupies the Smart Light segment, between Symbian (smartphone) and features phones when positioned on the low to high - end scale. 
+
+
+
+Huawei placed 3rd (with 10.8 million and 4.9%) in the top of Q4 2012 smartphone producers by shipments, as counted by IDC. ZTE, the other big Chinese OEM, placed 5th. The Year - over - Year change for Huawei is of 88% and for ZTE 48%. Both companies also have significant market share in overall mobile device market (smartphones + feature phones) and the market for network equipment (mobile phone cell towers).
+Important because: it confirms the ascension of the Chinese market players into the high - end and their ability to differentiate. IDC comments about Huawei: " the company has demonstrated its innovative skills, having released the world’s thinnest (6.68 mm) smartphone last year, the Ascend P1, and this year it announced the upcoming Ascend Mate, the first smartphone with a 6.1-inch display. At the same time, Huawei has brought its own software innovations, including Magic Touch, Guiding Wizard, Smart Reading, and Floating Windows."
+
+
+
+Irina
+
+
+

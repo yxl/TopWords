@@ -1,0 +1,56 @@
+Subject: Android and mobile browsing insights - Week 41
+From: Irina Sandu <isandu@mozilla.com>
+Date: 10/12/2011 11:13 PM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week:
+
+* The announcement of ICS and Nexus Prime was postponed, but plenty of details leaked: the new device will have top specs, LTE and NFC support, 3 hard-coded buttons
+* The Android Market suffered an outage for users in China due to technical issues from Google, now fixed
+* Opera Mini 6.5 and Opera Mobile 11.5 were released, with focus on data usage and saving
+* Amazon Fire pre-ordered 95 000 times in first day after launch, Silk browser vulnerable to privacy concerns
+* LTE emerging fast all over the world
+* Singapore and Japan lead browser traffic from connected devices (non-computers), UK and US not far behind
+
+
+------------
+
+
+Google and Samsung postponed the announcement of Ice Cream Sandwich and its flagship device, with the new date rumored to be the 27th of October. Reasons for the delay were declared to be the passing of Apple's former CEO. Numerous leaks of the upcoming release surfaced, including specs, such as a 1.2 GHz TI OMAP 4460 dual-core Cortex A9 processor, 1 GB of RAM, 1080p video capture support, 4.6 inch 1280 x 720 Super AMOLED HD screen, LTE and NFC support on a 9 mm thin device. Other details claim that the version number will be 4.0, it will have a new Google+ app and pictures show only 3 hard-coded buttons instead of the usual 4 on the re-designed phone interface. More photos and videos.    
+
+
+
+Specs, however, are not everything, as showed by a comparison of the native browser on the most powerful Android device, the Samsung Galaxy S II (dual-core 1.5 GHz) and the iPhone 4s (dual-core 800 MHz), where they behave very similar. 
+
+
+
+The Android Market became temporarily unavailable for users in China. Reasons were declared to be a technical issue, which has been fixed by Google. The availability of numerous alternative Android app stores in China prevented this to be an extremely significant inconvenience for users in the country, as it would have been in the other parts of the world.
+
+
+
+Opera Mini 6.5 and Opera Mobile 11.5 for Android were released. New features center around data usage and saving. The browsers now show how much data the user has spent and savings achieved due to Opera's compression technologies. Other improvements include better Android integration, bookmarks import and save to desktop features. Opera Mobile added support for inline HTML5 video among platform improvements. 
+
+
+
+The Amazon Fire tablet and the Silk browser were analyzed thoroughly in the press this week, as rumours surfaced over 95 000 pre-orders of the tablet in the first day after launch, followed by 20 000 sales / day in the following days. The hybrid browser technology of Silk is considered key to offering a good browsing experience, but awareness is raised over technical, legal and privacy issues of proxy-browsing. GigaOM, analyzing social media response of the announcement, found that “a significant percentage of individuals commenting on Silk – 1 in 3 – expressed concerns about privacy.” Amazon has already been sued over the new tablet with regards to patents, not related to its use of Android technology, but to touch screen features. 
+
+
+
+RIM suffered 3 days of outages of its Blackberry Internet Service across Europe, Middle East and Africa, which is considered to be a significant setback for the platform, whose success is considered to be largely dependent on the service. 
+
+
+
+There are 218 network operators in 81 countries currently investing in LTE technology and infrastructure, making it "the fastest developing mobile system technology ever", reports a study from the Global mobile Suppliers Association. There are 26 already commercially deployed LTE networks and there already have been announcements for 161 LTE-enabled user devices from 45 different manufacturers, a growth of 155% since February 2011. 
+
+
+
+Singapore has the highest percentage of browser traffic by page views coming from connected devices (non-computer) between ten selected global markets, reports ComScore. Non-computer devices include mobile phones, tablets, e-readers and gaming consoles. Singapore leads with 7.2%, followed by the UK, US, Japan, Australia, Canada, Spain, India, France and Brazil. Mobile phones represent  the major source of non-computer browser traffic and the leader in terms of mobile phone traffic is Japan with 4.8%, followed by the UK, Singapore and the US. Tablets account for 1/4 of total non-computer page views in the analyzed markets and Android users on both phones and tablets generate more page views on mobile networks than on WiFi. The entire report can be downloaded here. 
+
+
+The archive for all weekly mobile insights: https://intranet.mozilla.org/Marketing/Insights/Mobile 
+
+Irina
+
+

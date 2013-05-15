@@ -1,0 +1,37 @@
+Subject: Android and mobile browsing insights – Week 6
+From: Irina Sandu <isandu@mozilla.com>
+Date: 02/21/2013 02:27 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+
+This week in mobile:
+
+
+International calls through Skype are equivalent to one third of global international phone traffic. In 2012, growth in the 490 billion minutes market for international calls was only at 5%, compared to the growth on cross-border Skype-to-Skype traffic of 44%, reaching 167 billion minutes. This is part of a continuing trend of declining growth on international calls through network operators in favour of VoIP services. 
+Important because international calling is considered a "cash cow" in the operator industry, as it accounts for little of the overall network load and is usually the most profitable segment. Profitability varies depending on the inter - operator agreements, although there are regulatory pressures, such as those from the European Commission, to cap roaming tariffs.
+
+
+
+Opera acquired Skyfire, a mobile browser and mobile network optimization solution. Called Rocket Optimizer, the offering for network operators reduces network overload by caching videos and large images in the cloud and serving them compressed to the network. The company claims that video represents 2% of user requests and 50% of bandwidth used. Skyfire Horizon is a browser extension platform that network operators can add to devices as a toolbar and means to promote their offerings. The toolbar includes RSS support and 1 - click media sharing. The browser, Skyfire, is available on Android and iOS and claims to save up to 75% on data usage. It has been downloaded 20 million times. 
+Important because Opera is extending its offering for network operators beyond the browser to solutions that are integrated into their networks. Opera already has partnerships around Opera Mini with a large variety of carriers, predominantly in the emerging markets. The expertise that Skyfire brings for video can be leveraged in the developed countries, where demand for video is a lot greater than in Opera's existing markets. 
+
+
+
+The first testing version of Ubuntu for phones, the Touch Developer Preview, will be available on the 21st of February (tomorrow) and optimized for flashing on the Galaxy Nexus by Samsung and the Nexus 4 by LG. Canonical revealed the interface for the tablet version of the Ubuntu mobile platform, that is expected to make it into version 14.04, to be released in April 2014. It supports screen sizes from 6 inches to 20 inches and resolutions from 100 to 450 pixels per inch. Large screen optimizations include support for multiple user accounts. 
+
+
+
+Samsung launched a new line of smart - light phones, the Rex series, for the emerging markets. Based on Java, they feature Samsung's TouchWiz interface (also used on Android), Google search and Google Talk, Facebook, Twitter. There are 2 browsers: Opera Mini and Access NF. The 4 models - Rex 90, Rex 80, Rex 70 and Rex 60 compete in the same range as Nokia's Asha series for people in the young and first - time employed segments.
+Important because Samsung is extending its own interface design (TouchWiz) beyond Android to build on and maintain consumer differentiation for its brand  rather than the underlying technology platform. 
+
+
+
+Google is rumoured to be planning to open retail stores in the US.
+Important becauseI the network operators control distribution for a large share of device sales in the US. Google had already started to sell devices online through the Play Store, but retail stores offer the advantage of easier access to support and the potential for a deeper customer relationship, adding to the competition for users' attention. 
+
+
+Irina
+
+

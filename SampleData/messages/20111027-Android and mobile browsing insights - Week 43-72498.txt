@@ -1,0 +1,67 @@
+Subject: Android and mobile browsing insights - Week 43
+From: Irina Sandu <isandu@mozilla.com>
+Date: 10/27/2011 12:27 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week:
+
+*Nokia launched its first WP7 phones, the Nokia Lumia 800 and 710, which feature Internet Explorer 9 mobile and will be released beginning with November in 6 European countries and several countries in Asia
+
+* Android overpassed iOS on app downloads, but lags behind on apps/user ratio
+
+* Mobotap released Dolphin HD 7.0 for Android, featuring preferences, bookmarks and gestures syncing through Dolphin Connect between instances of the browser on Android
+
+* Opera signed partnerships with MTN, a carrier active in 21 countries in Africa, Asia and the Middle East, and Smart Communications in the Philippines 
+
+* ARM introduced its next generation chips, the A7 family, and heterogeneous multiprocessing, a technique to balance processor performance for extended battery life
+
+* NFC and mobile payments are making strides, with the Singapore government engaged in developing infrastructure and Mastercard extending its contactless payment system, Pay Pass,  to mobile phones
+
+
+----------------
+
+
+Nokia announced its first 2 Windows Phone 7 devices in London today. The Nokia Lumia 800 and the Nokia Lumia 710  will be available for purchase starting with November in 6 European markets with carriers and retailers in Russia, India, Singapore, Taiwan and Hong Kong offering it for sale before the end of the year. The phones will be available in North America probably in 2012. The next update of Windows Phone 7, code-named Tango, will probably be shown at CES in 2012. 
+
+The 2 devices have very similar specifications, but different pricing, with the Lumia 800 positioned as a higher-end device with a price of 420 Euros retail while the 710 will cost 270 Euros unlocked. Their specifications are 1.4 GHz Qualcomm MSM8255 processor, 512 MB RAM, 8/16 GB of storage and a 3.7 inch Gorilla Glass screen. The phone's specifications fall into the top-end of the middle range of smartphones, in terms of what is available in the market, with high-end Android phones reaching up to dual-core 1.2 GHz, 1 GB of RAM and NFC technology. There are rumors that Nokia is preparing a high-end device, to be launched later. 
+
+Software-wise, the Windows Phone Mango platform on Nokia devices differentiates itself with Nokia Drive, the turn-by-turn navigation service, Nokia Public Transportation app, which gives information on buses and trains in 450 cities, Nokia Music and an ESPN Sports Hub, along with the offerings coming on all Windows Phone 7 devices, such as Microsoft Office, Xbox Live integration, and Sky Drive syncing capabilities with 25 GB of free storage. 
+
+The browser, Internet Explorer 9 mobile, features the URL bar at the bottom of the screen, on top of the keyboard, and supports SVG, CSS 3, HTML5, DOM Level 1-3 and hardware graphics acceleration. 
+
+Windows Phone 7.5 is marketed under the tagline "Put People First", centered around the social aspect of a phone and its ability to facilitate communications by seamlessly managing the user's data offline and in the cloud and deliver "truly modern communications." The marketing video for WP7.
+
+
+
+
+The Android ecosystem keeps growing and it has now surpassed iOS in terms of app downloads, accounting for 44% of all app downloads in Q2 of 2011, while Apple's platform only had 31%, reports ABI Research. The overtake is explained by Android's stronger growth in recent quarters. iOS, however, performs better in the downloads per user ratio, where it out-performs Android by 2-to-1. Global app downloads for year-end 2011 are expected to balloon to 29 billion, compared to only nine billion in 2010. Such stellar increases are largely due to the proliferation of smartphones around the world. The total smartphone install base is expected to grow 46% in 2011. Research2guidance also released a report on the Android Market, which states that the store has reached half a million apps published since its launch. Due to a 37% removal rate, however, the number of active apps stands at 320,000. In comparison, the Apple app store attracted just over 600,000 applications and 24% of them were removed to date. 34% of all apps in the Android Market are paid, with an average price of $3.18. 
+
+
+
+
+Mobotap released version 7.0 for the Dolphin HD browser for Android, which features cloud syncing of preferences, bookmarks and gestures across instances of the browser on Android through Dolphin Connect. To enable this feature, users have to create an account with Dolphin or sign in through Facebook or Google. The release, which launched with GetJar and will be available in the Android Market a week later,  also includes enhancements to the Webzine feature. Mobotap announced that the implementation of the syncing feature will come to the Dolphin browser's iOS version, as well.
+
+
+
+
+Opera signed an agreement with MTN, a network operator group active in 21 countries in Africa, Asia and the Middle East, to offer a customized version of Opera Mini to the carrier's 149 million subscribers. The browser company also made a partnership with Smart Communications, the Philippines' leading wireless services provider, to organize a contest meant to boost Opera Mini users and subscriptions to the carrier's data plans for Smart's 46 million subscribers. In order to take part in the draw, users have to download Opera Mini, subscribe to a data package and register through a portal which is only available through Opera's browser, for the chance to win a Mini Cooper. 
+
+
+
+
+ARM showed its next-generation smartphone processor, the Cortex A7, which is said to double the performance of the existing Cortex A8 family and which is optimized to run Android devices. ARM also introduced for their chips a technique called heterogeneous multiprocessing, which pairs the A7 chips with the larger and more powerful A15 and dynamically balances workload depending on performance and power needs. 
+
+
+
+
+Singapore is pushing for NFC and mobile payments adoption, as the government appointed a consortium to develop NFC infrastructure and mobile wallet services, with the aim of having 20,000 retail points and taxis on the island which accept mobile payments by mid-2012. In related news, Mastercard is extending its contactless payment system, PayPass, to SIM-based devices and has awarded certificates to 2 Blackberry phones. 
+
+
+
+The archive for all weekly mobile insights: https://intranet.mozilla.org/Marketing/Insights/Mobile 
+
+Irina
+

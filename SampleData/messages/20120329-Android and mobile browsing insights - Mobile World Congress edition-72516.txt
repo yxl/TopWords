@@ -1,0 +1,71 @@
+Subject: Android and mobile browsing insights - Mobile World Congress edition
+From: Irina Sandu <isandu@mozilla.com>
+Date: 03/29/2012 07:25 PM
+To: mwc-staff@mozilla.com, mobile-insights@mozilla.com
+
+Hello,
+
+This is a special edition featuring main market developments from this year's Mobile World Congress. The summary is below and attached is the whole report (also for download at: https://intranet.mozilla.org/images/e/ec/MWC_2012_market_developments.pdf ). The document refers to the overall mobile market and not to Mozilla's presence. A summary report on our activities at MWC will also be distributed shortly. 
+
+
+Main themes of discussion:
+
+    Overloading of mobile networks due to increase of data usage
+    Efforts of network operators to compete with OTT players and avoid being “dumb pipes”
+    Mobile payments as a particularly strong emerging trend
+    The emergence of the Internet of Things
+
+Devices:
+
+    Vast majority of new devices announced run on Android
+    High-end limit became the 1.5 GHz quad-core Tegra 3 phones, the middle-range of new launches is 1-1.2 GHz dual-core and the lowest-end is down to 1 GHz - 800 MHz single core. 
+    Tablets also played a role, particularly promoted by Samsung
+    Outside of CPU performance, features such as high-resolution and 3D screens continued to be main differentiation factors, followed by high MegaPixel cameras
+
+Nokia / Windows Phone 7:
+
+    devices further positioned into the middle-range and targeted at high-growth economies
+    entrance strategy into the US market continues with the Lumia 900, available in April
+    positioned as the best upgrade path from feature phones
+
+Microsoft: 
+
+    showed Windows 8 Consumer Preview
+    “the OS for multiple form factors
+    showed Windows 8 on ARM architecture, on all main top-of-the-line chipsets: Nvidia Tegra 3, Qualcomm Sanpdragon, Texas instruments OMAP
+    optimization for code portability across form factors and chipset architectures
+    hardware compatibility with class drivers for categories of accessories: printers, keyboards, mice, external storage drives
+
+Chipsets:
+
+    Nvidia Tegra 3 devices made appearance
+    Huawei launched K3V2 chipsets with ARMv7
+    Intel showed a reference device for the x86 architecture
+
+Google:
+
+    showcased Chrome for Android in keynote
+    “Chrome and Android: two of the most significant engineering investments that Google has made the life of the company”
+    3 goals for Chrome for Android:
+    “really, really fast”
+    “really clean and simple”
+    “really easy to take all of your stuff with you [...] by using the cloud” 
+
+Facebook:
+
+    announced efforts together with the WWW Consortium and other companies to standardize a set of Web standards suited for mobile app and a test suite for mobile called Ringmark
+    announced work at a new mobile payment system for carrier billing, called Pay Dialog; FB is working with major carriers like AT&T, Deutsche Telekom, Orange, Telefonica, Verizon, Vodafone, KDDI and Softbank 
+
+Opera:
+
+    added Opera Next, a new channel for early-adopters to give a preview of upcoming features
+    showcased prototypes for new platforms: MIPS-based Android tablets and x86 Intel architecture
+
+
+Irina
+
+
+
+
+Attachments:
+MWC 2012 market developments.pdf	1.0 MB

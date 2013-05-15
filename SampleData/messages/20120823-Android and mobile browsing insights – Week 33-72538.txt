@@ -1,0 +1,72 @@
+Subject: Android and mobile browsing insights – Week 33
+From: Irina Sandu <isandu@mozilla.com>
+Date: 08/23/2012 12:14 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in  mobile:
+
+
+    Smart updates reported on for the Google Play Store
+
+    Galaxy Note 2 expected to be revealed soon in Berlin
+
+    Jurors in the trial concerning IP on mobile devices between Samsung and Apple to begin deliberations
+
+    Recent shipment data shows intense competition in the Android OEM space
+
+    China now has more mobile internet users than desktop ones
+
+    China remains top producer of mobile devices; Economist briefing on Huawei
+
+    New announcements in the mobile payments market
+
+
+
+Google is reported to have turned on smart updates for Android apps. This feature of the Google Play Store only pushes to users the parts of the app that were updated instead of the whole apk, which Google estimates to be around a third of the whole application. We have bug 783608 to check if there's anything to  do to Fennec to take advantage of that feature.
+
+
+
+
+The Galaxy Note 2, the follow-up to the successful Samsung device launched around the Mobile World Congress this year, is expected to be revealed on the 29th of August in Berlin. The duad-core, 5.5 inch device features a stylus, same as its predecessor and its marketing campaign is aimed at art creators.
+
+
+
+The trial concerning IP on mobile devices between Samsung and Apple that has been taking place in California is coming to an end, with the jurors going into deliberations today. The trial has the potential to affect the iOS and Android ecosystems, if the jury found significant patent infringement by one of the parties. Here is a short overview of the trial and for deeper insights you can go here.
+
+
+
+The plotting of device shipments by OEM for the past years by Asymco shows the intense competition and unstable state of the OEM market outside of the top 2 ones, Samsung and Apple. The graph contains the story of how Android helped several OEMs emerge in the top of the smartphone market by volume (HTC, LG, Huawei, ZTE).
+
+
+
+
+The China Internet Network Information Center, the administrative agency responsible for Internet affairs in China, released a report on usage in the country that includes:
+
+    there are more than 388 million mobile internet users in the country, a figure which exceeds desktop users, which are slightly over 380 million
+
+    72% of internet users use mobile devices to browse
+
+    desktop internet usage marketshare is in decline; 6 months ago the desktop accounted for 73.4% of all Chinese netizens and today it represents 70.7% of all internet users
+
+    the increase of mobile web users is facilitated by the rural areas, where 60.4% of the people depend on their phones to go online
+
+    the time spent online by Chinese users has increased by 6% between now and 6 months ago
+
+    stats on activities done online can be found here
+
+
+
+
+China is the top producer of mobile phones, having made 1.13 billion units last year, or more than 70% of the global production. Also during the past seven months, the country has made 620 million mobile phones, which represents an increase of 3.4% in comparison to the same period last year. The country's expertise in mobile device production has given rise to local smartphone OEMs such as Huawei and ZTE that have expanded outside of the country to penetrate a lot of the other emerging markets and are also setting goals to make a significant presence in the developed ones. The Economist featured a briefing on the largest of them, Huawei, in a recent edition.
+
+
+
+
+The major retailers in the US have announced a partnership to create a mobile wallet to integrate in their stores' experience and ease the payment process for customers. Mobile payments are an emerging, yet already impressive market that is expected to be a $1.3 trillion segment by 2017 and that is seeing a lot of competition to capture a significant chunk of the market at this early stage. Another recent development involved Starbucks and Square, where the mobile credit card payment solution will be offered as a means of purchase at Starbucks locations in the US and McDonald's is testing the mobile payment solution from PayPal to introduce at its shops in France.
+
+
+Irina
+

@@ -1,0 +1,57 @@
+Subject: Android and mobile browsing insights – Week 24
+From: Irina Sandu <isandu@mozilla.com>
+Date: 06/13/2012 11:08 PM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+    Activation rate for Android devices reached 900 000 units / day
+    iOS6 has been announced, features Siri enhancements, Facebook integration, optimizations for the Chinese market
+    Opera partnered with VimpelCom
+    Tablet owners in the US are 3 times as likely to watch video as smartphone users
+    Android and iOS users to be consuming on average more than 2 or 3 times the amount of data per month than Windows, Symbian or Blackberry users
+    Rumoured Google Nexus 7-inch tablet to feature Tegra 3 CPU and 1 GB of RAM
+    Leaked details of Windows Phone 8 to show Skype and RCS integration
+    Samsung joined the Board of the Linux Foundation
+    Telefonica and Vodafone to build joint venture in Great Britain
+    China Telecom to be expanding in Europe to target 2 million Chinese expats
+    Samsung launched TecTiles, consumer programmable NFC tags
+
+
+
+The activation rate of Android devices continued to grow and reached 900 000 devices a day, according to Andy Rubin. The figured rose from 500 000 devices per day at the end of June 2011 and 850 000 per day in February this year.
+
+
+Version 6 of iOS has been announced by Apple at its Worldwide Developers Conference, and has been made available in beta to developers. New features include enhancements for Siri, deeper integration of Facebook, cellular integration for video chatting on FaceTime and a new provider for its Maps service. Safari has also received improvements, which include iCloud tabs and an offline reading mode. To better optimize the platform for its Chinese users, Apple added added integration for Baidu (search), Sina Weibo (social), Tudou and Youku (video-sharing) for devices sold in the country. The Cupertino company also announced partnerships with car manufacturers to integrate a new version of Siri into dashboards, which is optimized for the car environment.
+
+
+Opera announced a partnership with VimpelCom, the sixth largest mobile network operator in the world by subscribers, to launch a custom version of Opera Mini across the operator’s brands in 18 countries, covering over 200 million customers. VimpelCom is active in countries which include Russia, the Ukraine, Italy, Canada, Pakistan and Bangladesh.
+
+
+Almost 1 in 4 smartphone owners in the US have a tablet, reveals a ComScore survey, and ownership among feature phone users in the country is lower and reaches almost 10%. The demographic profile shows that men and women alike have bought a tablet and the age composition skews towards older people for tablets than for smartphones. In terms of usage, tablet owners are 3 times as likely to watch video as smartphone users, and with 18% of them doing so at least once a week and 9% nearly every day.
+
+
+Ericsson released data on the average monthly traffic volume per subscription for different mobile operating systems, which showed Android and iOS to be consuming on average more than 2 or 3 times the amount of data the Windows, Symbian or Blackberry smartphones are using.
+
+
+Pictures which are rumoured to feature a Google Nexus 7-inch tablet produced by Asus have been leaked. Hardware specifications would include Tegra 3 CPU, possibly in the quad-core configuration, and 1 GB of RAM.
+
+
+Alleged details about the upcoming Windows Phone 8 release have been leaked and they feature screenshots of Skype and Rich Communication Suit integration, improved hardware support for multi-core processors and NFC support integrated with a wallet solution. RCS is an industry effort backed predominantly by network operators to integrate interoperable services such as instant messaging, video and image sharing into mobile devices. In 2011, the Joyn brand was launched as the name for RCS services.
+
+
+Samsung has joined the Linux Foundation Board of Directors, to reflect its commitment to the platform and “streamline its participation with the kernel community and adopt open source best practices.”
+
+
+Telefonica and Vodafone announced that they plan to combine their wireless phone grids in Great Britain and build a joint venture to compete with Everything Everywhere, the market leader in the country. The combination of Telefonica’s O2 and Vodafone UK would create a national LTE broadband network, the spectrum auction for which is being organized by the British government by the end of this year.
+
+
+China Telecom, the third largest mobile network operator in China, is planning to expand in several European countries, after having launched into the UK. The new ventures are targeted at Chinese expats and ethnic communities and are setup as MVNOs and focus on value added services. The top five economies in Europe that China Telecom is targeting: the UK, France, Germany, Italy and Spain have a combined total of 2 million Chinese expats.
+
+
+Samsung launched TecTiles, a set of NFC tag stickers available for end-users that can be easily programmed to interact with NFC-enabled Samsung Galaxy devices, as a means to boost NFC technology usage. The tags can be programmed for a multitude of interactions, including the launching of applications, the sending of messages, the sharing of contact information, the changing of phone settings. TecTiles are available in the US.
+
+Irina

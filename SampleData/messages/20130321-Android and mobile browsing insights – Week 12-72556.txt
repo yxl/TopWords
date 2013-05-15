@@ -1,0 +1,36 @@
+Subject: Android and mobile browsing insights – Week 12
+From: Irina Sandu <isandu@mozilla.com>
+Date: 03/21/2013 12:18 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+
+
+Google is rumoured to be unifying its communications services. Voice and messaging products like GChat, Google Voice, Talk, might be integrated into a Babber name. The announcement is expected to be made at Google I/O in May.
+Important because combined with the anticipated new Android release it raises suspicion of Google moving into network operator territory. Providing communications services on the device puts Google in a position of direct competition with the core service of carriers, turning Android into an even bigger threat to their business. Likely response is more attention for alternative, open smartphone platforms, like our own. 
+
+
+
+Samsung revealed the new Galaxy S4, expected in market in Q2. Most differentiating feature is the capability to sense so - called "air gestures", which are made by hovering the finger above the screen, rather than touching it. Also of interest the eye tracking capability. Other specs include a 5 - inch screen, a faster processor (1.9 GHz quad - core or 1.6 GHz octa - core) in variants of the Qualcomm Snapdragon and the Samsung Exynos series, a bigger camera (13 MP). 
+Important because  it showcases the hardware innovations the biggest player will influence the market to and gives a sense of the still existing power of differentiation of this part of the value chain. If compared to similar periods in the last years, can give an indication of the evolution of the health of this essential layer of the mobile industry. 
+
+
+
+Google removed AdBlock Plus from the Google Play Store. The developer still has the app available on its website and will add it to alternative stores. Existing users can continue to use the service, but will not receive updates from the Android store. 
+
+
+
+IM app Cubie shares how they got to be featured in the Google Play Store. "When Google contacted them, they had already satisfied three of Google’s top four criteria: an app that competes globally, a high consistent star rating, favorable user comments, and design criteria. For the final aspect, Cubie had to adapt to Google’s requested design restrictions before being let on the featured section of the Play store." "Before we got on Google Play, our total downloads across iOS and Android were averaging between 15,000 to 20,000 downloads per day. After being featured on Google Play, we were getting over 50,000 downloads per day on Android alone."
+
+
+
+Amazon to start carrier billing partnership with Bango this year, signaling more interest from the company in the phone segment, as carrier connectivity is not as prevalent on tablets.  Rumours are around more push for the Amazon Android app store and a possible Amazon phone. 
+
+
+
+Irina
+
+
+
+

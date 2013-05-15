@@ -1,0 +1,59 @@
+Subject: Android and mobile browsing insights - Week 3
+From: Irina Sandu <isandu@mozilla.com>
+Date: 01/19/2012 02:34 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+
+* Motorola and Intel entered a multiyear partnership to produce Intel-based Android devices
+
+* CyanogenMod picking up among early-adopters, with the support of OEMs
+
+* Samsung announced the intention to merge Bada and Tizen; no decision yet
+
+* Nokia to reach a 11% smarthphone shipments marketshare in 2012, down to 8% in 2013
+
+* Web-enabled feature phones picking up interest from phone vendors
+
+* In 2010 an estimated 28% of all mobile handsets were smartphones in Western Europe, with an expected 37% in 2012 and 49% in 2015, reveals the European Mobile Observatory
+
+
+--------------
+
+Motorola and Intel announced a multiyear, multi-device partnership in which the OEM will use Intel's Atom processors to power its Android products. The first device will be launched this year and it will be part of Motorola's revised strategy of releasing fewer, but more focused devices.
+
+
+
+The trend of 3rd-party ROMs to be installed on Android devices continues to pick up, although not at a rate that would significantly impact the Android ecosystem. CyanogenMod, the most popular non-official Android fork, had been installed on more than 1 million devices. The creators of the Cyanogen might also launch an app store for apps rejected from the official Android Market. OEMs, like Samsung and HTC, are responding positively to this trend by providing bootloader unlock tools.
+
+
+
+Samsung announced an intention to merge their Bada operating system with Tizen, an open source OS backed by the Linux Foundation and Intel. The OEM did not confirm the decision, but said that it is "carefully looking at the option". After the potential merge, Bada would be kept as on option for lower-end smartphones, with Tizen for more premium devices. Bada currently has 2-3% of the smartphone shipments marketshare.
+
+
+Nokia will sell an estimated 37 million Windows Phone devices in 2012, followed by 64 million in 2013. This performance would put the OEM at 11% smartphone marketshare for 2012 and 8% in 2013, down from the 33% it enjoyed in 2010.
+
+
+
+Feature phones are becoming smarter, with the creation of a niche for Web-enabled feature phones, who also support applications. Yahoo, Mediatek and the Spice Group, an Indian conglomerate, are some of the actors that are interested in the potential of this market and developing efforts in the area. A platform dedicated to this niche is the Maui Runtime Environment, which runs on MediaTek's chipsets. The Spice Group, who has already launched an appstore called "S Apps Planet" for the platform, intends to launch research and development for Web-enabled feature phones.  Traditionally, feature phones have been able to access data services through WAP.
+
+
+
+The GSMA published the 2011 European Mobile Observatory, which states that in Europe:
+
+    By 2015, the will be more data consumed than any other region on a per capita basis.
+    Mobile operator revenue growth rates have been declining for the past few years due to the economic climate, market maturity and greater regulatory interventions.
+    Mobile data revenues are partially offsetting reductions elsewhere with strong growth in broadband connected to sales of smartphones and dongles. Data now represents 12% of carrier revenues, up from 4% in 2007.
+    Approximately 89% of the population uses mobile services - an extremely high penetration rate. Many customers own multiple SIM cards, which have a penetration rate of 128%.
+    In 2010 an estimated 28% of all mobile handsets were smartphones in Western Europe, with an expected 37% in 2012 and 49% in 2015.
+
+Full report can be downloaded here.
+
+Irina
+
+
+

@@ -1,0 +1,50 @@
+Subject: Android and mobile browsing insights – Week 39
+From: Irina Sandu <isandu@mozilla.com>
+Date: 10/04/2012 12:11 AM
+To: mobile-insights@mozilla.com, mobile-frontend@mozilla.org, mobile-platform@mozilla.org
+
+Hello,
+
+
+This week in mobile:
+
+
+    Mobile devices account for more than 10% of page views in the US and select European countries
+    The average tablet users in the US does not generate more page views than the average phone user, despite longer browser sessions
+    Difference in data tracking at infrastructure and device levels exposed in US study
+    Upgrade to 4G speeds increases data demand of users
+    Rumoured announcement of 7.8-inch iPad Mini in October
+    55% of Androids are on Gingerbread, 23% on Ice Cream Sandwich and 12% on Froyo
+    Chrome is default browser on the Motorola Razor M
+    25% of Americans own a tablet, half on iOS and half on Android
+    Device with 1.7 GHz quad-core CPU soon available in Europe and North Asia
+
+
+
+Mobile devices account for 13.3% of page views in the US, a growing trend from twice less just a year ago. Europe is also seeing good shares of mobile traffic, with the UK seeing 16.4% of its traffic on mobile, followed by Ireland with 11.5%, Russia with 10.4% and Norway with 10%. The rest of Europe nations have less mobile traffic and are spear-headed by Spain, Switzerland and Sweden in the 9% range down to Portugal, Poland and Turkey with 3-1%.
+
+
+Inside the US, 9% of the 13% mobile traffic comes from phones and 4.3% from tablets, a ratio which is proportional to the penetration of the 2 form factors in the country. This means that while browsing sessions on tablets are longer than those on phones, they don't happen as often and an average tablet user does not account for more than 1 phone user in terms of page views.
+
+
+A study in the US exposed differences in data usage measuring at the device level and at carrier tower level, where there was more traffic counted than it reaches the device. This comes from the fact that data is measured when it comes out of the infrastructure and does not account for lost signal or have a check at the device level, in the region that was used for the study.
+
+
+20-30GB / month of data is required to meet the needs of the average 4G user, according to CiQual Research. 33% of the data is being used to upload, compared with 11% for 3G customers. Social Media and sharing videos and pictures is changing the balance of downloaded versus uploaded traffic.
+
+
+Rumors point to the announcement of an 7.8 inch iPad Mini at a press event in October. This release would open up a new market segment for iOS on tablets that has been relatively small and uncompetitive until a few months ago, when the Nexus 7 tablet was launched, followed by a new wave of Kindle Fires
+
+
+New Android version distribution numbers: Gingerbread at 55.8%, Ice Cream Sandwich at 23.7%, Froyo at 12.9%, rest amount to 7.6%.
+
+
+Motorola bundles Chrome as the default browser on the Razor M device.
+
+
+25% of Americans own a tablet, half on iOS and half on Android.
+
+
+New speed records achieved: the 1.7 GHz quad-core Tegra 3 HTC One X+ will be available in Europe and north of Asia this month.
+
+Irina

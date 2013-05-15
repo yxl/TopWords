@@ -1,0 +1,58 @@
+Subject: Android and mobile browsing insights - Week 37
+From: Irina Sandu <isandu@mozilla.com>
+Date: 09/15/2011 04:09 AM
+To: everyone@mozilla.org
+
+Hello,
+
+Every week I am sending out an update on what's been happening in the mobile market and is relevant to Mozilla. If you'd like to join the distribution list, email me or file a bug to subscribe to mobile-insights@mozilla.com. Below is this week's update.
+
+Be Mobile!
+Irina
+
+
+
+Summary below, details after the break:
+
+Opera announced another partnership with a major Web destination in Brazil: iG
+The Dolphin browser for the iPad was released
+Android will feature support for the x86 architecture, particularly for Intel's 32-nm Medfield line
+Firefox was successfully installed on a Windows 8 preview tablet distributed by Microsoft to press at the Build conference
+The FCC net neutrality rules will likely come into effect in 2-3 months after passing review
+
+-----------
+
+Opera announced a partnership with iG, a Brazilian portal, to offer premium content to users of the Opera Mini mobile browser and the Opera desktop browser. The browser maker has a similar deal with Globo.com, another one of Brazil's top Web destinations and in July this year has partnered with Motorola to include Opera Mobile preloaded on the newest Motorola device, the Motokey XT, launched in the Brazilian market. - [1]  
+
+
+Mobotap, the company behind the Dolphin mobile browser, launched an iPad version. Promoted features include Dolphin's extended gesture support, its Webzine feature, side-menus, tabbed browsing and private mode. - [2] 
+
+
+Google announced at the Intel Developer Forum that Android will support the x86 architecture and will have optimizations for Intel's chips. A phone running Gingerbread and a tablet on Honeycomb on x86 Medfield chips were shown. The Medfield line is Intel's 32 nanometer mobile-optimized family which will hit the market early 2012 and will represent an effort to break ARM's dominance in the field. Intel's longer-term plans include production of 22-nm chips, followed by 14-nm after 2 years to allow the company to release chips with a power consumption equal to that of ARM in 2013. - [3] & [4] 
+
+
+Microsoft gave a preview of Windows 8 at its Build conference and distributed Samsung tablets running the OS to press. Windows 8 has both a desktop interface and a Metro-style one derived from Windows Phone, switchable with a single tap. The browser, Internet Explorer 10, always runs on full screen, with the chrome hidden, which can be called with a swipe. Windows 8 contains a set of 5 buttons that impact any app, called charms, similar to the 4 ever-present buttons on Android.  It also has a method of allowing applications that are not build to work together to interact through so-called contracts.   Journalists reported to have successfully installed Firefox on Windows 8. More details and screenshots at the link. - [5] 
+
+
+With the growing importance of the mobile market comes increased competition: NTT DoCoMo and other Japanese firms are rumoured to plan to partner with Samsung to produce wireless baseband chipsets for smartphones in order to break the dependence on Qualcomm, which controls 80% of the market. The joint venture would also include Fujitsu, NEC and Panasonic. The baseband processor in a mobile phone manages all the radio functions and uses the GSM, CDMA or UMTS standards. Qualcomm's importance in the market relies on key patents on the widely adopted 3G/W-CDMA technology and is counted as one of the reasons for the development of the uncompatible TD-SCDMA 3G standard in China. - [6] 
+
+
+The FCC rules on net neutrality, passed in December 2010, will likely be published in 3 weeks and then go into effect 60 days later, after passing review by White House's Office of Management and Budget this week. The rules are banning cable television and telephone providers from preventing access to competitors or specific web sites and also include a more limited set of rules for wireless providers, but do not prevent ISPs from charging more for faster access. - [7] 
+
+
+The archive for all weekly mobile insights can be found at https://intranet.mozilla.org/Marketing/Insights/Mobile and they are also published on Planet Mozilla. 
+
+
+---------------------
+
+[1] - http://www.opera.com/press/releases/2011/09/13/
+[2] - http://blog.dolphin-browser.com/2011/09/12/dolphin-brings-clever-browsing-to-the-ipad/
+[3] - http://arstechnica.com/gadgets/news/2011/09/intel-demos-android-23-on-a-medfield-smartphone-prototype.ars 
+[4] - http://www.pcworld.com/article/229596/intels_new_smartphone_chip_is_key_arm_battle.html
+[5] - http://thenextweb.com/microsoft/2011/09/13/hands-on-with-windows-8/
+[6] - http://www.fiercewireless.com/story/rumor-mill-samsung-docomo-others-plan-jv-break-qualcomm-hold-basebands/2011-09-13 
+[7] - http://www.reuters.com/article/2011/09/12/us-usa-internet-regulation-idUSTRE78B6QJ20110912
+
+
+Irina Sandu | Mozilla | +49 1520 56 58 596 
+

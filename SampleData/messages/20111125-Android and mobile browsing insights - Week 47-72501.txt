@@ -1,0 +1,57 @@
+Subject: Android and mobile browsing insights - Week 47
+From: Irina Sandu <isandu@mozilla.com>
+Date: 11/25/2011 12:08 AM
+To: mobile-insights@mozilla.com
+
+Hi,
+
+This week:
+
+* Ice Cream Sandwich will get Flash support by the end of the year
+* Amazon and Facebook rumoured to be releasing phones next year
+* Opera Mini reached 140 million users
+* Dolphin HD v7.2 beta was released, with the ability to encrypt and save data to SD card
+* China's smartphone market surpassed the US one in Q3
+* Africa became world's second biggest mobile market after Asia
+* Samsung and Google in late-stage talks on Google TV
+* FCC takes steps against the proposed merger of the US branch of T-Mobile and AT&T
+
+--------------
+
+
+Adobe confirmed that they will deliver Flash support for Ice Cream Sandwich before the end of the year. As the new version of Android is only just emerging in the market and will likely have a long life, given Google's pledge to prolong the platform's release cycle, Flash is posed for a slower decline in mobile devices and it can expected to still be a significant differentiator from iOS for this version of Android. 
+
+
+
+Rumours about phones coming from Amazon and Facebook surfaced. Amazon's smartphone is expected to be produced by TMS, the same company behind the Kindle line, with production costs   in the middle range and possibly subsidized by Amazon to bring the price down to the lower end. Timing for the launch might be the end of 2012. Facebook is rumoured to be partnering with HTC, who has already produced phones models with Facebook integration in the past. The new project, code-named Buffy, will run a modified version of Android, tweaked heavily to include Facebook's services as well as to support HTML5 as a platform for applications. 
+
+
+
+Opera Mini reached in October 140 million users. Much of the recent growth has happened in countries like Russia, Indonesia, India, China and Brazil. 
+
+
+
+Dolphin HD was updated to version 7.2 beta, which comes with an Encrypted Backup and Restore feature, which enables users to save private browsing history, settings and bookmarks on the SD card, in an encrypted form.
+
+
+
+As mobile phones reach the hands of consumers everywhere, geographical shifts in terms of market sizes are emerging. China is now reported to have a bigger smartphone market than the US in terms of shipments in Q3. This development was accelerated by the emergence of affordable smartphones, which was in turn made possible by Android, which is predicted to account for more than 50% of total smartphone shipments in Asia in 2011. Nokia and its Symbian platform are still leading the market in China, a position that is increasingly threatened by Android. 
+
+
+
+Another geographical shift reported this week concerns Africa, a continent of 1 billion people, which has passed Latin America to become the world's second largest mobile market, after Asia. Africa has now 620 million mobile connections, which account for a 57% penetration and 30% growth year-over-year. 96% of subscriptions are prepaid, with voice services dominating, and data demand increasing by 67% every year. The region is characterized by the emergence of a unique industry in innovative mobile services. Mobile Value-Added Services have been launched throughout the continent to enable and support basic areas and activities such as agriculture, banking, education, healthcare and gender equality. In particular, the emergence of mobile money transfers and mobile banking puts Africa firmly at the forefront of the global Mobile Money industry. Download the full report. 
+
+
+
+Samsung and Google are reported to be in "late-stage talks" in preparation of developing a Samsung Google TV, which might launch early 2012. A few weeks ago Google confirmed that it will be using Android 3.0 as the platform for its TV solution.
+
+
+
+The FCC decided to take steps against the proposed merger of the US branch of T-Mobile and AT&T as it concluded it would "harm consumers, kill jobs and result in an overly concentrated wireless phone industry". AT&T will have to prove before an administrative law judge that the deal is in the public interest, an obstacle which adds to the Department of Justice's preparing of an antitrust trial in the matter and to several industry players who have filed suit against the merger. 
+
+
+The archive for all weekly mobile insights: https://intranet.mozilla.org/Marketing/Insights/Mobile 
+
+
+Irina
+

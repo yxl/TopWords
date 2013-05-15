@@ -1,0 +1,64 @@
+Subject: Mobile Newsletter #1 : Sept 20, 2011 Beta Channel for 7
+From: Naoki Hirata <nhirata@mozilla.com>
+Date: 09/21/2011 06:40 AM
+To: android-mobile-nightly-testers@mozilla.org
+
+Hey Firefox for Android testers!,
+
+This is a biweekly newsletter to those that are testing Firefox in any release channel. Our goal is to provide you with general mobile related news and guidance towards how and where you, as a tester can help out!  Our first newsletter will highlight general news and and status information about the Beta Channel.
+
+General News:
+
+    Telemetry has landed. Please enable  it!.  You can find this in the Preference->Feedback-> Send performance data.  Details on what Telemetry is does can be read on mfinkle's blog ( http://starkravingfinkle.org/blog/2011/08/firefox-mobile-send-performance-data/ )
+
+
+    Ted has landed an addon called Android Symbol Sender ( https://addons.mozilla.org/en-US/mobile/addon/android-symbol-sender/ ).  It provides us with symbols to look at a crash stack properly. Please install this if you are experiencing crashes in Firefox.
+
+    If you are interested in the latest news regarding crashes on a weekly basis to see what is getting fixed and what remains, there is a weekly crash report available for viewing at: https://wiki.mozilla.org/index.php?title=QA/Fennec/crash_rep_19Sept2011
+
+    If you do crash, please go to about:crashes and check to see if your crash was listed. If your crash was listed, please click on the link to verify that the crash was sent to Socorro.
+
+
+    Bug 459117 is meta bug to help try to make Firefox for Android faster; this includes things such as panning, content refreshing, and making the startup time faster.
+
+    What's new on various channels : https://wiki.mozilla.org/Mobile/Platforms/Android#What.27s_new.3F
+
+
+Beta:
+
+    How to download the beta : Go to the Android Market either via the website or through your Android device (phone or tablet), search for Firefox Beta, and install away!  If you already have the beta installed, please make sure you have it updated.
+
+
+    Language choice selection is now available on first run: (https://wiki.mozilla.org/Fennec/Features/langchoice)
+
+    Text Selection capabilities are now available ( https://wiki.mozilla.org/Fennec/Features/androidcopypaste )
+
+
+Testing Areas:
+
+    Virtual  Keyboards (aka SKB, VKB, Soft Keyboards) : could always use some help  in terms of testing.  With your favorite keyboard type and web pages,  please help with the testing.
+
+    Website  Compatibility : social sites like google plus, facebook; banking sites ;  blogs, rss feeds, meme pages like reddit to give an example of some of  the sites that we would love for you to use as an end user.  Please use your favorite sites!
+
+    Content copy/paste to clipboard could use more testing
+
+
+Reporting/Feedback:
+
+    If you run into a bug, please file a bug in Bugzilla.  If you aren't sure how or don't want to file bugs, then please send a message to the dev-platforms-mobile mailing list.
+
+    If you have feedback on the newsletter itself, please send email to nhirata@mozilla.com
+
+
+Thanks so much for reading and testing!
+
+Til next time,
+The Mobile QA Team
+
+
+
+_______________________________________________
+Android-mobile-nightly-testers mailing list
+Android-mobile-nightly-testers@mozilla.org
+https://mail.mozilla.org/listinfo/android-mobile-nightly-testers
+

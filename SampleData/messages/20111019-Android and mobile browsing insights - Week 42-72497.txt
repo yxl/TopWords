@@ -1,0 +1,80 @@
+Subject: Android and mobile browsing insights - Week 42
+From: Irina Sandu <isandu@mozilla.com>
+Date: 10/19/2011 09:42 PM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week is mostly about Android 4.0. There is also news on Opera's new approach for Android, a report on the Internet's contribution to GDP, which reaches up to 6% in mature markets like Sweden, Apple missing analysts' forecasts but coming back in Q4 and a case study on an NFC security implementation. 
+
+
+----------
+
+Android 4.0, and its flagship device, the Samsung Galaxy Nexus, launched today, on the 19th of October, in Hong Kong. The first devices with the new OS will ship to consumers in November in Asia, Europe and North America. 
+
+This release manages to combine the usual impressive platform capabilities and hardware specs characteristic to Android updates with attention to design and UX, thus moving closer to bridging the gap with iOS in the user experience field. 
+
+
+The browser does not have Chrome branding, but keeps the old one; its improvements include:
+
+* better tab viewing, 
+* live previews of websites in the thumbnail open tabs list,
+* incognito mode,
+* web pages load the mobile sites as default; users can request the desktop version; 
+* Save for Offline features in HTML format
+* bookmarks sync with Chrome on the desktop
+
+
+Android 4.0 user-facing improvements:
+
+* works on phones and tablets
+* cleaner design, less boxes and squares 
+* text input more responsive, spell-checker
+* improvements to speech-to-text
+* the People app integrates contacts on the phone with Google+, Twitter
+* gmail improved 
+* apps can be grouped in folders
+* camera improvements; quicker to take pictures
+* new face-recognition phone unlocking mechanism
+* 3 hard-coded buttons: Back, Home and Recent apps
+* measure and control data usage feature; ability to set a warning for data limit on mobile networks
+* Android Beam: transmit information between 2 devices by "bumping" them via NFC; 3rd-party APIs available
+
+
+Android 4.0 developer-facing improvements:
+
+* Unified UI toolkit for phones and tablets
+*  New social and calendar APIs, Android Beam for NFC-based instant sharing, Wi-Fi Direct support, Bluetooth Health Device Profile support.
+* Improved notifications, lockscreen with camera and music controls, and improved app management in the launcher.
+* New graphics, camera, and media capabilities: Image and video effects, precise camera metering and face detection, new media codecs and containers.
+* Interface and input: Hardware-accelerated 2D drawing, new grid-based layout, improved soft keyboard, spell-checker API, stylus input support, and better mouse support.
+* Improved accessibility: New accessibility APIs and text-to-speech APIs for writing new engines.
+* Enhancements for enterprise: Keychain and VPN APIs for managing credentials and connections, a new administrator policy for disabling the camera.
+
+
+
+Google also announced 190 million Android devices activated to date, 6 million of which are tablets. 
+
+
+
+Opera announced that it will produce a hybrid browser in order to better compete on Android. The new browser will launch in 2012 and will be a combination of its proxy technology used on Opera Mini and the full version of Opera Mobile. With the hybrid approach that Opera plans for Android devices, the browser will detect when the network is strained and switch into a Mini mode to cut the data-transfer burden. 
+
+
+
+The Internet is contributing more to countries' GDP, with a new report putting the figure up to 6.3% in Sweden, 5.4% in the UK, 4.6% in South Korea, 4% in Japan and 3.8% in the US. The contribution is growing fastest in the emerging economies, with India leading with over 20% growth, followed by China and Brazil. The United States captures more than 30% of global Internet revenues and more than 40% of net income. South Korea is rapidly accelerating its influence on the Internet economy at a faster rate than Japan. Download the full report.
+
+
+
+Apple did not meet analysts' expectation of revenue and sales for Q3, but it expects to achieve a record next quarter. In Q3 the company sold 17.1 million iPhones, 21% more than the same quarter last year,  and 11 million iPads, which grew 166% year-over-year. Reason for the lower than expected performance is believed to be the delay of the iPhone 4S from summer to autumn, which will have shifted a proportion of sales from Q3 to Q4. For the next 3 months, Apple projects $37 billion in revenue, selling over 20 million iPhones and also more than 11 million iPads.
+
+
+
+Researchers at an US university developed software for Android than can enforce policies on mobile devices based on what room they are in, using Bluetooth and NFC technology. The software uses location-based authentication with a policy engine to enable or disable features and applications, which can restrict access to information on the phone based on the physical surroundings. The full case study. 
+
+
+The archive for all weekly mobile insights: https://intranet.mozilla.org/Marketing/Insights/Mobile 
+
+Irina
+ 
+

@@ -1,0 +1,69 @@
+Subject: Android and mobile browsing insights – Week 26
+From: Irina Sandu <isandu@mozilla.com>
+Date: 06/28/2012 12:55 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+First 2 news, on Microsoft and Amazon, respectively, have commentary, followed by regular news listing. 
+
+
+
+    Microsoft showed the Windows Phone 8 platform, its next proposition for smartphones. The defining characteristic for the new platform is the adoption of the NT kernel, the same one that has been used in the Windows environment for the desktop since XP, to replace the Windows CE one that Microsoft has been using for its mobile platforms. This shift provides better hardware support, including for multicore processors, more file systems and device drivers and enables the writing of native applications in C++. It is an important move for the developer base because they can use familiar tools and many of the APIs they know from the desktop, which they couldn't do on Microsoft's previous Windows Phone 7 attempt to create a mobile developer ecosystem. This kernel change will not allow for current Windows Phone 7 devices to be updated to the new version; they will instead receive an update to v 7.8 to bring similarity from a user experience perspective. 
+
+
+    The new Windows Phone 8 will ship on devices this fall and will include top-of-the line hardware with support for multi-core processors, a NFC-based mobile wallet solution and Internet Explorer 10. Microsoft will emphasize synchronization capabilities between its desktop and mobile Windows offering and provide content synchronization features through NFC technology. Internet Explorer 10 claims to be 4 times faster and to have 2 times more HTML5 feature support than IE on Windows Phone 7.5 (Mango) and will also introduce a proxy-browsing mode. 
+
+
+    Microsoft's Windows Phone 8 announcement and the previous one regarding the Surface tablet line point to a strategy of consolidation and alignment for the desktop, tablet and phone segments. Microsoft's main leverage point for success in the mobile landscape, where it has a rather long track record of different platforms and shifting strategies, is its dominant desktop presence and its ability to seamlessly integrate and transfer the user's data and experience from the PC to the tablet and phone. To that respect Microsoft has shown some of the elements that will facilitate it, but it has yet to provide a convincing strategy. The Windows Phone 8 announcement points to a strategy to win the goodwill of developers so that the new version enjoys a rich and good quality app catalogue, to make up for Windows Phone 7's failure to do so. The lack of an upgrade path for Windows Phone 7 devices to the new version will not have a significant impact on the smartphone market, as it only affects the 1% of smartphone users that own a WP7 device, which is less than the 2% that are on its predecessor, Windows Mobile. 
+
+
+
+
+
+    Amazon plans to rollout the international version of its app store later this year, starting with the UK, Germany, France, Italy and Spain. The company has reached out invitations to developers to submit their mobile applications to be distributed in these new countries. Launched on the 22nd of March 2011 with an app inventory of 3 800, the store grew to 31 000 in the course of an year. The store's main differentiators are the 1-Click purchasing and TestDrive features. This effort has raised rumours about a potential international sale of the company's Kindle Fire tablet and a different set of rumours points to a version 2 launch on the 31st of July.
+
+
+    The Kindle Fire's succes in the US has been facilitated by its very competitive price combined with Amazon's favourable brand image and rich availability of content in the country. The different environment of the European landscape is not as favourable if Amazon decides to pursue a similar strategy for the additional countries. While the company enjoys certain brand recognition within Europe, it is still not on par with the US and the poorer content availability in European languages is another obstacle to the tablet offering enjoying a similar launch success. Furthermore, the $200 tablet market is becoming more competitive this summer according to rumours that Google might launch a model in this segment featuring its latest Android version. To adapt the Kindle Fire offering to the European market Amazon would need to complement its focus on content availability with differentiators that make it competitive on the generic Android tablet market, such as superior performance, usability, hardware finish. 
+
+
+
+
+
+This week in mobile:
+
+
+    New Android version, 4.1, and new device(s) rumoured for Google I/O
+    Android dominates the Chinese smartphone market with 55%, iOS at 12%
+    ZTE looking to expand to high-end range and Western markets
+    Mobile payments main factor for growth of NFC applications
+
+
+
+
+    A Silicon Valley non-profit released a new version of their mobile browser, which was welcomed by raving reviews (isn't that an appropriate alliteration?).
+
+
+
+    In the week before Google's I/O event details about upcoming announcements leaked. They include a new version for Android, v 4.1, code-named Jelly Bean and a 7 inch Nexus tablet, rumoured to feature the latest software version on a 1.3 GHz Tegra 3 processor with 1 GB of RAM at a very competitive $199 price tag. 
+
+
+
+
+    Android is the dominant smartphone operating system in China with 55% of the install base in Q1 2012, according to an iiMedia report. On second place there is Symbian, with 25%, followed by iOS, with a 12% share. The report puts the total number of active smartphones in the country to 252 million devices, which combined with the market of Web-enabled feature phones puts the country at a total of 372 million mobile Web users. Android's dominance in China puts the amount of different device models to over 2 000, which includes units of forks of the Android source code developed among others by Baidu and Alibaba.
+
+
+
+
+    ZTE, one of the Chinese handset producers looking to make a presence in Western smartphone markets, announced its goal of selling 35 million smartphones in 2012 as part of its effort to become the number 3 smartphone vendor in the world by 2015. In 2011, the company shipped 15 million units, mostly in Asia. To accomplish this goal ZTE is launching models to compete in the high-end of the spectrum, which complement its already well developed medium and low-range offering. The new devices will be part of the upcoming Grand range, which debuts with the launch of the ZTE Grand X, a dual-core Tegra 2 CPU and Android v 4.0 model, to be available across Europe and Asia. A x86-based device is also expected to be part of the new range. As the company makes a presence on the US market, it needs to settle investigations in allegations that hardware by Chinese vendors, such as ZTE and Huawei, may contain security backdoors that could facilitate espionage.
+
+
+
+
+    Mobile payments are the fastest-growing application of NFC technology in the Asia-Pacific region, according to Datacard, a payment solutions provider in the area. The main driver for the growth are emerging markets that skip the PC stage and move directly to mobile. By 2015 there are expected to be 863 million NFC-enabled smartphones in the market, according to Frost & Sullivan. 
+
+
+
+Irina
+

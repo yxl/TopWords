@@ -1,0 +1,40 @@
+Subject: Android and mobile browsing insights – Week 18
+From: Irina Sandu <isandu@mozilla.com>
+Date: 05/02/2013 01:17 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+
+Highlights from the mobile world:
+
+
+Intel has showed its support for the acquisition of US carrier Sprint by SoftBank, a Japanese network operator. The move comes as the Dish Network, a TV and satellite service provider, has also entered a bid. Sprint is the third largest US mobile broadband provider, with 12% of the market. 
+Important because SoftBank is one of the backers of Tizen, Samsung and Intel's effort to develop a smartphone OS. If it acquires Sprint, it would ease Tizen's journey into the US market.
+
+
+
+Samsung is preparing to launch a water- and dustproof version of the Galaxy S 4, which would be called the Galaxy S 4 Active. Similar are rumored to be in the plans for some of the tablet and of the Note line devices. 
+Important because Google executives have hinted to be focusing the first Motorola devices designed by Google on durability aspects, such as battery life and ability to resist drops and physical shocks. Samsung's initiative in the same direction is another indication that indeed we will expect improvements on these fronts from Motorola. First device might be revealed this month at Google I/O.
+
+
+
+Google has explicitly banned the update of apps through means outside of the Play Store, if they had been installed through it. This has been interpreted short - term to be a measure to affect the Facebook app, which had been doing so. 
+Important because  it signals to developers another measure in controlling the user experience of 3rd - party apps on Android. A potential answer can be more developer interest into platforms that allow a more direct and free relationship to users. Google is constrained in what it can allow to 3rd - party apps, given their competition with its own that come pre - installed on Android.  
+
+
+
+Q1 smartphone shipment numbers are out. Samsung sold most devices (70.7 million), with 32.7% of the market, according to IDC. It is followed by Apple (37.4 million) with 17.3% and LG (10.3 million) with 4.8%. The last 3 in the top 5 are the Chine OEMs, Huawei and ZTE, with 4.6%, and 4.2%, respectively. In the overall phone segment, Samsung is also number 1, with 115 million and 27.5% of the market, followed by Nokia with 61.9 million and 14.8%. Apple is on 3rd place with 8.9% and LG is fourth with 3.7%. 
+Important because it highlights the Apple / Samsung duopoly and shows the up and coming Chinese influence over the market, represented by Huawei and ZTE. 
+
+
+Opera released stats about its Indian user base: top domains visited are for social networking, search and cricket. 21% of the traffic is for Facebook, followed by Google at 5.8% and ESPNcricinfo at 1.7%. Almost 50% of the top 100 domains visited are related to news and information, search, price comparison and e-commerce. 9 out of the top 10 Android handsets used are from Samsung, followed by Sony and Micromax. Each of the top 10 Android devices cost less than 186 USD except the last one, the Galaxy S 2, which ranks last. The typical profile of an Opera Mini Android user in India is between 18 to 24 years old, lives in an urban area, attends college or works as a full-time employee and surfs the Web at least 1 hour every day. 
+Important because  Opera is the top used mobile browser in India according to StatsCounter. 
+
+
+Microsoft released an app and marketing campaign to entice users to switch from Android to Windows Phone. The app lets the user check whether her apps are available in the WP store and recommends similar ones if they are not. 
+
+
+Irina
+
+

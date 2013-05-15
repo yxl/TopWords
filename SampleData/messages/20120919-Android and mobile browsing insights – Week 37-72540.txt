@@ -1,0 +1,36 @@
+Subject: Android and mobile browsing insights – Week 37
+From: Irina Sandu <isandu@mozilla.com>
+Date: 09/19/2012 11:40 PM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+    New iPhone launch will maintain Apple at ~20% shipment marketshare for 2012
+    Amazon continues tablet strategy with new Kindle Fire releases
+    Foxconn, Samsung to build factories in Brazil, Indonesia
+    Chrome accounts for 2.7% of iOS Web traffic
+    First Motorola Intel-based smartphone announced for Europe and Latin America
+    Android reached 500 million activations
+
+
+Apple released the latest version of its iPhone, version 5, a bigger, thinner, lighter and LTE-enabled improvement on the 4S version which will run on iOS 6. The device has been welcomed with positive reviews, although the lack of NFC or USB 3.0 have been mentioned to let some early-adopter audiences down. The new iPhone is expected to sell well and keep in line with previous launches to allow Apple to grow at a similar pace with the market and maintain its ~20% marketshare of shipments it has had for the past years. Q4 sales, which is the biggest season for smartphones, are expected to amount to 58 million iPhones and 25% of the segment, which would help put Apple at 21% of yearly shipments, a 1 % increased from 2011. Samsung is still expected to be the top smartphone device vendor for the year with a forecasted 70 to 75 million devices sold in Q4. The whole Samsung range of devices for the Christmas season is yet to be announced, although the Samsung Galaxy Note II will be out in the US market by mid-Novemeber.
+
+
+Amazon announced the next devices in its Kindle Fire tablet line, a 7-inch and a 8.9-inch HD version of the first generation Kindle Fire, launched in the autumn of 2011. The new tablets feature dual-core 1.2 to 1.5 GHz chipsets with 1 GB of RAM. With this launch Amazon extended availability beyond the US to Western Europe for the UK, Germany, France, Italy and Spain. This announcement confirms that Amazon is continuing the strategy of producing low-cost and loss-generating hardware to act as a portal to Amazon services and generate content sales. Availability in non-English speaking countries, where the amount of content is more limited, is a bold move for the company. Reviews of the devices are conservative in the context of increased competition in the lower-end Android tablet from the latest flagship tabled launched by Google in co-operation with Asus. The first generation Kindle Fire is expected to have sold between 6 to 7 million units in the US.
+
+
+Foxconn will be opening an industrial park in Brazil. Construction is set to begin in 2012 and the factory will be online 2 years after that, adding to its existing 2,500 workers facility in Sao Paulo. Foxconn is also rumoured to be planning a presence in Indonesia, another of the high growth BRIC economies, with Samsung already having declared interest in setting up production in the country.
+
+
+Chitika mobile advertising agency released stats on usage of browsers on iOS claiming that Chrome accounts for 2.7% of traffic. Safari is the dominant browser with 85.1%, leaving the reminder of 12.1% to other unnamed clients.
+
+
+Intel is making in-roads in the Android smartphone market with the first x86-powered device made by a major manufacturer, in this case Motorola. The 4.5 inch model is the Razr I and it runs on a single core Medfield 2 GHz chipset. The device is slated to launch in Western Europe and Latin America. ZTE has also announced an Intel-powered device, the ZTE Grand X IN, due to arrive this month.
+
+
+New Android version distribution numbers put Gingerbread at 58%, Ice Cream Sandwich at 21%, Froyo at 14%. Andy Rubin announced that Android reached half a billion activations to date with 1.3 million added every day.
+
+Irina

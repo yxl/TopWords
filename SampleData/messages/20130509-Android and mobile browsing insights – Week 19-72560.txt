@@ -1,0 +1,35 @@
+Subject: Android and mobile browsing insights – Week 19
+From: Irina Sandu <isandu@mozilla.com>
+Date: 05/09/2013 01:22 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+Highlights from the mobile world:
+
+
+2013 is the first year that people will buy more tablets than PCs. There will be 256 million tablets sold and 183 million PCs this year. By 2017 the number of tablets shipped will reach half a billion. This is part of a larger trend of sustaining big growth for tablets, at the rate of 67% year - over - year and a decline in PC shipments, by 10% a year. The install base of computers is about 2 billion, while tablets are around 200 million.
+
+
+New Android version distribution numbers put Gingerbread at 38.5%, Jelly Bean at 28.4% and Ice Cream Sandwich at 27.5%. 
+
+
+Shipments of smartphones in 8 major developed markets and China put Android ahead with 64.2% on average and 68.8% across the EU, 45.8% in Japan, 61.7% in Australia and 49.3% in the US. iOS is shipped on between 19.4% of devices in the EU to 49.2% of them in Japan. Top device models in the surveyed countries are the iPhone 5, the Samsung Galaxy S III, the iPhone 4S, the Galaxy S III Mini, the Galaxy Ace, iPhone 4, LG Nexus 4, Galaxy Ace 2, Galaxy s II and the Blackberry Curve. 
+
+
+Developer builds of Chrome OS feature a touch - screen keyboard. Important because it could mean plans to deploy the OS on tablets. 
+
+
+Google has hired a Chief Game Designer. Important because gaming is one of the top app categories downloaded through the Play Store and one of the most developed segments among 3-rd party applications. Google's possible entrance in that category will compete with the top contenders. Google competes asymmetrically with developers on Android by having its applications pre - installed. A possible reaction would be more interest towards platforms that do not have conflicts of interest with their ecosystem, like Firefox OS.
+
+
+
+The first two Tizen phones will be in the mid - end to high - end range and code - named Redwood and Melius. Important because  it looks like Tizen will not be a direct competitor to Firefox OS, at least in the beginning.
+
+
+
+Opera partnered with 7 Indian phone and tablet manufacturers such as Celkon, Karbonn, Lava, Intex, Fly, Zen and HCL ME to have Opera Mini pre - installed on their Android devices. Important because besides China, India is the other big market to have a significant number of minor hardware producers, who are more likely to install alternative browsers. Most of the worldwide OEMs are being pressured by Google to have Chrome on their devices.
+
+
+Irina
+

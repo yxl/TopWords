@@ -1,0 +1,57 @@
+Subject: Android and mobile browsing insights - Week 48
+From: Irina Sandu <isandu@mozilla.com>
+Date: 12/01/2011 01:38 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week in mobile:
+
+* Amazon answered to Congress on privacy in the Silk browser
+* Security and privacy constitute a rising concern on mobile
+* Panasonic to enter European and North American markets with Android-based smartphones
+* Yandex to be the default search engine in Windows Phone 7 devices in Russia
+* Windows Phone 7 devices to launch in China in 2012
+* Samsung's Cortex-A15 chips have been unveiled, to come to devices in Q2 next year
+* Telefonica started testing a mobile payment and ID card system based on NFC technology
+
+----------------
+
+
+Amazon has responded to Congressional questions around privacy issues with its Silk Web browser. The company stated that from the content routed through its servers Web addresses will be kept for 30 days and will not be associated with specific customers and that Web content will be cached, unless forbidden by the website. Amazon does not have plans to sell or rent the aggregated information on Internet browsing, but will use it internally. A representative of Congress  declared he is not satisfied with the answers and plans to follow up with additional questions.
+
+
+
+A hidden application called Carrier IQ which can detect, record and transmit user actions on a smartphone, has been discovered on an Android phone from Sprint. The discovery and the reaction of the producer of the software has created a wave of press reactions and concern around privacy issues in mobile. This comes amid a range of various security and privacy articles related to the industry in general, as well as the Android platform. 
+
+
+
+Panasonic, who has been selling phones on the Japanese market, is planning to enter European, North American and other Asian markets as soon as spring 2012, with devices running Android. 
+
+
+
+Yandex partnered with Microsoft to be the default search provider on a range of Windows Phone 7 devices sold in Russia, including Nokia, Samsung and HTC models. Yandex will also provide a number of other mobile features beyond search, adding support for Yandex.Maps, Yandex.Market and email services. The search provider has also made a deal with Samsung to be present in its Bada-powered smartphones and Smart TVs sold in the Commonwealth of Independent States.
+
+
+
+Windows Phone 7 devices are rumoured to be launching in 2012 in China through Chinese retail giant Suning, which owns over 700 stores across the country. 
+
+
+
+Samsung's implementation of the new Cortex-A15 architecture has been unveiled. The Exynos 5250 model will have two Cortex-A15 chips clocked at 2GHz, which are said to double the performance when compared to a 1.5 GHz dual-core Cortex-A9 SoC, and improve graphics performance up to 4 times, bringing the display resolution up to WQXGA (2560x1600). The new Samsung Exynos chip will be used in high-end tablets and will be mass produced sometime in the second quarter of next year.
+
+
+
+An overview of quad-core SoC technologies used by the 3 major chipset producers: Nvidia for the Tegra 3 series, Qualcomm for the APQ8064 SoC and Texas Instruments.
+
+
+
+Telefonica started testing a mobile payment and ID card system based on NFC technology, in collaboration with RIM. The product, called the Telefonica Wallet, will allow users to make payments, access offices and check bank statements from their Blackberry handsets. The network operator chose RIM as their partner because of the need to earn consumer trust to handle personal data, an area where Blackberrys are known to have an edge over other platforms. Telefonica aims to bring the system to a handful of markets in 2012.
+
+
+
+The archive for all weekly mobile insights: https://intranet.mozilla.org/Marketing/Insights/Mobile 
+
+
+Irina
+

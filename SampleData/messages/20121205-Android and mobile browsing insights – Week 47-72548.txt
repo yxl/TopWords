@@ -1,0 +1,31 @@
+Subject: Android and mobile browsing insights – Week 47
+From: Irina Sandu <isandu@mozilla.com>
+Date: 12/05/2012 11:40 PM
+To: mobile-insights@mozilla.com, mobile-frontend@mozilla.org, mobile-platform@mozilla.org, products@mozilla.com
+
+Hello,
+
+
+This week we have updated numbers for Android versions and Google Play optimizations for enterprise users. ZTE receives funding to expand further into the high-end and Western markets, while the Nokia Lumia line is attacking the emerging markets on both the low and the high end. France Telecom makes a significant investment and partnership with mobile security solution Lookout and tablets forecasts are looking better after series of launches (Windows, Nexus 7 and 10 and iPad Mini)
+
+
+
+New Android version distribution numbers put Gingerbread at over half the market (51%), Ice Cream Sandwich at 27.5%, Froyo at 10%, Jelly Bean at 7% with the others accounting for the rest of 4.5%.
+
+Android is targeting the enterprise market with improvements to the Play Store which allow companies to set up private app channels. This is only available for clients of Google Apps to make available mobile software only to their employees.
+
+
+ZTE, one of the two top Chinese mobile equipment and handset manufacturers has signed a five-year $20 billion financing agreement with China Development Bank. The money will be used to fund overseas projects, as the company is expanding its handset portfolio into the high-end to be able to penetrate the developed Western countries. In Q3 ZTE was the 5th largest smartphone manufacturer by shipments with 8 million units and 4.7% of the total market.
+
+
+The Nokia Lumia line has been expanding its portfolio for the emerging markets on both the low and high end with the 620 and 920 T models. The 620 is the Windows Phone 8 version of the 610, with increased specs to support the more demanding operating system. It will first be available in Asia-Pacific, the Middle East and Africa at $249 before taxes.  The 920 T is the adaptation of the existing high-end 920 model China Mobile's TD-SCMA standard. It will be available in the country by the end of the year and cost $739 without a contract.
+
+
+France Telecom, owner of Orange, has made an investment in Lookout, a mobile security solution.  The partnership includes bundling the app on Android devices it sells in France, Slovakia, Spain and the UK starting in early 2013. France Telecom has made investments in other mobile services, such as Deezer. The network operator declared interest in positioning itself closer to the issues of security and privacy existent in the mobile space. Awareness of mobile security is considered to be still emerging, but increasing over time by Lookout. A study by MIT  revealed that there is significant disconnect between many people's perception of the security and privacy of data on their smartphones, and the reality.
+
+
+Following quite an active second half of 2013 on the tablet market, IDC upped its shipment forecasts for the segment. Out of a total 122 million units sold through-out the year, the market research agency says that 54% run iOS and 43% Android, with almost 3% on Windows. For 2013, there will be 172 million units sold, a number to reach 283 million in 2016, when iOS is predicted to capture 49% of the market, Android 39% and Windows 10%.
+
+
+Irina
+

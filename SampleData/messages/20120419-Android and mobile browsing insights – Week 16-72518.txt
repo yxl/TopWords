@@ -1,0 +1,51 @@
+Subject: Android and mobile browsing insights – Week 16
+From: Irina Sandu <isandu@mozilla.com>
+Date: 04/19/2012 01:38 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+Before this week's mobile news, a note that I am in the Bay Area this week and the next, and my calendar is up-to-date.
+
+    Chrome for Android Beta has been updated
+    Version 8 of Dolphin HD has been launched
+    Samsung Galaxy S III rumoured to be revealed on the 3rd of May in London
+    Apple and Samsung meeting regarding potential settlement in patent litigations
+    First x86-based phone to launch this week
+    Windows 8 for ARM will be called Windows RT
+    Nokia issued a profit warning for Q1, quoted intense competition in string growth economies
+    Samsung might have overtaken Nokia in Q1 as biggest smartphone producer by volume
+
+
+Chrome for Android Beta has been updated and its availability has been expanded to all countries that have access to the Google Play store. New features include:
+
+    the User Agent string changed to
+        "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev> (KHTML, like Gecko) Chrome/<Chrome Rev> Mobile Safari/<Webkit Rev>" for phones and
+        "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>" for tablets
+    the ability to request the desktop version of a website, to add bookmarks as shortcuts to the home screen and to choose which apps to handle links opened in Chrome
+    complex text layout and right-to-left text
+    31 new languages
+
+
+The Dolphin HD browser has been updated to version 8 to include a new interface for Dolphin Sonar, the browser's voice control feature and redesigned menu bar, context menu and add-on bar.
+
+
+The next flagship Samsung Galaxy phone, probably the S III, will be unveiled on the 3rd of May in London. This comes after news that Samsung's latest release, the Samsung Galaxy Note series, has benefited from good sales. The phone is rumoured to have a quad-core processor, a ceramic case and a 1080p display. The launch in market is expected to occur in correlation with the London Olympic Games.
+
+
+The CEOs of Apple and Samsung have agreed to meet in San Francisco court for settlement talks regarding litigation around mobile patents. The 2 companies are involved in legal actions against each other in 9 countries, while in the same time maintaining a tight business relationship with regards to device manufacturing. Samsung is one of the main hardware producers for Apple's mobile products. If achieved, the settlement can ease some pressure off the patent-related restrictions the Android ecosystem has been affected by.
+
+
+The first x86-based phone is confirmed to launch later this week, according to Intel CEO Paul Otellini. The device is rumoured to be the Lenovo K800, running on an 1.6 GHz processor of Intel's Medfield line and targeted at the Chinese market.
+
+
+Windows 8 for ARM will be called Windows RT and will represent a different built of Windows 8 than the ones for x86 architecture, called Windows 8 Pro and Enterprise. The version will not be sold separately, but it will be pre-installed on machines with ARM-based CPUs. Developers will have to use the WinRT development environment to build apps for that version.
+
+
+Nokia issued a profit warning for the first quarter of 2012, marking the company's second in less than a year. The reason quoted is intense competition in fast-growing markets, particularly India, the Middle East, Africa and China, which represent the OEM's stronghold. The company does not expect any improvement of the situation in the second quarter of the year. Nokia is reported to be encountering market challenges in developed markets, as well, according to Reuters. The news venture reports that telecom operators in Europe have deemed the company's Lumia line as "not good enough to compete with Apple's iPhone or Samsung's Galaxy phones". In the US, the company announced the sale of more than 2 million Lumia devices in Q1.
+
+
+Early surveys on Q1 phone shipments expect Samsung to have overtaken Nokia, the biggest smartphone vendor by volume, marking the finish of a 14-year reign by the Finnish company.  Samsung's portfolio is heavily based on the Android platform, which is complemented by a series of Bada-based devices.
+
+Irina
+

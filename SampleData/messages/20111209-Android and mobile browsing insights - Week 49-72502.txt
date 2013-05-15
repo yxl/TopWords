@@ -1,0 +1,69 @@
+Subject: Android and mobile browsing insights - Week 49
+From: Irina Sandu <isandu@mozilla.com>
+Date: 12/09/2011 03:33 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile (this time formatted in Zimbra):
+
+* Android platform distribution: v2.3 at 50%, v2.2 at 35% and v2.1 at 10%
+
+* The web version of the Android Market has been updated with handset model and app version for reviews
+
+* Opera Mini will be included in MediaTek's runtime environment for "smart feature phones".
+
+* Opera joined an initiative coordinated by the European Commission to make the Internet safer for kids by focusing on age-appropriate privacy settings, wider use of content classification and parental control,
+* Dolphin Browser HD v 7.2 launched and gained a new add-on, called the Dolphin Companion
+
+* Class-action lawsuits in the US and further smartphone security analysis have emerged following the discovery of the Carrier IQ app on smartphones
+
+* Verizon will not integrate Google Wallet into the Galaxy Nexus, in favour of competitor mobile payments platform Isis
+
+* Flexible screens on mobile phones might be pioneered next year by Samsung
+
+
+-------
+
+Android platform distribution for the end of November puts Android 2.3 at 50%, v2.2 at 35% and v2.1 at 10%. These numbers point to a slow down in fragmentation of the Android ecosystem, but the new platform version, which starts shipping to consumers this week, will add a new layer of fragmentation.
+
+
+
+The web version of the Android Market has been updated with the listing of the handset model and version of the app next to a reviewer's name when they leave a comment or review on an application. This change is meant to simplify bug reproduction and confirmation for app developers.
+
+
+
+Opera partnered with MediaTek, the world's largest chipset platform provider, to include Opera Mini into MediaTek’s Runtime Environment (MRE). MRE is a middleware technology for mobile developers and application providers which helps them deploy services and content for "smart-feature-phones", mostly for emerging markets.
+
+
+
+Opera Software joined a pan-European coalition to improve the Web for the next generation of surfers. “A Better Place for Kids” is an initiative coordinated by the European Commission to make the Internet safer for kids by focusing on age-appropriate privacy settings, wider use of content classification and parental control, a system for single-click reporting on websites, and effective removal of child abuse material. It launched on the 1st of December 2011 and it also has support from Apple, Dailymotion, Deutsche Telekom, Facebook, France Telecom - Orange, Google, Microsoft, Netlog, Nintendo, Nokia,, Research In Motion, RTL Group, Samsung, , Telefonica, TeliaSonera and Vodafone, among others.
+
+
+
+Dolphin Browser HD v 7.2 launched in the Android Market. Changes in the new version include the ability to encrypt the browsing data saved on the SD card as the backup and the function of the Back button, which now exits the app.
+
+
+
+Mobotap released a new add-on for the Dolphin browser, called the Dolphin Companion, which extends battery life by optimizing power consumption depending on the user's needs.
+
+
+
+Mobile phone vendors and carriers such as Apple, Motorola, Sprint, AT&T, T-Mobile, HTC and Samsung have been sued by consumer groups following revelations of the install of the Carrier IQ app on smartphones by device manufacturers and network operators. The suit claims violations of several laws concerning electronic surveillance in the US. The producer of the Carrier IQ software has been sued as well. This development continues the series of analysis on smartphone security in the press, among others around the potential for smartphone botnets.
+
+
+
+Verizon will not integrate the Google Wallet into its next flagship Android device, the Galaxy Nexus, which started to ship to stores this week. The network operator will instead use a mobile payments platform called Isis, which was jointly developed with other carriers in the US, to leverage the NFC chips inside the smartphone and allow users to make payments.
+
+
+
+Flexible screens on mobile phones might be pioneered next year by Samsung.
+
+
+The archive for all weekly mobile insights: https://intranet.mozilla.org/Marketing/Insights/Mobile
+
+Irina
+
+
+

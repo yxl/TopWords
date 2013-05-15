@@ -1,0 +1,63 @@
+Subject: Android and mobile browsing insights – Week 42
+From: Irina Sandu <isandu@mozilla.com>
+Date: 10/24/2012 03:32 AM
+To: mobile-insights@mozilla.com, mobile-frontend@mozilla.org, mobile-platform@mozilla.org
+
+Hello,
+
+
+
+This week in mobile there are interesting developments in tablets, with Apple entering direct competition in the 7-inch segment with Google's Nexus 7 and Google rumoured to be doing the same in the 10-inch iPad dominated market. These are all good signs of increased competition for tablets. Could this mean a revival of the market?
+
+
+
+         7.9-inch iPad mini launched 
+
+         Nexus 10-inch tablet rumored to be revealed at Android event on the 29th of October
+
+         Chrome OS has been ported to ARM architecture
+
+         Nokia launching $199 entry-level Lumia smartphone aimed at emerging markets
+
+         Mobile phones to overtake PCs as most common Web access method in 2013, according to Gartner
+         Nearly 2 out of 3 smartphones shipped in H1 of 2012 were on Android, according to Vision Mobile
+
+
+
+
+Apple launched a mini 7.9-inch version of the iPad to be available at a $329 price point. The device will have the same resolution, so that all of the applications created for the bigger version will work with no optimization required. The iPad Mini is "like the iPad, but smaller", "great for reading your email, responding to your email, surfing the Web". Also "Great for magazines, books, HD phone calls". The launch signifies a shift in Apple's strategy who is now responding directly to competition after Google's successful introduction of a 7-inch Android tablet and the continuous erosion of iPad's marketshare. The expansion into the 7-inch screen size will drive increased sales for Apple in the tablet segment and is meant to slow down its decline in marketshare, from 54% of total tablet shipments in 2012. To what extent this will happen depends on the Android tablet line-up for the Christmas season, which is still to be announced and an important part of which is the Android event on the 29th of October. 
+
+
+
+
+Rumours about the up-coming Android event on the 29th of October abound and the most are mentioning the launch of a 10-inch tablet on a new version of the operating system code-named Key Lime Pie. There is also talk of a new smartphone produced by LG that will feature a 1.5 GHz Qualcomm Snapdragon processor on a 4.7-inch display. The 10-inch tablet launch would significantly increase competition from Android in the 10-inch segment, the only remaining area where Apple maintains a bigger share of the market than Google. With the release of the Nexus 7, Google proved that Android can offer a quality tablet experience and it is following it up with a release directly competing with the iPad in order to show that Android is now fully competitive with Apple on all screen sizes.
+
+
+
+
+
+An open source, ARM-powered version of the Chromebook has been released, opening the path for Chrome as a runtime on mobile devices. The device will also be available to order on the Google Play Store.
+
+
+
+
+Nokia has unveiled a $199 model in its Windows Lumia line to compete in the emerging markets in the entry-level smartphone segment. India and China are initial target markets, followed by other APAC and Latin America countries. The device signals the move of the Windows Phone offering into the low to middle-end and capitalizes on Nokia's significant brand awareness in emerging markets. This is Nokia's first modern smartphone offering to be accessible in high-growth countries. Current offering was the Asha series, which is based on Symbian and retails at $99.
+
+
+
+
+
+Gartner published a list of what it considers the top 10 strategic technology trends in 2013. The research agency expects that mobile phones will overtake PCs as the most common Web access device worldwide in 2013 and that by 2015 over 80% of the handsets sold in mature markets will be smartphones.
+
+
+
+
+Vision Mobile published an info-graphic on H1 of 2012 in mobile. Highlights include:
+
+    Nearly 2 out of every 3 smartphones shipped in H1 2012 were Android devices
+    Samsung is the lead OEM in overall handset and smartphone shipments, with Nokia on 2nd place in the handset business, but with most of their sales in the feature segment
+    Apple is on 3rd place by handsets shipped, followed by ZTE and LG
+
+
+
+Irina

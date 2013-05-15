@@ -1,0 +1,45 @@
+Subject: Android and mobile browsing insights - Week 8
+From: Irina Sandu <isandu@mozilla.com>
+Date: 02/23/2012 01:15 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+* Rumours on Jelly Bean launch next quarter not likely to be true
+* Tegra 3 devices coming out this quarter
+* Opera bought 2 mobile advertising agencies to focus on the US and European markets
+* Next version of OS X goes towards deeper integration with iOS and iCloud
+* RIM released BlackBerry Playbook OS 2
+* Ubuntu for Android was announced
+* Browsing patterns on mobile similar during the weekdays and the weekend
+* Kindle Fire accounted for 36% of tablet app sessions in Jan 2012, on par with the Samsung Galaxy Tab
+
+
+Rumours on a possible launch of the next version of Android, Jelly Bean, surfaced. A release so early after Ice Cream Sandwich is believed to be not beneficial to the ecosystem and thus not likely to happen.
+
+
+Nvidia confirmed that Tegra 3 devices will launch this quarter and Qualcomm offered a preview of their new 1.5 GHz dual-core Snapdragon S4, which performs impressively on benchmarks.
+
+
+Opera bought 2 mobile advertising agencies, Mobile Theory and 4th Screen Advertising. The acquisition is meant to enhance the company's monetization opportunities for the traffic flowing through its mobile browsers, Opera Mini and Opera Mobile, which together have 160 million monthly users and serve more than 100 billion page views each month. Opera also owns AdMarvel, an agency it acquired 2 years ago. Its 2 new acquisitions will focus on the US and European markets.
+
+
+The next version of OS X hints towards deeper integration and convergence of Apple's mobile and desktop platforms. New features such as a system-level notification center, a permission system for installing apps, a Sharing menu inside the browser and deeper iCloud integration make the new version of the OS resemble its mobile equivalent.
+
+
+RIM released a new version of Blackberry Playbook OS. Version 2 includes a lot of features that were notably missing in the first release, including a native email client, a unified inbox, built-in calendar and contacts applications. The BlackBerry Messenger, a key differentiating feature for the OS, is still missing from the Playbook version.
+
+
+Canonical announced Ubuntu for Android, a port of the operating system to run side-by-side with Android on a shared kernel. When in phone mode, the software looks and behaves like Android, and when connected to a dock, it switches to the Ubuntu environment. When connecting to a TV, the Ubuntu TV interface is activated. Canonical stated it is looking for hardware partners for this project.
+
+
+People tend to browse on their phone similar amounts of time during the week compared to the weekend, reveals Opera's latest State of the Mobile Web report. The variation between amount of unique users, page views and data transfer between weekdays and weekends, in 50 countries, as analyzed by Opera, does not surpass 10%. On the desktop, browsing declines by up to 22%.
+
+
+The Kindle Fire accounted for 36% of Android tablet applications sessions in January 2012, on par with the Samsung Galaxy Tab, according to analytics firm Flurry. Amazon's US tablet share rose from 3% in november 2011 to the current number. The other most used tablets by app usage are the Acer Transformer and the Acer Iconia Tab, each with 7%. Flurry Analytics also reported that US mobile consumers spend more time in apps than on the the Web in December 2011, with an average of 72 per day on the Web and 94 minutes per day in apps.
+
+Irina
+

@@ -1,0 +1,54 @@
+Subject: Android and mobile browsing insights - the Brazil edition
+From: Irina Sandu <isandu@mozilla.com>
+Date: 05/08/2012 01:20 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+Due to popular demand for Brazil mobile data, I figured I would circulate on this list some of the findings of a research project I conducted last year on the country's mobile and Internet landscape. The below are highlights from the report, which pertained to Brazil and 5 other emerging economies, and which you can find in its full length here:   https://intranet.mozilla.org/images/9/98/Emerging_Markets_Opportunities_-_v1.0.pdf
+
+
+I am also considering sharing some of this into a presentation / brown bag when I am on-site in the Bay Area in 2 weeks. I am flexible in focus, format and number of showings, so it would be helpful for me if you could send me (not to the full list) a note if you / people in your group are interested, so that I can organize. More, smaller group presentations are better, because they can be more focused and interactive, but either way should work.
+
+
+
+To the content:
+
+
+Low Internet penetration. Brazil, with less than 50% of Internet penetration among the population at the end of 2010, still presents a big opportunity for market development. Its current state and evolution is characterized by a lack of infrastructure, which is built out predominantly in the country's urban areas and provides poor access to the rest of the country. Challenges to development are Brazil's geography and population density distribution, which make it both physically difficult and expensive to cover the country with telecommunications infrastructure. 
+
+
+
+High cyber cafe usage. Little disposable income among the population has led to low PC penetration and the adoption of cybercafes for more than half of the country's Internet users. 
+
+
+
+High mobile penetration. At the end of 2010 Brazil had already reached over 100% mobile penetration, in the context of a fixed voice market maintaining flat or declining patters. This statistics correlated with the still developing infrastructure, is indicative of high rates of multi-device or dual-SIM device usage, rather than all of the population owning a mobile device. One of the main reasons for using and carrying around 2 or more mobile phones is the price sensitivity characteristic for the country's mobile subscribers. They tend to have more than 1 connection, or SIM card, in order to be able to take advantage of the most valuable rates, a practice that is sustained by an extremely competitive mobile network operator market. This market characteristic also translates into high demand for dual-SIM devices, which are not always readily available in carrier shops, as they try to increase customer fidelity. 
+
+
+
+Over 80% of mobile subscriptions are prepaid. Dominance of prepaid solutions is a characteristic which Brazil has in common with the other major emerging markets. 
+
+ 
+
+Android to dominate the smartphone market. The country's smartphone landscape has been shaped in previous years by the dominance of Nokia's Symbian-based devices, which was sharing the market with RIM, which was popular among teenagers due to its BBM service, and Windows Mobile. The worldwide emergence of Android has also taken hold of Brazil, where Google's operating system is expected to become the dominant smartphone platform, as the share of Symbian, BB OS and Windows Mobile declines. Along with Android, Apple's iOS is expected to also maintain a share of the market, and Samsung's Bada might also own a small % of it. 
+
+
+
+Extremely competitive network operator market.  The mobile market is divided between 4 major players - ViVo, TIM Brasil, Claro and Oi - each of them having approximately one quarter of the total number of subscribers. This marketshare distribution creates a very competitive mobile market, which is the result of a successful privatization and liberalization process of the government-owned incumbents. Not all major emerging economies have managed to replace the government-owned telecommunications incumbents with competitive privately-owned service providers.
+
+
+
+Governmental push for Internet adoption. Brazil's government is aware of the importance that Internet adoption has for the country's economical progress and Human Development Index and is aggressively initiating programmes and pushing for nationwide Internet adoption and digitization of public services. With the country being host of the FIFA World Cup in 2014 and the 2016 Olympics, the government has deployed a series of initiatives to improve broadband availability (which is low) and is organizing a LTE spectrum auction in 2012, with the aim of having the network built in the next 2 years. 
+
+
+
+Internet portals are among the biggest ISPsI. UOL, Terra and Globo.com all base their primary business on being a top Web destination and are also among the country's top ISPs. Additionally, the Internet Group, which is owned by Oi, a major network operator, is another important ISP.
+
+
+
+Vex is dominating the WiFi hotspot market. WiFi is reasonably well developed in Brazil, especially in the major urban centres. Sao Paulo-based Vex is the leading WiFi network operator in the country (and Latin America), with hotspots in airports, hotels, cafes, restaurants and other public places. 
+
+
+Irina
+

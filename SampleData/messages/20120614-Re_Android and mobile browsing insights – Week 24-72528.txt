@@ -1,0 +1,16 @@
+Subject: Re: Android and mobile browsing insights – Week 24
+From: Justin Lebar <justin.lebar@gmail.com>
+Date: 06/14/2012 01:24 AM
+To: Jeff Griffiths <jgriffiths@mozilla.com>
+CC: Irina Sandu <isandu@mozilla.com>, mobile-insights@mozilla.com
+
+> > Probably the biggest thing I've seen reported on social media about iOS6 is
+> > the dropping of Google Maps for the in-house Apple mapping solution, thereby
+> > stripping away a number of unique Google Maps features, including transit
+> > directions & streetview. IMO this is a major drop in functionality for iOS 6
+> > over previous versions and I wonder if it will slow adoption or push people
+> > to Android phones that already have a better mapping app.
+
+OTOH they added turn-by-turn driving directions.  I'd expect that more
+than makes up for the loss of transit directions and street view.
+

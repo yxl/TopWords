@@ -1,0 +1,80 @@
+Subject: Android and mobile browsing insights – Week 18
+From: Irina Sandu <isandu@mozilla.com>
+Date: 05/03/2012 12:07 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+    Opera released stats on Opera Mini and Mobile user behaviour 
+    Preliminary Q1 results place Samsung as top smartphone producer 
+    Kindle Fire estimated to account for over 50% of US Android-based tablet market
+    Rumours about a Facebook phone allegedly produced by HTC surfaced again
+    First Intel phone features 1.6 GHz Atom Z2460 single core CPU, 400 MHz PowerVR SGX 540 GPU, 1 GB of RAM
+    HTC rumoured to be planning manufacture of own set of ARM-based chipsets
+    RIM  unveiled developer alpha version of BB OS 10
+    Tizen version 1.0 was released in form of source code and SDK
+    Canonical rumoured to be planning Ubuntu-based mobile devices
+    Usage of TV white spectrum for wireless communications making progress in Cambridge, UK
+    The list of IP-related litigations between Apple and Samsung features 50 lawsuits in 10 countries
+
+
+
+Opera released results of a survey it conducted of usage behaviour of Opera Mini and Mobile browser users.  Details include:
+
+    Opera users are, according to the survey, a young and innovative crowd, at least compared to users of other browsers on mobile devices.
+
+    The Opera crowd also seems to be more educated than users of other browsers on the same platforms. “Opera users are 18% more likely than users of other browsers to be students/engaging in educational activities (and 6% more likely to be in education or employed
+
+    The breakdown shows significant distinctions in user habits between different countries and user groups. Users in the Philippines and Brazil are, e.g., the most active in social networking, while the Bangladeshi love to use their mobile phones as a gaming platform.
+
+    Opera users are eight percentage points more likely than average to spend more than an hour online in one session and 12 percentage points more likely than non-Opera users.” A whopping 75% of the surveyed persons say they use a mobile phone to surf on a daily basis.
+
+    In India, Indonesia and Pakistan, the mobile phone is the primary, and often only, way users access the internet, at 40%, 48% and 48%, respectively.
+
+The full white paper can be downloaded here
+
+
+
+Preliminary Q1 results of smartphone shipments are out and they place Samsung as the top producer with 44.5 million and 28% of the market, followed by Apple with 35.1 million and 22%, followed by Nokia with 11.9 million and 7% and RIM on the 4th place with 11.1 million and 7%. Total smartphone shipments for the quarter stood at 160 million. The best performer in the top 4 is Samsung, which rose by 5% compared to the same period last year and the worst performer is Nokia, who lost 5% of its marketshare year-over-year. Apple and RIM are trending down, each losing 2% since last Q1 quarter.
+
+
+
+ComScore released a report on the US tablet market which states that the Kindle Fire makes up over half of the Android tablet install base and occupies the top position, with the Samsung Galaxy Tab on the 2nd place with 15%. The report did not count Barnes & Noble's Android-based, app capable, colour screen devices as tablets, but put them in the eReader category. ComScore's stats also reveal that larger screen tablets have a higher level of content consumption, with 10-inch devices having a 39% higher consumption rate than 7-inch ones, and a 58% higher rate than 5-inch tablets.
+
+
+
+Rumours about a Facebook Android-based phone have surfaced again and they are consistent with the previous set of rumours from 2011, which claimed the company to be working with HTC to be producing said devices. Phones with strong Facebook integration have been produced before, mainly by HTC, among which are the HTC Salsa and HTC Chacha, featuring a QWERTY keyboard.
+
+
+
+Detailed specs of the first Intel phone are out and position the device at the upper end of the middle range: 1.6 GHz Atom Z2460 single core CPU paired with a 400 MHz PowerVR SGX 540 GPU, 1 GB of RAM, 1024x600 6 inch screen and Android 2.3. The phone is going to be sold in India for approx. $400. Reviews reveal the device to be on par with a decent middle-range Android phone with the exception of app compatibility. The phone includes software to translate native ARM binaries into x86, but the method can fail for certain applications.
+
+
+
+HTC, the second biggest Android phone producer by volume, is rumoured to be producing its own set of ARM-based processors. The hardware vendor is supposed to have partnered for this venture with ST-Ericsson, a global wireless platform and semiconductor supplier. This comes soon after another Android phone producer, Huawei, presented their own range of chipsets in February at Mobile World Congress, called K3V2.
+
+
+
+RIM unveiled the developer alpha of version 10 of its BlackBerry OS on a phone and a tablet prototype device. The presentation was still early-stage, so not all of the details were in their finalized state. Key features that were presented are sharing of files between mobile device and computer, its notifications mechanism and an improved virtual keyboard software.
+
+
+
+The 1.0 version of the Tizen platform was released, in form of the source code and SDK. For the first stable release, developers have included in the SDK a new browser-based simulator that supports Tizen APIs, together with IDE enhancements and performance improvements for the emulator tool.
+
+
+ 
+Ubuntu is rumoured to be talking with OEMs to manufacture Ubuntu-based mobile devices, which would be available in market in 2013. Canonical has already produced Ubuntu for Android, a dual-boot environment targeted at dual-core Android devices, which enables the phone to switch to the Ubuntu OS when connected to a large screen.
+
+
+
+Usage of TV white-space spectrum for wireless communications is making progress in the town of Cambridge in the UK, where a world-first city-wide white space network named Weightless has been deployed. It has been designed for connecting smart electricity meters and devices around the city and expands across 5 base stations. Usage of frequencies left empty by the switchover to digital television, the so-called white spaces, will expand the spectrum ranges available for wireless communications, and can be used particularly for local transmission, such as Machine2Machine connections as well as wide WLANs. Large scale implementations and adoption for this spectrum needs collaboration from regulating bodies and hardware manufacturers.
+
+
+
+An idea of the range and complexity of the Intellectual Property-related litigations that affect the mobile ecosystem at the moment can be gained by reviewing the list of the lawsuits between Apple and Samsung, which are as many as 50 and are filed across 10 countries. The 2 companies are meeting in San Francisco in May to discuss a potential settlement.
+
+
+Irina

@@ -1,0 +1,37 @@
+Subject: Android and mobile browsing insights – Week 44
+From: Irina Sandu <isandu@mozilla.com>
+Date: 11/15/2012 02:13 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org, products@mozilla.com
+
+Hello,
+
+
+This week, we talk about emerging trends in the OEM space: increasing penetration of PC makers in mobile devices, more influence of Asia-based vendors and a turn towards services as a means to diversify and stabilize their business. Also, Africa, as the 2nd biggest region and one of the most engaged with mobile devices. 
+
+
+Preliminary Q3 results for smartphone shipments are out. Samsung is on top with 56 million sales, followed by Apple (27 million), Huawei (16 million), Sony (8.8 million), ZTE (8 million), HTC (7.8 million), RIM (7.4) million, LG (7.2 million), Lenovo (7 million), Nokia (6.3 million). Biggest changes from Q2 are accounted for by Motorola, who is no longer in the top 10 and the entry of Lenovo.
+
+The numbers reflect 2 key trends: the increasing penetration of computer manufacturers in the mobile device market and the increasing influence of Asia-based OEMs in the top tiers of the industry.
+
+
+
+
+Another emerging trend on the OEM front is reflected in Nokia's announcement of its revamped maps and location services offering, branded Here. The Finnish company aimes at a horizontal roll-out across multiple smartphone platforms. The move is specific to OEMs who are seeing an increasingly volatile market and declines in results from solely focusing on building hardware and look at providing smartphone services to augment their bottom lines and diversify their potential.
+
+
+
+
+Q3 shipments see Android, the top smartphone platform, increase its distance from iOS. Gartner counted 122 million units and 72% of the market sold with Google's operating system on them and 23 million with Apple's. On 3rd place, with 8.9 million there is RIM, followed by Bada (developed by Samsung) with 5 million, Symbian with 4.4 million and Microsoft's platforms together with 4 million.
+
+
+
+New Android version distribution numbers from Google put Gingerbread at 54% of the market, Ice Cream Sandwich at 26%, Froyo at 12%, Eclair at 3%, Jelly Bean at 2.7% and Honeycomb at 2%. Jelly Bean adoption will accelerate during Q4 due to the holiday shopping season, which will also slow down Gingerbread's decline, as it is still shipped on new devices in the lower-end that constitute a significant portion of smartphones sold in emerging markets. In December, Gingerbread will have been in market for 2 years.
+
+
+
+Africa, the second-biggest mobile market region by subscriptions, is forecasted to reach the 750 million mark this quarter and 1 billion by 2015. The continent is seeing the highest growth rate for new subscriptions (17.5% year-over-year), compared to the 10.7% world average. Only Asia-Pacific tops Africa by this measurement, with Latin America on 3rd place, according to Informa Telecoms & Media.
+
+The Economist wrote a briefing on the high importance of mobile devices for inhabitants of Africa, explained in part by their vital role as (sometimes unique) long-distance communications venue and also mostly unique means of financial transfers.
+
+
+Irina

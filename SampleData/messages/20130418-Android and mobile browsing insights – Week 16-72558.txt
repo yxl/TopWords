@@ -1,0 +1,46 @@
+Subject: Android and mobile browsing insights – Week 16
+From: Irina Sandu <isandu@mozilla.com>
+Date: 04/18/2013 01:27 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+Highlights from the mobile world:
+
+
+Chrome Beta for Android was updated to feature fullscreen support, a view of the user's search terms in the Omnibox (location bar) and information with regards to how much data was saved through the data compression feature. Chrome for iOS was also updated with support for printing. 
+
+
+At the end of 2013 there will be 1.58 billion smartphones in use worldwide, according to The Yankee Group. Of those, 833 million will run Android, 357 million iOS, 158 million will be Blackberrys, 137 million will be on Symbian, 76 million on Windows Phone, and 20 million on other OSs. 
+
+
+
+Eric Schmidt quotes at Dive into Mobile:
+
+On Android: "320 operators, 160 countries, 700,000 apps in the Play Store and 1.5 million activations of Android every day. We'll cross a billion towards the end of the year. Android is the primary vehicle of smartphones - we'll quickly get to the $100 price point, which is the key for the next five billion people looking to get connected."
+
+On local content: "In the developing world, we're getting products launched with pre - loaded content in native languages."
+
+
+
+Hon Hai, the parent of Foxconn, who produces more than 40% of the world's consumer electronics and a significant share of smartphones, has signed a licensing agreement with Microsoft to address infringement issues created by Google's Android and Chrome operating systems. The manufacturer will pay royalties for those OEM clients that have not signed a deal with Microsoft. The Redmond company already has agreements with most of the big handset vendors, such as Samsung, HTC and LG.
+
+
+
+Amazon will be expanding the availability of its Android app store to nearly 200 countries, from the 7 where it was previously active. In the past the extension of the app store in new countries preceded launches of Kindle tablets. 
+
+
+
+The most lucrative app monetization method is represented by royalties from preloading of the app (with average revenue of $4,385 / app / month), followed by licensing fees from distributors, commissioned apps and subscriptions. Advertising and pay per download feature the lowest in Vision Mobile's developer survey on app economics. Among operating systems, iOS continues to lead the chart as most lucrative platform (average revenue of $1,880 / app / month), followed by Windows Phone and Android. 
+
+
+
+In the US, 4G and no - contract plans are fastest - rising motivators for purchase of a smartphone, according to a study by Google and Compete. 1 in 3 people select a phone first, then a carrier and 66% consider 2 or more phone models. 47% of purchasers look at 2 or more carriers (a 193% increase Year - over  - Year) and 1 in 3 purchasers have switched carriers. 
+
+
+
+Irina
+
+
+
+

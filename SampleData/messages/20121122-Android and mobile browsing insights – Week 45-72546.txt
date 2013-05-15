@@ -1,0 +1,33 @@
+Subject: Android and mobile browsing insights – Week 45
+From: Irina Sandu <isandu@mozilla.com>
+Date: 11/22/2012 02:52 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org, products@mozilla.com
+
+Hello,
+
+
+This week we've seen more details of Jolla, a Qt / HTML5 venture from Finland, new numbers from China, where rural, mobile-only Internet users are becoming a significant share of the Netizens, who are enabled by cheap Android phones, and platform segmentation of the 1.16 billion smartphones currently in use worldwide (Android first, iOS second, Symbian third).
+
+
+
+Jolla unveiled more of their MeeGo-based operating system, called Sailfish,  and announced a partnership with DNA, a Finnish operator. The user interface has a slick, clear, minimalist design and among the top features are advanced multi-tasking and app management tools and minimalization of screen real estate occupied by system indicators. Sailfish is being developed not just for mobile phones, but across the whole range of screen sizes, from TVs to cars, although initial focus is on phones. The operating system is based on the Mer project, also used by Tizen and the application development environment is based on Qt, QML and HTML5. The operating system will be also able to run Android apps, with support from Open Mobile and HTML5 support is provided by PhoneGap / Cordoba.
+
+Although small, Finland is described as one of the most innovative mobile markets. It has a mature industry that is a pioneer in providing advanced data services and one of the first to deploy a commercial LTE service, which now covers over half the population. DNA is the leading operator in terms of LTE coverage in the country.
+
+
+
+Analysis International, a Chinese research firm, reported that 90% of smartphones sold in the country in Q3 run on Google's operating system. Until Android's rise, the country was heavily penetrated by Nokia's platforms, particularly Symbian. The phenomenal success of Android in emerging markets such as China limits the opportunity for other operating systems to attract ex-Nokia users, that are used to a more limited smartphone environment.
+
+Also in China, mobile phones became the most common way for people to connect to the Internet with the biggest driver being new users coming online from rural areas. China numbers 538 million connected people, 388 million of which are mobile and 38% of those are mobile-only. This phenomenon is seen more on rural areas, where almost half of Internet users only get online on their phones, as opposed to 29% in the cities. The emergence of smartphones under 1,000 yuan ($157) is the main enabler for Internet penetration across China's villages. By the end of the year, the country will see 420 million mobile Internet users.
+
+
+
+Smartphone install base numbers at the end of Q3 put Android at 48% of the market with 559 million devices, iOS at 19% with 217 million, Symbian at 18% with 213 million, Blackberry at 9% with 109 million, bada at 2% with 24 million and Windows Phone at 1% with 17 million devices. Out of a total install base of 1.16 billion smartphones in use.
+
+Inside Android, Samsung sold the most phones in Q3, 42% of them, followed by Huawei with 13%, Sony with 7%, HTC, LG and Lenovo with 6% each. Cumulative Android shipments are expected to to exceed 1 billion in 2013.
+
+
+Irina
+
+
+

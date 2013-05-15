@@ -1,0 +1,51 @@
+Subject: Android and mobile browsing insights - Week 4
+From: Irina Sandu <isandu@mozilla.com>
+Date: 01/26/2012 02:23 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in  mobile:
+
+* Dolphin HD will come preloaded with add-ons, reveals new beta release
+
+* Sony Ericsson joins HTC and Motorola with low Q4 2011 results, but will revamp strategy as it becomes Sony
+
+* HTC to integrate IBM business solutions on devices in effort to consolidate on the enterprise market
+
+* Apple on path to 20% smartphone sales marketshare for 2011 after record Q4 2011 results
+
+* Quad-core 1.5 GHz devices on their way, by Samsung
+
+* Mobile payments rushing towards mainstream availability in the US and Europe
+
+* RIM has a new CEO, no strategic changes are planned
+
+
+--------
+
+
+Dolphin HD was updated to v7.3.1. beta, which adds by default 5 add-ons into the browser: Dolphin Comparison (battery usage optimization tool), Web to PDF, Dolphin Screen Cut (screenshot tool), Dolphin Translate and Shiny Shake Dolphin (theme switcher). The add-on pool for the browser also increased this week, with 2 additions: Skitch (webpage annotation and drawing tool) and Evernote.
+
+
+Sony Ericsson, the third largest Android phone producer, has announced a 16% drop in device shipments for Q4 of last year, joining HTC, the second largest Android OEM, and Motorola, in experiencing losses. For the next quarters, Sony Ericsson, which in the meantime became Sony, will likely see a revamped production of Android devices, likely to be optimized towards integration with Sony's other consumer technology products. Motorola, as well, will employ a different strategy in releasing Android devices, pending regulatory approval of its acquisition by Google.
+
+
+HTC made a partnership with IBM to integrate business-centric software from IBM on its upcoming phones, in an effort to capture the enterprise segment. Given the concerns on the security of mobile platforms and Android in particular, it is expected that mobile devices geared towards the business consumer will likely include significant optimizations to ensure security and privacy of data.
+
+
+Apple announced its earnings for Q4 of 2011, which surpassed all analyst estimates and produced record revenue for the company. In the quarter Apple sold 37 million iPhones, an increase of 128% year-over-year and 15 million iPads, which accounted for a 111% increase year-over-year. The iPhone produced 53% of total revenue, followed by the iPad with 20% and the Mac with 14%. The record results can be partly explained by the occurrence of the iPhone 4 launch and the holiday season in the same quarter, both events that trigger an increase in sales. Traditionally, Apple has released a new version of its phone in Q3 and this year's delay was visible not only in Q4 results, but also in Q3 sales, when Apple sold 17 million iPhone units and missed analyst expectations, for the first time in a long time. For the full year 2011, Apple is expected to reach a 20% worldwide smartphones sales marketshare, pending result announcements from other OEMs.
+
+
+The Samsung Galaxy III, presumably Samsung's next flagship device, is rumoured to feature a quad-core 1.5 GHz processor and Ice Cream Sandwich. The phone is expected to launch in April of 2012.
+
+
+\In Sweden, the four leading mobile phone companies have formed an alliance meant to bring a combined mobile wallet service to 97% of the country's subscribers by summer of this year. Using NFC technology, mobile payments efforts are rushing all over the world to mainstream, backed by mobile operators. The US, UK, Denmark, France and Germany are also countries where the main network operators have joined efforts to bring an inter-operable mobile payment solution to their subscribers. In the US, AT&T, Verizon and T-Mobile will launch the ISIS system in 2012 starting with Austin, Texas. Besides support from mobile operators, mobile payment platforms need collaboration from retailers in adapting their Point-of-Sale payment terminals.
+
+
+Thorsten Heins is RIM's  new CEO, who was promoted from the position on COO to replace co-CEOs Mike Lazaridis and Jim Balsillie. The new leader of the Canadian phone maker plans to steer the company in the same direction and has not announced major strategic changes. analysts and investors have not shown appreciation for this decision, as they are hoping for new measure that would turn-around the company's recent drops in sales marketshare and share prices.
+
+Irina
+
+

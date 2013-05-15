@@ -1,0 +1,29 @@
+Subject: Android and mobile browsing insights - Week 6
+From: Irina Sandu <isandu@mozilla.com>
+Date: 02/09/2012 02:31 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week we talk about yesterday's Chrome for Android beta release. Summary below, report with details on features, screenshots and SWOT attached or at: https://intranet.mozilla.org/images/a/a5/Chrome_for_Android_beta.pdf 
+
+
+Yesterday Google launched Chrome for Android beta, as a first step towards making Chrome the standard browser for Android version 4 and above. The release supports Ice Cream Sandwich, ARMv7-based devices, which currently make 1% of the Android install base and account for a 3 million addressable base. By the end of the year, with current system requirements, Chrome for Android will have an addressable base of 135 million devices, or 30% of Androids in use. 
+
+The browser is based on Chrome v16 and V8 v3.8 and has a multi-process architecture similar to the desktop version. It does not have plug-in support, and lack of Flash in particular has been the main negative reaction to its launch among a lot of positive ones. This is also the reason for most of its 1 to 2 star ratings in the Android Market. An Android Central poll asking "Is a lack of Flash support on the mobile browser a deal-breaker?" has 47% of Yes answers and 52% of No. Its UA String is: Mozilla/5.0 (Linux; U; Android 4.0.2; en-US; Galaxy Nexus Build/ICL53F) AppleWebKit/535.7 (KHTML, like Gecko) CrMo/16.0.912.75 Mobile Safari/535.7)
+
+Speed, simplicity and personal are its main user propositions, while tab management, user data sync, the Omnibox and its multi-process architecture are the main promoted features. For developers, Chrome comes with a remote debugging via USB feature and boasts Web standards compliance, extensive HTML5 support and hardware acceleration.
+
+For detailed feature presentation and list, please download report.
+
+Its positioning speaks to speed, personalization and extension of the desktop. Branding is persistent in the product on the New Tab page. Messaging tone is similar to Chrome on the desktop: friendly, light, easy-going, simple and straight to the point. Tagline is "Your Chrome, away from home."
+
+Additional Firefox - Chrome SWOT analysis can be found in the report. 
+
+Questions, comments welcome.
+
+Irina
+
+
+Attachments:
+Chrome for Android beta.pdf	394 KB

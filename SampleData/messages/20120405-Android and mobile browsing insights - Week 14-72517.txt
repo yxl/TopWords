@@ -1,0 +1,49 @@
+Subject: Android and mobile browsing insights - Week 14
+From: Irina Sandu <isandu@mozilla.com>
+Date: 04/05/2012 12:06 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+    64% of Androids run on Gingerbread, 23% on Froyo and 3% on Ice Cream Sandwich
+    Minor update to Ice Cream Sandwich has been pushed to the Android Open Source repository
+    Android has captured 50% of all smartphones in the US
+    Searches from smartphones and tablets combined will generate 25% of Google's paid search clicks in the US by the end of 2012
+    The European Commission began an antitrust investigation of Motorola Mobility with regards to mobile patents
+    The European Commission extended a cap on roaming fees for voice and SMS enacted price limits on roaming data fees
+    The Nokia Lumia 900, the flagship device for Windows Phone 7 for the US market, has had its first reviews
+    Nokia is rumoured to be planning to launch 2 new Linux-based low-end devices for the emerging markets
+    Opera released a privacy-conscious mobile campaign tracker solution
+
+
+Latest Android platform distribution, as reported by Google, puts v2.1 at 6% of the market, v2.2 at 23%, v 2.3 at 64%, v 3 at 3% and v 4 at 3%.
+
+
+A new minor update to Ice Cream Sandwich, to 4.0.4, has been announced to be pushed into the Android open source repository. Timing of deployments to users' handsets are not known, as they depend on several other players, such as OEMs and network operators.
+
+
+ComScore reports that Android has captured 50% of all smartphones owned in the US in February 2012. The market research agency estimates that there are now 52 million users of Android in the country. On second place is iOS, with 30% of the smartphone market and on third RIM with 13%.
+
+
+Searches from smartphones and tablets combined will generate 25% of Google's paid search clicks in the US by the end of 2012, according to a report on the state of mobile search advertising. Mobile is forecasted to represent a "massive driver of growth for Google over the next several years at least."
+
+
+The European Commission began an antitrust investigation of Motorola Mobility with regards to their use of standards-essential patents related to WiFi, H.264 and 3G wireless networking. Some of these patents are involved in litigations with Apple and Microsoft in Germany and theUS.
+
+
+The European Commission extended a cap on roaming fees for voice and SMS services that has been in place in the EU since 2007 and enacted price limits on mobile data fees paid while roaming. The package is intended to increase competition in the mobile industry at the EU-level. Starting with 2014, European consumers will be able to buy roaming service from any operator, not just the one they are using, whose price will be regulated, at a level which is yet to be announced by EU's regulating bodies. Under the package, the roaming cap for voice will fall to 19 euro cents/minute, SMS sending will have to be under 6 euro cents / message  and data while roaming will be capped at 20 euro cents / megabyte beginning with July 2014.
+
+
+The Nokia Lumia 900, the flagship device for Windows Phone 7 for the US market, has had its first reviews. The phones is being positioned in the country as an entry-level smartphone, a premium phone with an affordable price. The hardware, its screen and battery life were the aspects which were most praised by reviewers, and which have traditionally been strengths for Nokia-branded phones.  The overall design is considered to be a beautiful one, both on the hardware and software side. The aspects not so praised by reviewers were the browser, which scored worse than other native browsers on iOS and Android, as well as the ecosystem, which has failed to lift itself significantly off the ground since the first Windows Phone 7 launch. In the reviews it is noticeable the name for the platform as Windows Phone, without the "7", as it was previously usually named in the press.
+
+
+Nokia is rumoured to be planning to launch 2 new Linux-based low-end devices, similar to is MeeGo-based efforts, that will be targeted to emerging markets and will be the upgrade path from the S40 series. The company recently launched the Nokia Asha series for this target audience that run on the S40 Touch & Type platform.
+
+
+Opera has launched a tracker for the performance of mobile marketing campaigns that is privacy-friendly. The solution does not track personally identifiable information and has been built following growing concerns in the industry around consumer tracking on mobile.
+
+Irina
+

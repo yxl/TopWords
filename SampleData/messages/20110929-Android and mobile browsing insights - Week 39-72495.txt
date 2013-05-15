@@ -1,0 +1,80 @@
+Subject: Android and mobile browsing insights - Week 39
+From: Irina Sandu <isandu@mozilla.com>
+Date: 09/29/2011 10:28 PM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+Lots of developments this week, see below:
+
+* The next version of Android to launch on the 11th of October on a Samsung device; more details leaked
+* Samsung becomes the 2nd top Android device vendor to pay patent royalties to Microsoft over use of Android
+* Opera Mini had 128 million users in August, up 5% since July
+* Amazon launched Kindle Fire, an Android-based tablet, which includes a new proxy-browser called Silk
+* Google is rumoured to be preparing a stronger presence as a Mobile Virtual Network Operator in Europe
+* More leaks on Spartan, Facebook's HTML5 mobile application platform, surfaced
+* Tencent released a new mobile browser to leverage its newly-launched cloud storage service
+* iPhone 5 to feature deeper voice command integration 
+* The Linux Foundation, Intel and Samsung announced a new mobile platform called Tizen
+
+
+---------------
+
+
+Google and Samsung have announced an event on the 11th of October, where it is expected that they will launch the first device(s) with the next version of Android, Ice Cream Sandwich. Ahead of the announcement, a phone with a pre-launch version of the platform was accidentally sold on eBay and further details were exposed, such as the existence of 4 shortcuts on the bottom of the home screen instead of the 2 of previous versions, a dedicated menu icon for Google apps and a Honeycomb-style multitasking menu. - [1] & [2] 
+
+
+
+Samsung is the next Android OEM to make a cross-licensing deal with Microsoft over Android-related patents.  Microsoft will receive royalties for Samsung's mobile phones and tablets running Google's mobile platform, making it the 2nd top Android device vendor to have such a deal, after HTC entered a similar one last year. Google issued a statement in response, claiming that Microsoft's practices "extort profit from others' achievements and hinder the pace of innovation." The Redmond-based company answered that "these agreements [...] provide a clear path forward". This is part of wider challenges over patents that are characterizing the mobile world and the Android platform in particular. Google is also engaged in a patent lawsuit with Oracle over use of Java code in the Android kernel, while Samsung is in the middle of a patent war with Apple, which caused the sales ban of some of Samsung's tablets in several markets across the world and which sees Samsung taking a more aggressive stance and also suing to ban iPad sales. - [3] & [4] & [5] 
+
+
+
+Opera announced a deal with Vodafone Romania to offer a co-branded version of the Opera Mini mobile browser to the network operator's over 9 million subscribers in the country. The browser vendor released new stats on Opera Mini usage across the world: there were 128 million users of the proxy-browser in August, up 5% since the previous month, and they viewed 79.5 billion pages, up 7% since July. - [6] & [7]
+
+
+
+Amazon launched its long-awaited Android-based tablet, called the Kindle Fire. The device features a 7-inch 2-point multitouch LCD screen, a dual-core CPU and runs a custom UI on top of Android. With a low price point of $199, the Kindle Fire is built with focus on media consumption and it is fully integrated with Amazon's services to offer content in the form of books, magazines and news papers, video and applications, as well as wireless syncing and data cloud storage. The device also comes with a new browser, named Kindle Silk, which runs on the principle of proxy-browsing, where the web page is rendered on Amazon's EC2 server using Webkit technology and sent to the device in an optimized and smaller format to be displayed. The Kindle Fire is considered to become a challenger for the iPad, by offering a comprehensive media catalogue on a lower-priced device, however it will also depend on Amazon's ability to keep up with demand and innovation rate, as Apple is preparing to close 2011 with 40 million iPads sold and as Google is also competing towards improving the media offering on Android tablets. Along with the Fire, Amazon, also launched 3 new versions of its Kindle eReader. - [8] & [9]
+
+
+
+Google is rumoured to be testing its own SIM cards in Spain and preparing to launch its Google Voice service in Europe, thus making steps towards a stronger presence in the MVNO (Mobile Virtual Network Operator) market. Pictures of a Nexus S device supposedly working with a Google SIM card, with the "Google_Es" carrier branding, have surfaced. - [10] & [11] 
+
+
+
+Facebook leaked information on what it known as "Spartan", its rumoured HTML5 mobile application platform built with the objective of getting developers to use the social network as the distribution platform for games and other apps. The leaked screenshots show a Facebook app running on iOS which integrates Facebook events such as messages and notifications to 3rd-party apps. Images at the link. - [12]
+
+
+
+Tencent, a major Chinese Internet player, launched a new mobile proxy-browser named QQ, after its widely popular instant messaging client. The browser was launched at the same time with new cloud storage services, which it will integrate across the various mobile platforms that it will run on: iOS, Android and Symbian. - [13]
+
+
+
+Rumours about the features of the upcoming iPhone 5 have surfaced, which speak of a deeper voice command integration throughout the OS. The new Assistant feature will be tied in to various native applications and should make voice control of the device easier, whose hardware specs are expected to be: dual-core A5 processor, 1 GB of RAM and both GSM and CDMA support. - [14]
+
+
+The Linux Foundation in collaboration with Intel and Samsung announced the development of a new mobile platform, called Tizen, that will run HTML5-based applications. The OS will be open-sourced and should be ready to launch in the first quarter of 2012. Current Meego users and developers will be offered a transition path to the new platform. - [15] 
+
+
+The archive for all weekly mobile insights: https://intranet.mozilla.org/Marketing/Insights/Mobile 
+
+
+-----------------
+[1] - http://techcrunch.com/2011/09/28/google-and-samsung-announce-october-11-event-nexus-prime-imminent/
+[2] - http://www.engadget.com/2011/09/28/ice-cream-sandwich-gets-a-two-minute-tour-courtesy-of-a-lucky-e/
+[3] - http://www.microsoft.com/Presspass/press/2011/sep11/09-28SamsungPR.mspx
+[4] - http://blogs.technet.com/b/microsoft_on_the_issues/archive/2011/09/28/our-licensing-deal-with-samsung-how-ip-drives-innovation-and-collaboration.aspx
+[5] - http://techcrunch.com/2011/09/23/samsung-asks-to-ban-ipads-iphones-in-the-netherlands/
+[6] - http://www.opera.com/press/releases/2011/09/23/
+[7] - http://www.opera.com/smw/2011/08/
+[8] - http://amazonsilk.wordpress.com/2011/09/28/introducing-amazon-silk/
+[9] - http://techcrunch.com/2011/09/28/video-jeff-bezos-kindle-fire/
+[10] - http://phandroid.com/2011/09/22/google-branded-sim-cards-indicate-google-voice-more-than-just-a-compliment-to-existing-service-in-spain/
+[11] - http://thenextweb.com/google/2011/09/20/google-voice-currently-being-tested-in-europe-ahead-of-international-launch/
+[12] - http://techcrunch.com/2011/09/28/this-sure-looks-a-lot-like-facebooks-project-spartan-screenshots/
+[13] - http://www.zdnetasia.com/chinas-tencent-unveils-qq-mobile-browser-cloud-strategy-62302270.htm
+[14] - http://money.cnn.com/news/newsfeeds/gigaom/articles/apple_apples_next_iphone_is_all_ears.html
+[15] - http://techcrunch.com/2011/09/28/samsung-taps-intel-to-build-a-new-linux-based-open-source-platform-tizen/ 
+
+
+

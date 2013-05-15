@@ -1,0 +1,50 @@
+Subject: Android and mobile browsing insights – Week 5
+From: Irina Sandu <isandu@mozilla.com>
+Date: 02/13/2013 11:40 PM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+
+This week in mobile:
+
+
+
+Opera is moving to Webkit and V8, on the desktop and mobile. The transition will happen first on smartphones and be showcased at MWC by an implementation for Android, and desktop will follow later. Reason for switching is " The WebKit project now has the kind of standards support that we could only dream of when our work began. Instead of tying up resources duplicating what's already implemented in WebKit, we can focus on innovation to make a better browser." 
+
+
+Opera has a 1.75% share of overall Web traffic as counted by Net Applications and 9.8% on mobile through Opera Mini. StatsCounter puts Opera's share of mobile browsing at 15.3%. The Norwegian company announced that it had reached 300 million users. 229 million of them are on mobile and most of them use Opera Mini, with only 21 million on Opera Mobile. Geographic coverage is concentrated in the emerging and developing regions of Latin America, Asia and Africa, with a presence also in Eastern and Central Europe. 
+
+
+Important because it increases Webkit's monopoly over the mobile Web and reduces incentive for developers to consider other rendering engines when writing websites for mobile. Over the long - term, reduced variety at the platform level provides for a more centralized Web and a bigger barrier to entry for potential new-comers. The impact is substantially greater on mobile, forecasted at 10 billion connected devices by 2020, compared to the desktop (2 billion). 
+
+
+
+
+Opera founder sells shares, potentially clearing way for acquisition. The company is interesting for acquisition because of its large penetration in the emerging markets and existing proxy - browsing solution that still has a lot of market potential ahead. Last year the BRIC countries accounted for 22% of total global mobile revenue, up from 16% four years ago.
+
+
+
+
+The first Ubuntu phone might be coming in October, according to the Wall Street Journal, based on an interview of Mark Shuttleworth. The company is primarily targeting the business environment with the devices, as a way of leveraging the existing large base of Ubuntu environments. The main concern with this approach is the rising trend in the developed markets for business users to choose their own devices, which adds requirements in terms of  consumer appeal. 
+
+
+
+Skype introduced the ability of calling emergency numbers via the phone app. Requests are re-directed to the native Dialer tool.
+Important because the line between Skype and network operator services has shrunk even more. A likely outcome is more resistance from carriers to sell Windows Phone devices, a problem that has become familiar to the ecosystem. 
+
+
+
+Windows Phone is introducing carrier exclusive features. The ability to not download pictures in IE on Windows Phone and one that reports data consumption and compresses traffic have been made available only to Verizon customers. 
+
+
+Irina
+ 
+
+
+
+
+
+
+
+

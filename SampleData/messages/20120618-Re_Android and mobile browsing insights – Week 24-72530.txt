@@ -1,0 +1,60 @@
+Subject: Re: Android and mobile browsing insights – Week 24
+From: John Jensen <jjensen@mozilla.com>
+Date: 06/18/2012 10:48 PM
+To: Jeff Griffiths <jgriffiths@mozilla.com>
+CC: Irina Sandu <isandu@mozilla.com>, mobile-insights@mozilla.com, Justin Lebar <justin.lebar@gmail.com>
+
+Hi Jeff,
+
+FYI there is an interesting, market-based discussion about this issue here:
+http://www.cocoanetics.com/2012/06/public-transit-in-ios-6/
+
+The short summary is that Apple likely a) could not get the necessary data b) could use it, but didn't want to involve Google and so c) is just letting transit firms provide it themselves and trying to take a cut through the App Store.
+
+John
+
+----- Original Message -----
+> > From: "Jeff Griffiths" <jgriffiths@mozilla.com>
+> > To: "Justin Lebar" <justin.lebar@gmail.com>
+> > Cc: "Irina Sandu" <isandu@mozilla.com>, mobile-insights@mozilla.com
+> > Sent: Wednesday, June 13, 2012 10:33:33 AM
+> > Subject: Re: Android and mobile browsing insights – Week 24
+> > 
+> > On 12-06-13 10:24 AM, Justin Lebar wrote:
+>>> > >> Probably the biggest thing I've seen reported on social media
+>>> > >> about iOS6 is
+>>> > >> the dropping of Google Maps for the in-house Apple mapping
+>>> > >> solution, thereby
+>>> > >> stripping away a number of unique Google Maps features, including
+>>> > >> transit
+>>> > >> directions & streetview. IMO this is a major drop in functionality
+>>> > >> for iOS 6
+>>> > >> over previous versions and I wonder if it will slow adoption or
+>>> > >> push people
+>>> > >> to Android phones that already have a better mapping app.
+>> > >
+>> > > OTOH they added turn-by-turn driving directions.  I'd expect that
+>> > > more
+>> > > than makes up for the loss of transit directions and street view.
+> > 
+> > That depends on whether you drive a car or take the bus. I LOVE the
+> > nav
+> > features on Android the few times per year that I drive around an
+> > unfamiliar city, but I don't own a car and almost exclusively take
+> > transit in my own city. I wonder how typical I am, vs the people that
+> > live in the valley and commute to MV.
+> > 
+> > For people upgrading from an iPhone 3gs or 4, it might be tempting to
+> > go
+> > to Android where you get all of these features and don't have to
+> > choose.
+> > I think it's a big gamble on Apple's part wrt their core, young,
+> > urban
+> > market.
+> > 
+> > 
+> > 
+> > 
+
+-- John Jensen jjensen@mozilla.com Platform Product Strategist, Mozilla Corporation mobile: 604 218 0400
+

@@ -1,0 +1,25 @@
+Subject: Re: Android and mobile browsing insights – Week 24
+From: Jeff Griffiths <jgriffiths@mozilla.com>
+Date: 06/14/2012 01:13 AM
+To: Irina Sandu <isandu@mozilla.com>
+CC: mobile-insights@mozilla.com
+
+On 12-06-13 8:08 AM, Irina Sandu wrote:
+...
+> Version 6 of iOS has been announced
+> <http://www.theverge.com/2012/6/11/3077815/apple-announces-ios-6> by
+> Apple at its Worldwide Developers Conference, and has been made
+> available in beta to developers. New features include enhancements for
+> Siri, deeper integration of Facebook, cellular integration for video
+> chatting on FaceTime and a new provider for its Maps service. Safari has
+> also received improvements, which include iCloud tabs and an offline
+> reading mode. To better optimize the platform for its Chinese users,
+> Apple added added integration for Baidu (search), Sina Weibo (social),
+> Tudou and Youku (video-sharing) for devices sold in the country. The
+> Cupertino company also announced partnerships with car manufacturers to
+> integrate a new version of Siri into dashboards, which is optimized for
+> the car environment.
+
+Probably the biggest thing I've seen reported on social media about iOS6 is the dropping of Google Maps for the in-house Apple mapping solution, thereby stripping away a number of unique Google Maps features, including transit directions & streetview. IMO this is a major drop in functionality for iOS 6 over previous versions and I wonder if it will slow adoption or push people to Android phones that already have a better mapping app.
+
+Jeff

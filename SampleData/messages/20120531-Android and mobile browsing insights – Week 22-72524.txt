@@ -1,0 +1,39 @@
+Subject: Android and mobile browsing insights – Week 22
+From: Irina Sandu <isandu@mozilla.com>
+Date: 05/31/2012 01:53 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week in mobile:
+
+    Google's acquisition of Motorola Mobility has completed regulatory approvals
+    Rumours on a possible purchase of Opera Software by Facebook have surfaced, together with recurring ones on a possible Facebook phone
+    Google introduced subscriptions for its In-app billing monetization feature
+    The trial between Google and Oracle is ending in favour of Google
+    Mobile payments rising to $171 billion and 212 million users, fueled by SMS and Web-based transactions
+    20% of Web traffic in the US and Canada to come from smartphones and tablets, according to online advertising network
+    40% of Chinese Web surfers to be doing so mobile-only
+
+
+Google has completed the regulatory hurdles for the acquisition of Motorola Mobility, gaining the final approval needed in the process, which came from the Chinese authorities. A condition set for this go-ahead is that the operating system remains free and open source for the next 5 years. Details on future strategy and leadership of the new addition to Google's organization are not yet available, but rumours say part of the focus to be on tactics for increasing quality and growth rate of the Android tablet market which would include design and launch of flagship tablet models.
+
+
+Rumours are swirling about a possible purchase of Opera Software by Facebook. Besides its desktop, mobile, and embedded browsers, Opera also serves ~30b mobile ads per month via its advertising networks and operates a mobile application store with 30,000 apps. Most of Opera's mobile browser users are on its Mini version, which features proxy-browsing technology and is particularly popular in high-growth, emerging countries. Another set of rumours surrounding Facebook claim that the company is preparing to launch its own smartphone model, sometime in the next year and that for that purpose it has been recruiting extensively. Rumours regarding a Facebook phone have been resurfacing every few months.
+
+
+Google introduced subscriptions for its In-app billing app monetization feature. Developers can now sell monthly or annual auto-renewing subscriptions from inside the apps. Users get emails every time their subscription is renewed and they have a subscription management tool inside the My Apps section of the Play Store. 23 of the 24 top-grossing apps in Google Play use the In-app Billing feature, and the total revenue generated from in-app purchases exceeds revenue from traditional app purchases.
+
+
+The trial between Google and Oracle with regards to the use of Java technology inside Android is coming to a favourable end for Google, who was found to not be infringing on Oracle patents. The judge has yet to rule on the question of whether Java APIs can be copyrighted. The possibility of an appeal exists, and analysts predict that Oracle is likely to pursue this strategy.
+
+
+Mobile payment transactions have seen a year-over-year increase in value by 60% to $171 billion and in users by 32% to 212 million, according to research by Gartner. Main drivers for the industry are SMS, particularly in developing markets, and Web purchases, mostly in the more developed countries. By 2016 the market research company estimates that value and users will keep growing and will reach a volume of $617 billion and 448 million users. NFC technology is not yet a significant driver for mobile payments, but it is expected for its role to grow.
+
+
+A report from online advertising network Chitika reveals that 20% of Web traffic in the US and Canada comes from smartphone and tablets. The smaller screen mobile devices account for 14.6% of total traffic and tablets for the rest of 5.6%. The report also mentions that tablet and mobile phone Internet usage peak in the evening hours and that 95 percent of tablet Web traffic comes from an Apple device, compared to phones, where Apple’s share is 72 percent, compared to 26 percent for Android devices.
+
+
+The BBC wrote a briefing on the smartphone landscape in China, one of the most important mobile markets in terms of potential. Highlights include that 40% of people browsing the Web in the country do so only on their mobile phones and that in-app sales might be a better monetization method for that audience than on-purchase payments.
+
+Irina

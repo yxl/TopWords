@@ -1,0 +1,54 @@
+Subject: Android and mobile browsing insights - Week 40
+From: Irina Sandu <isandu@mozilla.com>
+Date: 10/06/2011 12:24 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week:
+
+
+* Android is approaching 1 million activations/day as it launches a new version next week and conquers even lower price points ($35 in India)
+* Opera extended its partnership with Safaricom, Kenya's leading network operator
+* The iPhone 4s was announced, featuring an updated CPU and camera and iCloud integration
+* PhoneGap was acquired by Adobe, who also launched a new suite of mobile applications
+* UC Web, a Chinese mobile browser, prepares to target the US market
+* Amazon is rumoured to be interested in acquiring WebOS
+* 3G turned 10 years old. Japan, its pioneer, has a 96% penetration rate 
+
+
+-------------
+
+
+A picture of the upcoming Nexus Prime was leaked, in anticipation of its launch next week, together with the next Android version, Ice Cream Sandwich. Emerged details are a 4.6 inch display, with 320 dpi and no hardware buttons. Around the same date, the OS is expected to reach the rate of 1 million new device activations a day, up from 550,000 in July. In the same time, the price point of Android devices is getting lower, with the Indian government announcing the launch of a $35 tablet running on Froyo. 
+
+
+
+45% of Android devices run on v2.2 (Froyo), 38% on v2.3 (Gingerbread) and 11% on v2.1(Eclair), say stats released by Google this week. 
+
+
+
+Opera extended its partnership with Safaricom, the leading mobile network operator in Kenya, which is partly owned by Vodafone and serves 17 million subscribers. The agreement concerns a co-branded version of Opera Mini which integrates Safaricom's Internet content services. Safaricom is also an important banking player in the country, where its service, M-PESA, represents an important payment system, in a country where bank accounts are scarce. 
+
+ 
+
+A new iPhone was released, the iPhone 4s. New hardware features include a dual-core 1 GHz A5 chip, a 8 MP camera and dual CDMA and GSM support, which live in a body built exactly like its predecessor. Software-wise, the new model comes with iOS5 and iCloud services, which allow for  wireless storing and synchronizing across multiple devices of content such as music, photos, apps, contacts, calendars and documents. A new feature of this iPhone is Siri, "an intelligent assistant", that responds to voice commands to interact with native apps, such as messaging, calendar and clock. The new iPhone will be available in 70 countries by the end of the year, with the first ones getting it on the 14th of October.  Press and analyst reactions to the launch were mixed, compared to previous Apple launches, with expectations of an iPhone 5 and LTE support not met. 
+
+
+
+Nitobi, the creator of PhoneGap, was bought by Adobe. The company will move the application development framework to the Apache Software Foundation, where it will be further developed under the name of Callback and remain in the open source domain. Adobe has declared long-term support for PhoneGap, which will also be backed by IBM. Adobe also announced the acquisition of Typekit and launched a new suite of mobile applications for content creators which include a new Web syncing and sharing service called Adobe Creative Cloud. 
+
+
+
+UC Web, a Chinese browser, announced that it will be targeting the US, after having acquired 64% of the mobile browsing marketshare in China. The UC Web browser is available on various platforms, including Android, iOS, BB OS, Symbian and JAVA-based platforms. Outside of China, UC Web claims to have over 20 million users and according to StatsCounter it has 20% of mobile page views in India.
+
+
+
+Amazon is rumoured to be interested in acquiring WebOS from HP. 
+
+
+
+The 3G technology turned 10 years old. It was first commercially launched by NTT DoCoMo, Japan's leading carrier, on the 1st of October 2001. Japan now has a 96% 3G penetration rate and no longer sells non-3G-equipped handsets.
+
+
+The archive for all weekly mobile insights: https://intranet.mozilla.org/Marketing/Insights/Mobile 

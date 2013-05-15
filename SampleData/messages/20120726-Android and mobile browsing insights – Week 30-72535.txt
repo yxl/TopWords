@@ -1,0 +1,40 @@
+Subject: Android and mobile browsing insights – Week 30
+From: Irina Sandu <isandu@mozilla.com>
+Date: 07/26/2012 02:57 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+Not a lot of news in mobile this time of year, but Q2 results are starting to come out. Note that this update will not happen next week on account of holidays and that I'll be in California between the 7th to the 18th of August, if you need me in person.
+
+
+
+    Apple posted their Q2 results to announce sales of 26 million iPhones and 17 million iPads, which produced a decline in share prices because analyst expectations were around 28 million units of iPhones sold, so a bit higher. This quarter represents a decline of Apple's marketshare as part of overall smartphone shipments to 16% from 26% in Q1, which is expected as part of the iPhone's annual release cycle, where sales decline in the quarter before the launch of a new version. Accounting for these kind of variations, the new results put iOS at 20% of smartphone shipments for the last 12 months, which represents a minor increase from the previous period. 
+
+
+    The main competitor for the iPhone is Samsung, which is putting pressure increasingly helped by advancements in Android on user experience and app offering. The latest model from the Korean manufacturer, the Galaxy S III has just reached 10 million units sold in under 2 months from release. Sales of the units are expected to continue at a high pace which is maintained by the intense marketing around the Olympics and Samsung's sponsorship thereof. In the same time, a new version for another popular model, the Galaxy Note, is rumoured to be preparing. 
+
+
+    After Samsung, the second most successful Android OEM is HTC, which is experiencing good sales of its latest HTC One series. It features devices from the high-end One X and One XL running on Nvidia's quad-core Tegra 3 chipsets covering all the way down to single core 1 GHz Snapdragon based models. HTC itself has seen declining profits in the latest quarters and when the numbers of the success of the One series come out we will know if they will be on an upward path again. Preliminary articles look good, but HTC is a company that has little buffer to fall back on, as opposed to Samsung, and a few bad quarters can be critical for them. One preemptive measure they took recently was to retreat from Brazil, a key emerging market. 
+
+
+
+    As smartphone platforms go, iOS is still on 3rd place per install base, with Android commanding 32% and Symbian 30%, out of a total of 1.2 billion units. Going forward, iOS is expected to maintain a stable marketshare around the 20% mark, with Android capturing the users that Symbian is very rapidly losing. 
+
+
+
+
+    There were 24.9 million tablets sold in Q2, 68% of which were iPads and 29.3% Androids, according to Strategy Analytics. Going forward, it is expected that the share of Apple's tablets will decline and make room for Android. Google's recent release of a tablet under the Nexus flagship brand should give further boost to Android-based tablets and if rumours that a version 2 of Amazon's tablet will launch soon are true, the segment should see even more growth.
+
+
+
+
+    Sino Market Research reported that Lenovo became the second-largest mobile brand in China, taking over Huawei and Nokia. In Q1, the company controlled 8.8% of China's total mobile market, when it was on 3rd place together with Huawei and in Q2 has grown to 11%. These small marketshare numbers for the top players of the significant market that is China point to a great degree of fragmentation, which needs to be tracked and well understood to be efficient in the country. 
+
+
+
+
+Irina
+
+

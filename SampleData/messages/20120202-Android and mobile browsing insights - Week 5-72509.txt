@@ -1,0 +1,66 @@
+Subject: Android and mobile browsing insights - Week 5
+From: Irina Sandu <isandu@mozilla.com>
+Date: 02/02/2012 02:18 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+
+* Android tablet sales reached 10.5 million units in Q4 of 2011 and accounted for 39% of global tablet market
+
+* 5 - 6 million Kindle Fire tablets were sold in Q4 2011, but not generating profits for Amazon
+
+* Apple might have become the top smartphone producer in Q4 2011, in close competition with Samsung
+
+* The European Commission opened a formal investigation into Samsung's use of its rights to essential 3G wireless patents 
+
+* ARM had very good results in Q4 2011, but facing increased competition from Intel 
+
+* Open WebOS 1.0 to be released in September
+
+* Nokia celebrated the sale of the 1.5 billionth Series 40 phone
+
+* A bill concerning the installation of monitoring software on mobile phones by carriers and OEMs has been proposed in the US
+
+
+
+-------------
+
+
+Android tablets sales tripled in Q4 of 2011 to 10.5 million units, compared to the same period last year, and accounted for 39% of global tablet shipments worldwide, leaving a share of 57% to the iPad, reveals a report by Strategy Analytics. Q4 numbers put total 2011 tablet sales at 66.9 million, a 260% increase on 2010. In 2012 it is expected that the segment will grow further, to 104 million units shipped, and the trend of Android capturing more marketshare at the expense of iOS will continue, bringing both platforms closer to a 45% part of the market for the whole year.
+
+
+Kindle Fire sales are estimated to have reached 5 - 6 million units in Q4 of 2011. Amazon's revenues for Q4 were lower than analyst estimates and profits declined, partly caused by the successful launch of the Kindle Fire tablet, which is sold by the company at a loss. Amazon's media sales for North America increased only by 8%, signaling a limited effect of the tablet's addition to the company's offering of consumption devices, and raising concerns over the long-term feasibility of Amazon's strategy to compensate selling the Kindle Fire at a loss and expecting to turn it profitable with media sales on the device.
+
+
+
+Apple might have become the top smartphone producer in Q4 2011, snatching the place from Samsung, who held it for Q3, and reverting to the position it held in Q2. There were 37 million iPhones shipped between October and December of last year and an estimated 36.5 million smartphones produced by Samsung. Due to the fact that the Korean company does not share the exact number of shipments in its reports and the small difference between Apple's reporting and analyst estimations, the top smartphone OEM for Q4 of last year cannot be clearly established.
+
+
+
+The European Commission opened a formal investigation into Samsung's use of its rights to essential 3G wireless patents that could have been used to "distort competition in European mobile device markets". The results of the investigation might affect current litigation between Samsung and Apple in various European courts concerning patent law and which could influence sales of iPads and Samsung Galaxy tablets across the EU.
+
+
+
+ARM announced very good results for Q4 of 2011, with profits raising by 45%. Its success is favoured by the continuous boom in shipments of smartphones and tablets across the world, a market which is only emerging and which buys royalties for the company's Cortex-A instruction set. For the next quarter ARM will likely see more technology companies buy licenses, as more of the desktop technology producers enter the mobile market, but it also faces stronger competition from Intel, who recently announced a partnership with Motorola.
+
+
+
+HP released the Enyo 2 JavaScript application framework in preparation for the launch of Open WebOS 1.0 under an open source license in September, preceded by a beta version in August.
+
+
+
+Nokia announced last week the sale of its 1.5 billionth Series 40 - based mobile phone. Considered a hybrid between a smartphone and feature phone platform, because of its support of touch screen, Web browsing and app support, the S40 embedded software platform is currently running on more than 700 million mobile phones across the world.
+
+
+
+A bill concerning the installation of monitoring software on mobile phones by carriers and OEMs has been proposed in the US, following the controversy around Carrier IQ, a software discovered on smartphones that had the ability to transmit all activity to a third-party. The proposed bill requires that consumers are notified about any monitoring software present on their devices and are asked for consent previous to collecting and transmitting information from the phones.
+
+
+Irina
+
+
+

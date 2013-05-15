@@ -1,0 +1,36 @@
+Subject: Android and mobile browsing insights – Week 4
+From: Irina Sandu <isandu@mozilla.com>
+Date: 02/07/2013 03:44 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+
+This week in mobile:
+
+
+New Android version distribution numbers put Gingerbread at 45.6%, Ice Cream Sandwich at 29%, JellyBean at 13.6% and Froyo at 8.1%.
+Leaked information points to the spring of 2013 as the release date for the next version of Android, Key Lime Pie. The date lines up with the Google I/O event on the 15 to 17th of March.
+Important because correlated with the Android version distribution data it suggests little potential for the Android fragmentation issue to be minimized. 
+
+
+
+Deutsche Telekom delayed indefinitely the launch of Joyn and Rich Communications Suite technologies. The network operator quotes stability issues with the messenger service. Other backers of Joyn in the country, Vodafone Germany and O2 Germany (owned by Telefonica) have not announced a firm date for wide availability of Joyn services, either,
+Important because it puts more doubt into the success of Joyn and RCS and more pressure on network operators to come up with viable technological solutions to compete with the OTT service providers. One option are Web technologies, such as WebRTC. A more detailed analysis on OTT and network operators by Fierce Wireless here.
+
+
+
+Q4 results of tablet shipments show 52.5 million units, as counted by IDC. Apple was the biggest producer, with 22.9 million and 43%, followed by Samsung with 7.9 million and 15.1% and Amazon with 6 million and 11.5%. The overall market grew 75.3% Year - over - Year.  For Q1 we can expect lower absolute shipment numbers, because Q4 is typically the biggest one due to the holiday season, but the market compared to last year's Q1 should be growing. 
+
+
+
+
+BlackBerry (ex - RIM), revealed BlackBerry 10 OS and 2 new devices, the Q10 and the Z10. One of the devices has the hardware BlackBerry keyboard, while the other one is full touch - screen. The new version of the OS makes use of gestures, a more natural way of operating hardware than taps, centralizes all of the updatable, personal information of the user (a concept similar to Windows Phone's home screen dashboard) and is able to switch between personas of the user, to cater to business users who might want to shut off those communications while at home. Press reviews of the new devices were mostly neutral.
+
+
+
+Irina
+
+
+
+

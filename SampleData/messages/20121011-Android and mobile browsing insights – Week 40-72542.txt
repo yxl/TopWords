@@ -1,0 +1,59 @@
+Subject: Android and mobile browsing insights – Week 40
+From: Irina Sandu <isandu@mozilla.com>
+Date: 10/11/2012 12:08 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+
+This week in mobile:
+
+    2012 stats: 38% of phones sold are under $39, average price of phones went up to $143, in 2013 more than 50% of all phones sold will be smart, 9% of all phones in use have dual-SIM support
+    Asia reached 1 billion Netizens, of which 794 million will be mobile users by the end of 2012
+    US Congressional report recommends away from business with Chinese network equipment manufacturers
+    LG rumored to be next Nexus OEM
+    Windows Phone 8 device line-up from Nokia and HTC expected to be available soon
+    Nokia introduced data compression app in App Store aimed at emerging markets
+    Amazon opened Japan as a market for app submissions
+
+
+
+
+
+2012 estimates for the handset market have been published by Tomi Ahonen. Highlights include:
+
+    11% of all handsets shipped this year will cost over $450 (premium smartphones), 13% are between $150 and $449 (mid-price smartphones), 17% between $80 and $149 (low-cost smartphones), 21% between $40 and $79 (feature phones) and 38% under $39 (ultra low-cost phones)
+    in 2012 there will be 1.75 billion phones sold that will generate revenues of 250 billion
+    the average price of a phone has gone up to $143, although the average price of feature phones went down to $40 and of smartphones also dropped to $289
+    the rise in average phone price is due to more smartphones being sold this year than last year, from 30% in 2011 to 41%
+    in 2013 we can expect that more than 50% of all phones sold globally will be smartphones
+    there are 5.5 billion phones in use, 1.2 billion of which are smartphones
+    9% of all phones in use have dual-SIM support, 23% have a touch screen, 25% have WiFi, 41% support 3G or faster, 79% have Bluetooth and 81% have cameras
+    install base for Android at the end of 2012 is estimated at 53% of smartphones, iOS at 20%, Symbian at 11%, followed by Blackberry with 8%, bada with 3% and Windows with 2%
+
+
+Asia has reached 1 billion Netizens, for many of which mobile is the primary mode of accessing the Internet, according to We are Social, a digital ad agency.
+
+    Asia has a 22% smartphone penetration and is home to more than 3 billion mobile subscriptions
+    there will be 794 million mobile Internet users in Asia by the end of 2012
+    18% of all Web traffic in Asia comes from mobile devices
+    in China, mobile Internet users (388 million) outnumber PC-based ones (380 million)
+
+
+A US Congressional report recommends that US businesses do not work with Chinese network equipment manufacturers, the biggest of which are Huawei and ZTE, due to potential influence of the Chinese government in the companies. The report focuses on networking equipment (towers and routers), not on handsets. The 2 organizations denounced the recommendations of the report. Huawei is the world's second-biggest maker of routers and ZTE is the 5th. In the smartphone market, ZTE ranked 5th biggest OEM by shipments in Q2 of 2012, according to IDC.
+
+
+Rumors point to LG as the OEM behind the next Android Nexus device, who would possibly share the launch with Motorola. Specs are believed to be a 1.5 GHz quad-core Qualcomm CPU, Adreno 320 GPU, 2 GB of RAM and a 4.7-inch screen that will run Jelly Bean. The device is expected in market for the winter holiday season, the biggest sales period in the phone business.
+
+
+2 new series of Windows Phone 8 devices, each with a high and a low-end unit, have been announced, from Nokia (Lumia 920 and 820) and from HTC (8X and 8S). They are expected to be available in Europe and the US ahead of the holiday season, with pre-orders beginning on the 21st of October, according to The Verge. Features of Windows Phone 8 are expected to be revealed on the 29th of October.
+
+
+Nokia introduced its Xpress App for the Lumia line in the Windows Phone Marketplace, an app that is aimed at reducing data usage and with it, costs. The app monitors data and bandwidth consumption, compresses data by up to 85% for browser sessions and allows users to download files to a SkyDrive account instead of on their devices. This is aimed at consumers in emerging  markets, that are particularly sensitive to data costs and also includes an instant translation service, which is a feature that is popular in these markets.
+
+
+Amazon announced that it now allows developers to submit apps for distribution through its Android app store in Japan. The company usually first opens its app store for new markets ahead of making its Kindle Fire line available.
+
+
+Irina
+

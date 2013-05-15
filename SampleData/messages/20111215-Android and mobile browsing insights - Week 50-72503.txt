@@ -1,0 +1,49 @@
+Subject: Android and mobile browsing insights - Week 50
+From: Irina Sandu <isandu@mozilla.com>
+Date: 12/15/2011 02:43 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week in mobile:
+
+* The Android Market reached 10 billion application downloads
+* EU regulators suspended review of the Motorola acquisition by Google to wait for more information on its potential of harming competition between Android OEMs
+* HP will keep maintaining WebOS and transfer it to an open source license
+* Sony Ericsson becomes Sony middle of 2012
+* Amazon partnered with a mobile payment services provider
+* Carrier IQ published clarifications of the behaviour of the app
+* The first Nokia WP7 device in the US will be the Nokia Lumia 710
+
+
+-----------
+
+The 10 billion mark for application downloads from the Android Market has been reached, with a growth rate of 1 billion per month. The Apple app store announced  the same mark in January 2011 and the last  known number is 18 billion app downloads reached in October 2011. 67% of the applications in the Android Market are free - the highest percentage of any major app store - compared to 27% in Apple's app store. 
+
+
+
+EU regulators of the acquisition of Motorola by Google have suspended the review in order to gather more information about the potential of the deal harming competition among Android OEMs. The initial deadline for the review from the EU officials is the 10th of January 2012, which may be affected by this development.  
+
+
+
+HP announced that it will keep maintaining WebOS and transfer it to an open source license. In order to accomplish that, HP will need to replace code portions that are licensed from other companies, such as Microsoft and Oracle. Plans to produce WebOS-based hardware were also revealed, most probably tablets. The future of the mobile platform is considered to depend now on how much interest it gathers from important or potential mobile players to provide a viable alternative to Android and WP7. 
+
+
+
+Sony Ericsson set the middle of 2012 as the time when the company will be known solely as Sony, in correlation to the smartphone producer becoming a wholly-owned subsidiary of Sony Corp., a move announced a short while ago. Android remains the mobile platform of choice for all of the company's smartphones.
+
+
+
+Amazon partnered with Bango, a mobile payment company, which provides carrier-billing and credit card transaction services. Given the lack of 3G support in Amazon's tablet, the Kindle Fire,  speculation on this announcement may point to possible future carrier-dependent devices from Amazon, such as smartphones. 
+
+
+
+Carrier IQ has been used on feature phones, smartphones, data modems and tablets, is one of the clarifications provided by the company behind the diagnostic tool involved in a growing privacy and security controversy in the mobile industry. The document, released this week, explains how the software is loaded on devices, what information is collected, how data gathered can be used by its customers and how it is protected. The producer of the software maintains that it has "no rights to the data that is gathered" and that implementation of app varies among its customers, which are typically network operators and OEMs. 
+
+
+
+Nokia's first Windows Phone 7 device to be sold in the US will be the Nokia Lumia 710 and it will be sold by T-Mobile starting with the 11th of January 2012. The device is targeting the lower-end range of smartphones, with a $49 price for the two-year contract. 
+
+
+Irina

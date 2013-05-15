@@ -1,0 +1,52 @@
+Subject: Android and mobile browsing insights - Week 13
+From: Irina Sandu <isandu@mozilla.com>
+Date: 03/29/2012 01:35 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+This week in mobile:
+
+
+    The Dolphin browser now has a Chrome extension to sync bookmarks
+    Opera released Opera Mini 7
+    Device updates to ICS are slow to be deployed
+    The Play Store has been introduced into the Google black navigation bar
+    Reports of Chome OS being tested on ARM architecture
+    Windows Phone app development encouraged with $24 million from Microsoft and Nokia
+    Nokia Lumia 900 to enter US market with mid-range pricing
+    LTE phone shipments to grow tenfold in 2012, account for 10% of smartphone shipments
+    Baidu search engine is rumoured to be introduced to iOS along Google
+    FTC calls for Do Not Track option for mobile apps
+
+
+The Dolphin browser launched their first Chrome extension - Dolphin bookmarks. It allows syncing of bookmarks from the mobile browser to Chrome through Dolphin Connect.
+
+
+Opera released an update to version 7 to Opera Mini for Android. The new browser added a Find in Page feature, support for Android Beam, now allows for more Speed Dial buttons than the previous 9 and boasts improved tab management and hardware acceleration - OpenGLES support. The release of version 7 for Android comes after a month of it being submitted to the Apple App Store. The company also announced 160 million users of Opera Mini.
+
+
+Updates to the latest Android version, released in December of 2012, are slow to be deployed. Android handset manufacturers have not upgraded the majority of their top-of-the line models to Ice Cream Sandwich in the first quarter of 2012, which is ending this week. According to Computer World's analysis, the top 3 vendors, Samsung, HTC and Sony have yet to roll out updates to a variety of devices for which they have confirmed updates and which are expected in Q2 or Q3 of this year. The article acknowledges that the delivery of updates is not solely dependent on device manufacturers, but that network operators can also delay the process. For a list of expected models to be updated, Computer World has made a list.
+
+
+Google has introduced a link to the Play Store into the black Google navigation bar present across the company's web properties. Placed between Maps and YouTube, the Google Play Store has a prominent 5th place when reading from left to right.
+
+
+A version of Chrome OS code-named "Daisy" is being tested on Exynos chipsets featuring ARM architecture, according to the Google Code issue tracker. There were also reports of a Tegra testing base, which might lead to the speculation that Google is preparing Chrome OS to work on a wider range of SoCs than the currently available Intel Atom series.
+
+
+Microsoft and Nokia are investing up to $24 million to facilitate growth of the apps ecosystem for the Windows Phone platform. The funding will go into a mobile apps development program at a university in Finland which starts in May 2012.
+
+
+The Nokia Lumia 900 has been priced at a $99 level with a two-year contract for the arrival to the US in April, further positioning the brand and the platform that it uses into the middle-range, and moving away from the highly competitive high-end area.
+
+
+LTE phone shipments are expected to grow tenfold in 2012 and reach 67 million units for the year, after scoring 6.8 million in 2011. The drivers for the technology are expected to be the US, Japan and South Korea. Out of the 650 million smartphones expected to sell in 2012, LTE-equipped ones will amount to 10%.
+
+
+There are rumours that Apple might integrate the Baidu search engine next to Google in iOS products sold in China. Neither Baidu or Apple has confirmed the news. The search engine has been already added in the Safari browser for the latest version of Mac OS X, Mountain Lion.
+
+
+The US Federal Trade Commission is calling for mobile app developers to provide an easy-to-use "Do Not Track" option by the end of the year. The move comes from a desire to better protect consumer privacy and after several app venors were caught accessing and using user information from their smartphones without their permission.
+
+Irina

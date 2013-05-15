@@ -1,0 +1,34 @@
+Subject: Android and mobile browsing insights – Week 43
+From: Irina Sandu <isandu@mozilla.com>
+Date: 11/01/2012 01:21 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org, products@mozilla.com
+
+Hello,
+
+
+This week we're focusing on the Windows (tablet and phone) and Android releases. In a nutshell, Windows launched a tablet and phone offering to luke-warm reviews and forecasts, while Google showcased flagship devices across the entire range that comfortably compete with iOS at a lower price point, making OEM competition inside Android even tougher. 
+
+
+Windows released its Surface tablet alongside version 8 of its operating system. The device is aimed at general consumers, with the enterprise version expected later. The release comes under the "personal" and "about you" positioning that started with Windows Phone and that reflects a shift in Microsoft's strategy "from personal computing to personalized computing". The main enabler for it are (cloud) services that come together with the operating system which make possible cross-platform syncing and communication of user data. The main use cases identified for the Surface are of a domestic entertainment system, backed up by the HDMI and USB ports, as well as personal productivity (emails, social media), reflected in the hardware keyboard accessory. Out of the tablet segment, the device resembles the most the shape and usability of a PC and its main audience seems to be owners of a home Windows PC who would replace it with a Surface tablet. 
+
+
+Reviews so far are reserved, mentioning that the new UX requires quite a steep learning curve and that performance and availability of apps are not impressive. Adoption forecast from Forrester predicts a short burst of sales after launch from early adopters and Windows enthusiasts, followed by a period of lag due to customer confusion caused by complexity of offering and significant change in usage patterns. OEMs are also expected to be reluctant to adopt Windows 8 as they wait to confirm the viability of the new platform as a tablet offering, also due to Windows Phone's relative slow adoption path.
+
+
+Windows also introduced version 8 of its Phone platform together with public availability of the developer SDK. The new version is a fully revamped technology that was built on the Windows NT kernel to ease porting of code from Windows 8. A key value proposition is optimizations to data usage management through tracking tools, proxy-browsing and a smarter detection of WiFi availability. Further, Windows Phone 8 introduces wallet and personal organizer tools to manage credit, debit, or store loyalty cards as well as ways of restricting access to phone functions for sharing use cases. Messaging for the platform keeps the personal and individual-centeric theme and focuses on the live tiles that make up the home screen to become the user's personal dashboard and the smart management of the user's different personas on social media platforms. Adoption of Windows Phone 8 is expected to be reserved, due a series of factors:  lack of upgrades for the existing Windows Phone 7 users, who can only get a 7.8 upgrade with limited functionality of version 8 features, lack of quality apps and exclusivity of key feature usage (Rooms) to Microsoft-owned services. In Q2, Windows Phone 7 and Mobile accounted for 5.4% of smartphone shipments. 
+
+
+The flagship device for Windows Phone 8 is the Nokia Lumia 920, which will launch soon in North American and European markets. Key features are a 4.5 screen, wireless charging, Nokia PureView camera technology and the company's maps and music services. Other OEMs to feature Windows Phone 8 devices are Samsung, HTC and Huawei. 
+
+
+
+
+Google announced 3 new Nexus devices that range across the whole spectrum of form factors ( 4, 7 and 10-inch) to have in market for the holiday season. They are accompanied by an update to Android to 4.2 which includes performance improvements and new features such as multiple user support (for tablets), wireless display sharing, swipe-based keyboard input method and photo-taking enhancements. The new version will come out on the new Nexus devices on the 13th of November and might be shipped to older models at a later date. 
+
+The release of a whole range of Nexus devices at one time is a premiere for Google and shows a more aggressive stance of Google to produce flagship / reference devices as the platform matures and can comfortably compete with its main rival.This move comes to the disadvantage to OEMs, which move into being more locked into complying with Google requirements if they want to take part in the Nexus honey-pot and try to unfairly compete with the platform vendor for their own device series. The competitive pricing of the Nexus models further adds to the race on price that is currently damaging OEMs' financial position. 
+
+
+Irina
+
+
+

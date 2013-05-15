@@ -1,0 +1,53 @@
+Subject: Android and mobile browsing insights - Week 38
+From: Irina Sandu <isandu@mozilla.com>
+Date: 09/22/2011 01:41 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+Summary for this week:
+
+
+* Opera acquired Handster, a mobile app store solution
+* Google is preparing for the Ice Cream Sandwich release 
+* Samsung and HTC are also concentrating on their own mobile platforms
+* Google Wallet, using NFC technology, launched
+* The first Windows Phone 7.5 updates to be rolled-out to consumers today
+ 
+---------------
+
+Opera has acquired Handster, a mobile app store solution company which offers a white label platform as well as a Handster-branded store. Opera already operates a mobile app store which is powered by Appia. In June Handster hosted 23,000 apps, with 2,500 added each month. The company also has relationships with major players in the mobile market, such as Ericsson, Huawei, LG, Alcatel-Lucent and MTS. - [1] 
+
+
+Google posted guidelines to help developers prepare their apps for the release of Ice Cream Sandwich, expected early November. The blog post explains differences in handling different screen sizes, as the new OS version will support both handsets and tablets. There also was a leak on the first device to feature the next version of Android, which will be made by Samsung. The device is reported to be featuring a dual-core CPU at 1.5 GHz, 1GB of RAM and a 4.6 inch screen.  The native browser is reported to have a redesigned logo, to have moved the tabs at the bottom of the screen and to be more  performant and responsive. - [2] & [3]  
+
+
+The top two Android phone producers, Samsung and HTC are reported to be also working on growing their own mobile operating systems. While Samsung is rumoured to be open-sourcing its Bada mobile OS in 2012 in order to accelerate platform growth, HTC has declared that it plans to develop its own mobile platform.  - [4] & [5] 
+
+
+Google Wallet launched, an app that uses the NFC chip in phones to process payments. The first implementation of Google Wallet will run on the Nexus S devices from Sprint and store Citi MasterCard credit cards and Google Prepaid Cards. Yesterday Visa also announced that it will join the venture. - [6] 
+
+
+The 7.5, "Mango", update for Windows Phone 7 is rumoured to begin rolling out to users on Vodafone's network starting today. These would be the first consumer devices to run the new version of the OS.  - [7] 
+
+
+RIM has announced low results for Q2 of this year and experienced falls in its stock price. There were 10.6 million Blackberry phones and 200,000 QNX tablets shipped last quarter and Blackberry took 4th place in terms of worldwide smartphone sales to end users for the period with 11.7% of marketshare, down from 2nd place (18.7%) which it occupied in the same quarter last year. RIM executives declared that the new lineup of Blackberry 7 devices and the Playbook 2.0 update coming this year will put the company in a good position for the holiday season and slow down the platform's falling in marketshare. - [8]
+
+
+The archive for all weekly mobile insights can be found at https://intranet.mozilla.org/Marketing/Insights/Mobile 
+
+--------------------
+
+[1] - http://www.opera.com/press/releases/2011/09/19/
+[2] - http://android-developers.blogspot.com/2011/09/preparing-for-handsets.html
+[3] - http://phandroid.com/2011/09/16/anonymous-4chan-user-posts-hands-on-time-with-the-samsung-nexus-prime/
+[4] - http://techcrunch.com/2011/09/20/samsung-to-make-bada-os-open-source-and-part-of-your-smart-tv/ &
+[5] - http://www.koreatimes.co.kr/www/news/tech/2011/09/133_95174.html 
+[6] - http://googlemobile.blogspot.com/2011/09/launching-google-wallet-on-sprint-and.html
+[7] - http://thenextweb.com/microsoft/2011/09/20/as-mangos-distribution-begins-questions-linger-from-nodo-fiasco/
+[8] - http://www.fiercewireless.com/story/blackberry-posts-drooping-revenues-ships-just-200000-playbooks/2011-09-15
+
+
+Irina
+
+

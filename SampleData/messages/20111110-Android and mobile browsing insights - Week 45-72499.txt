@@ -1,0 +1,71 @@
+Subject: Android and mobile browsing insights - Week 45
+From: Irina Sandu <isandu@mozilla.com>
+Date: 11/10/2011 12:37 AM
+To: mobile-insights@mozilla.com
+
+Hello,
+
+
+This week:
+
+* Samsung became the biggest smartphone vendor in Q3, followed by Apple, Nokia, HTC and RIM
+* 44% of all Android devices run on v2.3, with 41% on v2.2 and 11% on v 2.1, but Android fragmentation is a costly business
+* The next version of Google TV will run on Android
+* Adobe will stop working on Flash for mobile
+* Opera announced 131 million users for Opera Mini and released platform stats
+* Sony now fully owns Sony Ericsson, and new rumours of WebOS acquisition surface
+* Quad-core Tegra 3 phones are on their way
+
+
+-------------------
+
+
+First reports for Q3 results from smartphone manufacturers are out, and they position Samsung as the top vendor by shipments, having overtaken Apple, who was the leader in the previous quarter. Samsung's success produced record revenues for the company's smartphone division, in a quarter when the whole company's profits recorded a fall. With 23.6 million units sold, Samsung accounted for a 20% smartphone marketshare in Q3 and was followed by Apple with 15%, Nokia (14%), HTC (11%) and RIM (10%) on the 5th place.
+
+
+
+Apple has managed to sell 17.1 million iPhones in the quarter, 16% down from the previous one, which accounts for a marketshare drop from 19% in Q2 to 15%. The fall in numbers is not something very unusual for Apple, whose performance follows a yearly cycle and it is influenced by the release of the newest iPhone model. In the quarter following a release, Apple's phone sales experience the biggest growth of the year and then continue to fall every quarter until the next iPhone release. So despite lack of growth from Apple in Q3, the launch of the iPhone 4S in Q4 will add marketshare for the Cupertino company and will position the iPhone with a 17% to 18% piece of the market by the end of 2011.
+
+
+
+Nokia's smartphone sales were flat coming into Q3 with 16.8 million devices, which brought its marketshare down from 15% in Q2 to 14%. Analysts say that the company performed better than previously expected this quarter, largely due to a major price cut for its high-end devices, which boosted sales, but affected its revenues and generated overall losses. The company will begin selling its first Windows Phone 7 devices in a week in selected countries in Europe and Asia, whose success will largely influence Nokia's marketshare for Q4.
+
+
+ 
+At the start of November, 44% of all Android devices were running on v2.3 (Gingerbread), 41% on v2.2 (Froyo), 11% on v.2.1 (Eclair) and 2% on v3 (Honeycomb). Android platform fragmentation can be a very costly business. reveals a report by WDS Global, which estimated that in 2011 it cost US carriers up to $2 billion dollars. 
+
+
+
+Google announced that the next version of its TV platform, Google TV, will run on Honeycomb and that it will launch in 2012. The platform will come with the Android Market app, which will have 30 TV-optimized apps, as well as ~1 500 already existing ones which are compatible. Google's hardware partners for its TV platform are Samsung and Vizio, with more to be announced, one of whom can be the newly-acquired Motorola, which is an important player in the set-top box market.
+
+
+
+Adobe will stop working on future versions of their Flash player for mobile devices in favour of HTML5. They will continue to support only current versions for the Android and QNX platforms.  
+
+
+
+Opera released a new issue for its State of the Mobile Web report, which details Opera Mini's usage and analyzes the type of websites visited through the browser depending on the platform. In September, there were over 131 million Opera Mini users, a 2.6% increase form the August and a  84.2% growth year-over-year. Some of the report findings:
+
+* Across all platforms, the top 2 categories are: “Social networks & community” and “News & information”.
+* Android users are more likely than users of other platforms to visit education sites.
+* Android users are the most likely to view “Music, video and media” sites whereas iPhone users are least likely to view sites in that category.
+* Feature phone users are far and away the most likely to visit social-network and community sites on their handsets, with Android users being the least likely.
+
+
+
+Sony has acquired Ericsson's stake in the joint venture, a transaction expected to close in January 2012. Sony's CEO declared that this acquisition will enable the company to more easily offer a larger variety of screens - smartphones, tablets, laptops and TVs - that seamlessly connect with one another. Sony Ericsson was the world's 6th largest handset maker, focusing its smartphone production primarily on the Android platform and was the leader in exploring the gaming potential of the phone OS. The acquisition adds to the status of the Asia-Pacific region as a major mobile industry hub, governed by other top handset vendors such as Samsung, HTC, ZTE, Huawei. 
+
+
+
+More rumours about the acquisition of WebOS have surfaced, with the list of potential buyers including Amazon, RIM, Intel, IBM, and Oracle. 
+
+
+
+The first quad-core phone running a 1.5 GHz Nvidia Tegra 3 series processor has been leaked. The device is produced by HTC, its is called Edge and it is expected in the market early 2012.
+
+
+The archive for all weekly mobile insights: https://intranet.mozilla.org/Marketing/Insights/Mobile 
+
+
+Irina
+

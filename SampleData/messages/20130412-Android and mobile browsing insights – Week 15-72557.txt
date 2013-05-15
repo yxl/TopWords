@@ -1,0 +1,34 @@
+Subject: Android and mobile browsing insights – Week 15
+From: Irina Sandu <isandu@mozilla.com>
+Date: 04/12/2013 01:58 AM
+To: mobile-insights@mozilla.com, mobile-platform@mozilla.org, mobile-frontend@mozilla.org
+
+Hello,
+
+Highlights of the past weeks in mobile:
+
+
+Facebook Home was launched. An app that extends into a whole phone experience, similar to a launcher, but with deep social integration, the product will be pre - installed on the HTC First. It is also available to install on a limited number of high - end devices (HTC One X, Samsung Galaxy S III, Samsung Galaxy Note II). Analysts estimate that Facebook Home is available to 10 - 15% of the current Android install base and with added support for Android 4 and later it can have an addressable base of over 50% of Android. Facebook's current mobile user base was 29% on iOS and 38% on Android in December 2012, so analysts estimate that Home will be available to 20 - 25% of the current Facebook mobile user base and assuming Android v4 support it could reach 45 - 50%. 
+
+Important because  it represents a move to take over more of the user interactions on the device, limiting them for Google products, but also for the carriers. Facebook is a provider of communications services and has stated that it will be looking into integrating them into Home, thus taking more the shape of a "soft" carrier. 
+
+
+
+Microsoft, Nokia, and a number of top developers have filed a formal complaint to the European Union against Google's use of its apps in Android. The accusation is of using Android " as a deceptive way to build advantages for key Google apps in 70 percent of the smartphones shipped today". This comes at a time when the European Union is in the final stages of an inquiry into the search offering of the company. 
+
+Important because this relates to Google's ability to promote its core business - ads - on Android and is a reaction to the increasing control that the company exerts over Android. The recent unification of Android with Chrome and Apps under Sundar Pichai would facilitate further integration of Google properties with the operating system. A study shows that 70% of app usage on the device comes from pre - installed apps. 
+
+
+
+New version distribution numbers for Android put Gingerbread at 39.8%, Ice Cream Sandwich at 29.3% and Jelly Bean at 25%. Inside the Firefox for Android active install base Ice Cream Sandwich has the biggest share (36.1%), followed by Jelly Bean (335), and Gingerbread (22.4%). The next version of Android, Key Lime Pie, is expected to be unveiled at Google I/O in May.
+
+
+
+Today, an average US consumer spends 2 hours and 38 min a day on a phone or tablet, according to Flurry Analytics. 80% of the time is spent on apps and 20% (31 minutes) is spent on the Web. Games are the largest category in terms of time spent (32%), followed by Facebook with 18%. On iOS, the browser, Safari, comes on the third place, with 12%. 
+
+
+Irina
+
+
+
+
